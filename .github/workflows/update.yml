@@ -1,0 +1,14 @@
+name: Update
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    # container:
+    #   image: python:3
+    #   options: --cpus 1
+    steps:
+      - uses: actions/checkout@v4
+      - run: python main.py
+      - uses: stefanzweifel/git-auto-commit-action@v5
