@@ -8,6 +8,8 @@ jobs:
     # container:
     #   image: python:3
     #   options: --cpus 1
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - run: python main.py
