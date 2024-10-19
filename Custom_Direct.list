@@ -12,6 +12,7 @@ DOMAIN,alt5-mtalk.google.com
 DOMAIN,alt6-mtalk.google.com
 DOMAIN,alt7-mtalk.google.com
 DOMAIN,alt8-mtalk.google.com
+DOMAIN,amigacity.xyz
 DOMAIN,analytics.95516.com
 DOMAIN,analytics.strava.com
 DOMAIN,api.clasificadosrapidos.com
@@ -45,6 +46,7 @@ DOMAIN,evan.im
 DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
 DOMAIN,fairplay.l.qq.com
+DOMAIN,free.publictracker.xyz
 DOMAIN,image.maimn.com
 DOMAIN,img.bfzypic.com
 DOMAIN,img.ffzypic.com
@@ -93,7 +95,6 @@ DOMAIN,public.tracker.vraphim.com
 DOMAIN,pybittrack.retiolus.net
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
-DOMAIN,retracker.x2k.ru
 DOMAIN,retracker01-msk-virt.corbina.net
 DOMAIN,rewards.hypixel.net
 DOMAIN,router.asus.com
@@ -119,7 +120,6 @@ DOMAIN,taciturn-shadow.spb.ru
 DOMAIN,tiao.cjkypo.com
 DOMAIN,time.apple.com
 DOMAIN,tk.greedland.net
-DOMAIN,tk2v6.trackerservers.com
 DOMAIN,torrents.artixlinux.org
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abir.ga
@@ -135,9 +135,11 @@ DOMAIN,tracker.birkenwald.de
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt4g.com
+DOMAIN,tracker.ccp.ovh
 DOMAIN,tracker.cloudit.top
 DOMAIN,tracker.cyberia.is
 DOMAIN,tracker.darkness.services
+DOMAIN,tracker.ddunlimited.net
 DOMAIN,tracker.deadorbit.nl
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
@@ -172,6 +174,7 @@ DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.waaa.moe
+DOMAIN,tracker.xor.st
 DOMAIN,tracker.yemekyedim.com
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.bt.moack.co.kr
@@ -192,7 +195,6 @@ DOMAIN,vd.l.qq.com
 DOMAIN,vi.l.qq.com
 DOMAIN,vip.ffzyread.com
 DOMAIN,vip.imgffzy.com
-DOMAIN,wepzone.net
 DOMAIN,wmsjsteam.com
 DOMAIN,www.all4nothin.net
 DOMAIN,www.asusrouter.com
