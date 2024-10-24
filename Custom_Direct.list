@@ -115,19 +115,17 @@ DOMAIN,tiao.cjkypo.com
 DOMAIN,time.apple.com
 DOMAIN,tk.greedland.net
 DOMAIN,tk2v6.trackerservers.com
+DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrents.artixlinux.org
 DOMAIN,torrentsmd.com
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr1.aag.moe
-DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,trackarr.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker-zhuqiy.dgj055.icu
 DOMAIN,tracker.0x7c0.com
-DOMAIN,tracker.auctor.tv
 DOMAIN,tracker.birkenwald.de
-DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.ccp.ovh
@@ -165,7 +163,6 @@ DOMAIN,tracker.tamersunion.org
 DOMAIN,tracker.theoks.net
 DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
-DOMAIN,tracker.torrust-demo.com
 DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.xor.st
@@ -447,7 +444,7 @@ DOMAIN-SUFFIX,animetorrents.me
 DOMAIN-SUFFIX,anthelion.me
 DOMAIN-SUFFIX,apiurl.v1.mk
 DOMAIN-SUFFIX,app-measurement.com
-DOMAIN-SUFFIX,appinn.net
+DOMAIN-SUFFIX,appinn.com
 DOMAIN-SUFFIX,appsimg.com
 DOMAIN-SUFFIX,appvipshop.com
 DOMAIN-SUFFIX,asiancinema.me
@@ -467,6 +464,7 @@ DOMAIN-SUFFIX,baidupan.com
 DOMAIN-SUFFIX,baidupcs.com
 DOMAIN-SUFFIX,baidustatic.com
 DOMAIN-SUFFIX,baike.com
+DOMAIN-SUFFIX,bambulab.com
 DOMAIN-SUFFIX,baomitu.com
 DOMAIN-SUFFIX,bcebos.com
 DOMAIN-SUFFIX,bdimg.com
