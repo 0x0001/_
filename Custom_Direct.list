@@ -22,6 +22,7 @@ DOMAIN,asusrouter.com
 DOMAIN,bandito.byterunner.io
 DOMAIN,bdtj.tagtic.cn
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
+DOMAIN,bt.ktrackers.com
 DOMAIN,bt.okmp3.ru
 DOMAIN,bt.rer.lol
 DOMAIN,bvarf.tracker.sh
@@ -46,6 +47,7 @@ DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
 DOMAIN,fairplay.l.qq.com
 DOMAIN,free.publictracker.xyz
+DOMAIN,freedomalternative.com
 DOMAIN,image.maimn.com
 DOMAIN,img.bfzypic.com
 DOMAIN,img.ffzypic.com
@@ -90,6 +92,7 @@ DOMAIN,public.tracker.vraphim.com
 DOMAIN,pybittrack.retiolus.net
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
+DOMAIN,retracker.x2k.ru
 DOMAIN,retracker01-msk-virt.corbina.net
 DOMAIN,rewards.hypixel.net
 DOMAIN,router.asus.com
@@ -119,13 +122,14 @@ DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrents.artixlinux.org
 DOMAIN,torrentsmd.com
 DOMAIN,tr.burnabyhighstar.com
-DOMAIN,tr.kxmp.cf
 DOMAIN,tr1.aag.moe
 DOMAIN,trackarr.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker-zhuqiy.dgj055.icu
 DOMAIN,tracker.0x7c0.com
+DOMAIN,tracker.auctor.tv
 DOMAIN,tracker.birkenwald.de
+DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.ccp.ovh
@@ -136,6 +140,7 @@ DOMAIN,tracker.ddunlimited.net
 DOMAIN,tracker.deadorbit.nl
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
+DOMAIN,tracker.dump.cl
 DOMAIN,tracker.edkj.club
 DOMAIN,tracker.electro-torrent.pl
 DOMAIN,tracker.filemail.com
@@ -160,7 +165,6 @@ DOMAIN,tracker.skynetcloud.site
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
 DOMAIN,tracker.tamersunion.org
-DOMAIN,tracker.theoks.net
 DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.tryhackx.org
