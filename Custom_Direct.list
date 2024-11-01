@@ -83,6 +83,7 @@ DOMAIN,open.free-tracker.ga
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.cl
 DOMAIN,open.tracker.ink
+DOMAIN,open.u-p.pw
 DOMAIN,opentor.org
 DOMAIN,opentracker.io
 DOMAIN,origin-a.akamaihd.net
@@ -125,12 +126,10 @@ DOMAIN,tr.abir.ga
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr1.aag.moe
-DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,trackarr.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker-zhuqiy.dgj055.icu
 DOMAIN,tracker.0x7c0.com
-DOMAIN,tracker.auctor.tv
 DOMAIN,tracker.birkenwald.de
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.breizh.pm
@@ -153,9 +152,9 @@ DOMAIN,tracker.gigantino.net
 DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.ipfsscan.io
 DOMAIN,tracker.ipv6tracker.org
-DOMAIN,tracker.itscraftsoftware.my.id
 DOMAIN,tracker.jamesthebard.net
 DOMAIN,tracker.kuroy.me
+DOMAIN,tracker.leechshield.link
 DOMAIN,tracker.lilithraws.org
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.opentrackr.org
@@ -164,6 +163,7 @@ DOMAIN,tracker.peckservers.com
 DOMAIN,tracker.pmman.tech
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
+DOMAIN,tracker.skynetcloud.site
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
 DOMAIN,tracker.tamersunion.org
@@ -175,13 +175,13 @@ DOMAIN,tracker.vraphim.com
 DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.yemekyedim.com
 DOMAIN,tracker1.520.jp
-DOMAIN,tracker1.bt.moack.co.kr
 DOMAIN,tracker1.itzmx.com
 DOMAIN,tracker1.myporn.club
 DOMAIN,tracker2.dler.org
 DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.itzmx.com
 DOMAIN,tracker4.itzmx.com
+DOMAIN,tracker4.leechshield.link
 DOMAIN,trackers.mlsub.net
 DOMAIN,tracking.miui.com
 DOMAIN,ts.thefilehosting.com
@@ -192,6 +192,7 @@ DOMAIN,vd.l.qq.com
 DOMAIN,vi.l.qq.com
 DOMAIN,vip.ffzyread.com
 DOMAIN,vip.imgffzy.com
+DOMAIN,wepzone.net
 DOMAIN,wmsjsteam.com
 DOMAIN,www.all4nothin.net
 DOMAIN,www.asusrouter.com
