@@ -26,6 +26,7 @@ DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt.ktrackers.com
 DOMAIN,bt.okmp3.ru
 DOMAIN,bt.poletracker.org
+DOMAIN,bt.rer.lol
 DOMAIN,bt1.xxxxbt.cc
 DOMAIN,buny.uk
 DOMAIN,bvarf.tracker.sh
@@ -36,7 +37,6 @@ DOMAIN,concen.org
 DOMAIN,csgo.wmsj.cn
 DOMAIN,d40969.acod.regrucolo.ru
 DOMAIN,deo.shopeemobile.com
-DOMAIN,discord.heihachi.pw
 DOMAIN,dl.google.com
 DOMAIN,dl.l.google.com
 DOMAIN,dl.steam.clngaa.com
@@ -61,13 +61,12 @@ DOMAIN,img.kuaikanzy.net
 DOMAIN,img.liangzipic.com
 DOMAIN,init.ess.apple.com
 DOMAIN,instant.arubanetworks.com
-DOMAIN,ipv4.rer.lol
-DOMAIN,isk.richardsw.club
 DOMAIN,ismaarino.com
 DOMAIN,itunes.apple.com
 DOMAIN,jutone.com
 DOMAIN,kiryuu-test.mywaifu.best
 DOMAIN,lain.bgm.tv
+DOMAIN,leet-tracker.moe
 DOMAIN,livew.l.qq.com
 DOMAIN,log.mmstat.com
 DOMAIN,m3u8.255tv.tk
@@ -78,9 +77,7 @@ DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
 DOMAIN,mtalk.google.com
 DOMAIN,new-api.meiqia.com
-DOMAIN,ns-1.x-fins.com
 DOMAIN,ns1.monolithindustries.com
-DOMAIN,nyaa.tracker.wf
 DOMAIN,oasisauth.h3c.com
 DOMAIN,odd-hd.fr
 DOMAIN,ok.zuidapic.com
@@ -135,6 +132,8 @@ DOMAIN,tk.greedland.net
 DOMAIN,tk.leechshield.link
 DOMAIN,tk1.trackerservers.com
 DOMAIN,tk2v6.trackerservers.com
+DOMAIN,torrentsmd.com
+DOMAIN,tr.abir.ga
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
@@ -148,7 +147,6 @@ DOMAIN,tracker.0x7c0.com
 DOMAIN,tracker.beeimg.com
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bjut.jp
-DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.bz
@@ -160,6 +158,7 @@ DOMAIN,tracker.deadorbit.nl
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
 DOMAIN,tracker.dmcomic.org
+DOMAIN,tracker.dump.cl
 DOMAIN,tracker.edkj.club
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.fnix.net
@@ -177,7 +176,6 @@ DOMAIN,tracker.lintk.me
 DOMAIN,tracker.moeking.me
 DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
-DOMAIN,tracker.ololosh.space
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
 DOMAIN,tracker.peckservers.com
@@ -202,7 +200,6 @@ DOMAIN,tracker.yemekyedim.com
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.bt.moack.co.kr
 DOMAIN,tracker1.itzmx.com
-DOMAIN,tracker1.myporn.club
 DOMAIN,tracker2.dler.org
 DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.itzmx.com
@@ -222,6 +219,7 @@ DOMAIN,vip.ffzyread.com
 DOMAIN,vip.imgffzy.com
 DOMAIN,wepzone.net
 DOMAIN,wmsjsteam.com
+DOMAIN,www.all4nothin.net
 DOMAIN,www.asusrouter.com
 DOMAIN,www.genesis-sp.org
 DOMAIN,www.peckservers.com
@@ -775,6 +773,8 @@ DOMAIN-SUFFIX,jianshu.io
 DOMAIN-SUFFIX,jianshuapi.com
 DOMAIN-SUFFIX,jiasule.com
 DOMAIN-SUFFIX,jiathis.com
+DOMAIN-SUFFIX,jlc.com
+DOMAIN-SUFFIX,jlcpcb.com
 DOMAIN-SUFFIX,jmstatic.com
 DOMAIN-SUFFIX,jomodns.com
 DOMAIN-SUFFIX,joyhd.net
@@ -809,6 +809,7 @@ DOMAIN-SUFFIX,lanzou.com
 DOMAIN-SUFFIX,lanzoui.com
 DOMAIN-SUFFIX,lanzoux.com
 DOMAIN-SUFFIX,laomo.me
+DOMAIN-SUFFIX,lceda.cn
 DOMAIN-SUFFIX,le.com
 DOMAIN-SUFFIX,leaguehd.com
 DOMAIN-SUFFIX,lecloud.com
@@ -901,6 +902,7 @@ DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,orpheus.network
 DOMAIN-SUFFIX,osapublishing.org
 DOMAIN-SUFFIX,oschina.net
+DOMAIN-SUFFIX,oshwhub.com
 DOMAIN-SUFFIX,oup.com
 DOMAIN-SUFFIX,ourbits.club
 DOMAIN-SUFFIX,ourdvs.com
@@ -1029,6 +1031,7 @@ DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,suning.com
 DOMAIN-SUFFIX,synology.com
 DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
+DOMAIN-SUFFIX,szlcsc.com
 DOMAIN-SUFFIX,taihe.com
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,taobaocdn.com

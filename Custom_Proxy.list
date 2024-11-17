@@ -77,7 +77,6 @@ DOMAIN,steamuserimages-a.akamaihd.net
 DOMAIN,sydney.bing.com
 DOMAIN,voice.telephony.goog
 DOMAIN,www.bing.com
-DOMAIN-KEYWORD,-spotify-
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,abema
@@ -120,7 +119,6 @@ DOMAIN-KEYWORD,rthklive
 DOMAIN-KEYWORD,sci-hub
 DOMAIN-KEYWORD,skydrive
 DOMAIN-KEYWORD,spotify
-DOMAIN-KEYWORD,spotify.com
 DOMAIN-KEYWORD,telegram
 DOMAIN-KEYWORD,tiktok
 DOMAIN-KEYWORD,tiktokcdn
@@ -562,6 +560,7 @@ DOMAIN-SUFFIX,archiveofourown.org
 DOMAIN-SUFFIX,archives.gov
 DOMAIN-SUFFIX,archives.gov.tw
 DOMAIN-SUFFIX,arctosia.com
+DOMAIN-SUFFIX,arduino.cc
 DOMAIN-SUFFIX,area120.com
 DOMAIN-SUFFIX,areca-backup.org
 DOMAIN-SUFFIX,arena.taipei
@@ -5273,6 +5272,7 @@ DOMAIN-SUFFIX,pixnet.net
 DOMAIN-SUFFIX,pk.com
 DOMAIN-SUFFIX,pki.goog
 DOMAIN-SUFFIX,placemix.com
+DOMAIN-SUFFIX,platformio.org
 DOMAIN-SUFFIX,playartifact.com
 DOMAIN-SUFFIX,playboy.com
 DOMAIN-SUFFIX,playboyplus.com
