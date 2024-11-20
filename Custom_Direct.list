@@ -52,7 +52,6 @@ DOMAIN,explodie.org
 DOMAIN,fairplay.l.qq.com
 DOMAIN,finbytes.org
 DOMAIN,fleira.no
-DOMAIN,ftp.pet
 DOMAIN,highteahop.top
 DOMAIN,home.yxgz.club
 DOMAIN,image.maimn.com
@@ -69,6 +68,7 @@ DOMAIN,itunes.apple.com
 DOMAIN,jutone.com
 DOMAIN,kiryuu-test.mywaifu.best
 DOMAIN,lain.bgm.tv
+DOMAIN,leet-tracker.moe
 DOMAIN,livew.l.qq.com
 DOMAIN,log.mmstat.com
 DOMAIN,m3u8.255tv.tk
@@ -79,7 +79,6 @@ DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
 DOMAIN,mtalk.google.com
 DOMAIN,new-api.meiqia.com
-DOMAIN,ns-1.x-fins.com
 DOMAIN,ns1.monolithindustries.com
 DOMAIN,nyaa.tracker.wf
 DOMAIN,oasisauth.h3c.com
@@ -101,7 +100,6 @@ DOMAIN,p4p.arenabg.com
 DOMAIN,pf-cdn-content-prod.azureedge.net
 DOMAIN,public.tracker.vraphim.com
 DOMAIN,pybittrack.retiolus.net
-DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
 DOMAIN,retracker.spark-rostov.ru
 DOMAIN,retracker01-msk-virt.corbina.net
@@ -138,6 +136,7 @@ DOMAIN,tk.leechshield.link
 DOMAIN,tk1.trackerservers.com
 DOMAIN,tk2v6.trackerservers.com
 DOMAIN,torrentsmd.com
+DOMAIN,tr.abir.ga
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
@@ -148,7 +147,6 @@ DOMAIN,trackarr.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker-zhuqiy.dgj055.icu
 DOMAIN,tracker.0x7c0.com
-DOMAIN,tracker.beeimg.com
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bjut.jp
 DOMAIN,tracker.breizh.pm
@@ -157,12 +155,12 @@ DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.bz
 DOMAIN,tracker.cloudit.top
 DOMAIN,tracker.corpscorp.online
-DOMAIN,tracker.cyberia.is
 DOMAIN,tracker.darkness.services
 DOMAIN,tracker.deadorbit.nl
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
 DOMAIN,tracker.dmcomic.org
+DOMAIN,tracker.dump.cl
 DOMAIN,tracker.edkj.club
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.fnix.net
@@ -179,6 +177,7 @@ DOMAIN,tracker.lilithraws.org
 DOMAIN,tracker.lintk.me
 DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
+DOMAIN,tracker.ololosh.space
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
 DOMAIN,tracker.peckservers.com
@@ -193,9 +192,9 @@ DOMAIN,tracker.tamersunion.org
 DOMAIN,tracker.theoks.net
 DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
+DOMAIN,tracker.torrust-demo.com
 DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.vanitycore.co
-DOMAIN,tracker.vraphim.com
 DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.xiaoduola.xyz
 DOMAIN,tracker.yemekyedim.com
@@ -6781,8 +6780,6 @@ IP-CIDR,204.74.96.0/24,no-resolve
 IP-CIDR,205.185.194.0/24,no-resolve
 IP-CIDR,205.196.6.0/24,no-resolve
 IP-CIDR,205.204.96.0/19,no-resolve
-IP-CIDR,207.241.226.111/32,no-resolve
-IP-CIDR,207.241.231.226/32,no-resolve
 IP-CIDR,208.64.200.0/22,no-resolve
 IP-CIDR,208.78.164.0/22,no-resolve
 IP-CIDR,210.12.0.0/15,no-resolve
@@ -8163,7 +8160,6 @@ IP-CIDR,5.154.156.50/31,no-resolve
 IP-CIDR,5.154.156.54/31,no-resolve
 IP-CIDR,5.5.5.5/32,no-resolve
 IP-CIDR,52.130.0.0/15,no-resolve
-IP-CIDR,52.58.128.163/32,no-resolve
 IP-CIDR,52.80.0.0/14,no-resolve
 IP-CIDR,52.93.242.120/29,no-resolve
 IP-CIDR,52.93.242.128/25,no-resolve
