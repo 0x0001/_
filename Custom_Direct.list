@@ -24,6 +24,7 @@ DOMAIN,bandito.byterunner.io
 DOMAIN,bdtj.tagtic.cn
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt.ktrackers.com
+DOMAIN,bt.okmp3.ru
 DOMAIN,bt.poletracker.org
 DOMAIN,bt.rer.lol
 DOMAIN,bt1.xxxxbt.cc
@@ -85,7 +86,6 @@ DOMAIN,oasisauth.h3c.com
 DOMAIN,odd-hd.fr
 DOMAIN,ok.zuidapic.com
 DOMAIN,open.acgtracker.com
-DOMAIN,open.demonii.com
 DOMAIN,open.dstud.io
 DOMAIN,open.free-tracker.ga
 DOMAIN,open.stealth.si
@@ -136,7 +136,6 @@ DOMAIN,tk.greedland.net
 DOMAIN,tk.leechshield.link
 DOMAIN,tk1.trackerservers.com
 DOMAIN,tk2v6.trackerservers.com
-DOMAIN,torrentsmd.com
 DOMAIN,tr.abir.ga
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.kxmp.cf
@@ -150,13 +149,14 @@ DOMAIN,tracker-zhuqiy.dgj055.icu
 DOMAIN,tracker.0x7c0.com
 DOMAIN,tracker.beeimg.com
 DOMAIN,tracker.bittor.pw
-DOMAIN,tracker.bjut.jp
 DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.bz
 DOMAIN,tracker.cloudit.top
 DOMAIN,tracker.corpscorp.online
+DOMAIN,tracker.cyberia.is
+DOMAIN,tracker.darkness.services
 DOMAIN,tracker.deadorbit.nl
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
@@ -171,7 +171,6 @@ DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.ipfsscan.io
 DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.itscraftsoftware.my.id
-DOMAIN,tracker.jamesthebard.net
 DOMAIN,tracker.kmzs123.cf
 DOMAIN,tracker.kmzs123.cn
 DOMAIN,tracker.kmzs123.tk
@@ -185,7 +184,6 @@ DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.ololosh.space
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
-DOMAIN,tracker.peckservers.com
 DOMAIN,tracker.pmman.tech
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
@@ -206,12 +204,12 @@ DOMAIN,tracker.yemekyedim.com
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.bt.moack.co.kr
 DOMAIN,tracker1.itzmx.com
+DOMAIN,tracker1.myporn.club
 DOMAIN,tracker2.dler.org
 DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.itzmx.com
 DOMAIN,tracker4.itzmx.com
 DOMAIN,tracker810.xyz
-DOMAIN,trackers.mlsub.net
 DOMAIN,tracking.miui.com
 DOMAIN,ts.thefilehosting.com
 DOMAIN,ttk2.nbaonlineservice.com
@@ -227,7 +225,6 @@ DOMAIN,wmsjsteam.com
 DOMAIN,www.all4nothin.net
 DOMAIN,www.asusrouter.com
 DOMAIN,www.genesis-sp.org
-DOMAIN,www.peckservers.com
 DOMAIN,www.torrent.eu.org
 DOMAIN,www.torrentsnipe.info
 DOMAIN,www.wareztorrent.com
@@ -426,7 +423,6 @@ DOMAIN-SUFFIX,92.100.in-addr.arpa
 DOMAIN-SUFFIX,93.100.in-addr.arpa
 DOMAIN-SUFFIX,94.100.in-addr.arpa
 DOMAIN-SUFFIX,95.100.in-addr.arpa
-DOMAIN-SUFFIX,95504test.com
 DOMAIN-SUFFIX,96.100.in-addr.arpa
 DOMAIN-SUFFIX,97.100.in-addr.arpa
 DOMAIN-SUFFIX,98.100.in-addr.arpa
@@ -778,7 +774,6 @@ DOMAIN-SUFFIX,jianshu.io
 DOMAIN-SUFFIX,jianshuapi.com
 DOMAIN-SUFFIX,jiasule.com
 DOMAIN-SUFFIX,jiathis.com
-DOMAIN-SUFFIX,jlc.com
 DOMAIN-SUFFIX,jlcpcb.com
 DOMAIN-SUFFIX,jmstatic.com
 DOMAIN-SUFFIX,jomodns.com
@@ -814,7 +809,6 @@ DOMAIN-SUFFIX,lanzou.com
 DOMAIN-SUFFIX,lanzoui.com
 DOMAIN-SUFFIX,lanzoux.com
 DOMAIN-SUFFIX,laomo.me
-DOMAIN-SUFFIX,lceda.cn
 DOMAIN-SUFFIX,le.com
 DOMAIN-SUFFIX,leaguehd.com
 DOMAIN-SUFFIX,lecloud.com
@@ -906,7 +900,6 @@ DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,orpheus.network
 DOMAIN-SUFFIX,osapublishing.org
 DOMAIN-SUFFIX,oschina.net
-DOMAIN-SUFFIX,oshwhub.com
 DOMAIN-SUFFIX,oup.com
 DOMAIN-SUFFIX,ourbits.club
 DOMAIN-SUFFIX,ourdvs.com
@@ -1034,7 +1027,6 @@ DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,suning.com
 DOMAIN-SUFFIX,synology.com
-DOMAIN-SUFFIX,szlcsc.com
 DOMAIN-SUFFIX,taihe.com
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,taobaocdn.com
