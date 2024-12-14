@@ -21,6 +21,7 @@ DOMAIN,app.appsflyer.com
 DOMAIN,asusrouter.com
 DOMAIN,bandito.byterunner.io
 DOMAIN,bdtj.tagtic.cn
+DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt.ktrackers.com
 DOMAIN,bt.okmp3.ru
 DOMAIN,bt.poletracker.org
@@ -48,7 +49,6 @@ DOMAIN,explodie.org
 DOMAIN,fairplay.l.qq.com
 DOMAIN,finbytes.org
 DOMAIN,fleira.no
-DOMAIN,freedomalternative.com
 DOMAIN,highteahop.top
 DOMAIN,home.yxgz.club
 DOMAIN,image.maimn.com
@@ -60,6 +60,7 @@ DOMAIN,init.ess.apple.com
 DOMAIN,instant.arubanetworks.com
 DOMAIN,ipv4.rer.lol
 DOMAIN,ipv4announce.sktorrent.eu
+DOMAIN,isk.richardsw.club
 DOMAIN,ismaarino.com
 DOMAIN,itunes.apple.com
 DOMAIN,jutone.com
@@ -74,6 +75,7 @@ DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
 DOMAIN,mtalk.google.com
 DOMAIN,new-api.meiqia.com
+DOMAIN,ns-1.x-fins.com
 DOMAIN,ns1.monolithindustries.com
 DOMAIN,nyaa.tracker.wf
 DOMAIN,oasisauth.h3c.com
@@ -109,6 +111,7 @@ DOMAIN,setmeup.arubanetworks.com
 DOMAIN,share.hkg-fansub.info
 DOMAIN,shubt.net
 DOMAIN,smp-device-content.apple.com
+DOMAIN,sparkle.ghostchu-services.top
 DOMAIN,st.dl.bscstorage.net
 DOMAIN,st.dl.eccdnx.com
 DOMAIN,st.dl.pinyuncloud.com
@@ -130,7 +133,6 @@ DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr.zukizuki.org
 DOMAIN,tr1.aag.moe
-DOMAIN,tr2.trkb.ru
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,trackarr.org
 DOMAIN,tracker-udp.gbitt.info
@@ -182,7 +184,6 @@ DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrust-demo.com
 DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.vanitycore.co
-DOMAIN,tracker.vds.nz
 DOMAIN,tracker.vraphim.com
 DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.xiaoduola.xyz
@@ -256,9 +257,11 @@ DOMAIN-KEYWORD,o.lencr.org
 DOMAIN-KEYWORD,pkulaw
 DOMAIN-KEYWORD,push.apple.com
 DOMAIN-KEYWORD,qhimg
+DOMAIN-KEYWORD,quickconnect
 DOMAIN-KEYWORD,readcube
 DOMAIN-KEYWORD,sciencedirect
 DOMAIN-KEYWORD,ssl.apple.com
+DOMAIN-KEYWORD,synology
 DOMAIN-KEYWORD,thunder
 DOMAIN-KEYWORD,torrent
 DOMAIN-KEYWORD,tracker
@@ -463,6 +466,7 @@ DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,animebytes.tv
 DOMAIN-SUFFIX,animetorrents.me
 DOMAIN-SUFFIX,anthelion.me
+DOMAIN-SUFFIX,api.myip.com
 DOMAIN-SUFFIX,apiurl.v1.mk
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,appsimg.com
@@ -548,6 +552,9 @@ DOMAIN-SUFFIX,chaipip.com
 DOMAIN-SUFFIX,chaoxing.com
 DOMAIN-SUFFIX,chdbits.co
 DOMAIN-SUFFIX,che168.com
+DOMAIN-SUFFIX,checkip.dyndns.org
+DOMAIN-SUFFIX,checkip.synology.com
+DOMAIN-SUFFIX,checkipv6.dyndns.org
 DOMAIN-SUFFIX,chinacache.net
 DOMAIN-SUFFIX,chinaplay.store
 DOMAIN-SUFFIX,chinaso.com
@@ -729,6 +736,7 @@ DOMAIN-SUFFIX,iciba.com
 DOMAIN-SUFFIX,idqqimg.com
 DOMAIN-SUFFIX,ieee.org
 DOMAIN-SUFFIX,iesdouyin.com
+DOMAIN-SUFFIX,ifconfig.co
 DOMAIN-SUFFIX,ifeng.com
 DOMAIN-SUFFIX,ifengimg.com
 DOMAIN-SUFFIX,iflyink.com
@@ -740,6 +748,9 @@ DOMAIN-SUFFIX,images-amazon.com
 DOMAIN-SUFFIX,img4399.com
 DOMAIN-SUFFIX,immortalwrt.org
 DOMAIN-SUFFIX,infzm.com
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,ip6.seeip.org
+DOMAIN-SUFFIX,ipapi.co
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,iptorrents.com
@@ -834,6 +845,7 @@ DOMAIN-SUFFIX,meituan.net
 DOMAIN-SUFFIX,meitudata.com
 DOMAIN-SUFFIX,meitustat.com
 DOMAIN-SUFFIX,meizu.com
+DOMAIN-SUFFIX,members.3322.org
 DOMAIN-SUFFIX,mgtv.com
 DOMAIN-SUFFIX,mi-img.com
 DOMAIN-SUFFIX,mi.com
