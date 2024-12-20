@@ -29,12 +29,12 @@ DOMAIN,bt.rer.lol
 DOMAIN,bt1.xxxxbt.cc
 DOMAIN,buny.uk
 DOMAIN,cdn.jsdelivr.net
-DOMAIN,ch3oh.ru
 DOMAIN,clientservices.googleapis.com
 DOMAIN,concen.org
 DOMAIN,csgo.wmsj.cn
 DOMAIN,d40969.acod.regrucolo.ru
 DOMAIN,deo.shopeemobile.com
+DOMAIN,discord.heihachi.pw
 DOMAIN,dl.google.com
 DOMAIN,dl.l.google.com
 DOMAIN,dl.steam.clngaa.com
@@ -59,6 +59,7 @@ DOMAIN,init.ess.apple.com
 DOMAIN,instant.arubanetworks.com
 DOMAIN,ipv4.rer.lol
 DOMAIN,ipv4announce.sktorrent.eu
+DOMAIN,isk.richardsw.club
 DOMAIN,ismaarino.com
 DOMAIN,itunes.apple.com
 DOMAIN,jutone.com
@@ -74,7 +75,6 @@ DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
 DOMAIN,mtalk.google.com
 DOMAIN,new-api.meiqia.com
-DOMAIN,ns-1.x-fins.com
 DOMAIN,ns1.monolithindustries.com
 DOMAIN,nyaa.tracker.wf
 DOMAIN,oasisauth.h3c.com
@@ -83,6 +83,7 @@ DOMAIN,ok.zuidapic.com
 DOMAIN,open.acgtracker.com
 DOMAIN,open.demonii.com
 DOMAIN,open.dstud.io
+DOMAIN,open.free-tracker.ga
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.ink
 DOMAIN,open.trackerlist.xyz
@@ -97,8 +98,8 @@ DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
 DOMAIN,retracker.spark-rostov.ru
 DOMAIN,retracker.x2k.ru
-DOMAIN,retracker01-msk-virt.corbina.net
 DOMAIN,rewards.hypixel.net
+DOMAIN,rfc5746.mywaifu.best
 DOMAIN,router.asus.com
 DOMAIN,rt.tace.ru
 DOMAIN,sdk.alibaba.com.ailbaba.me
@@ -127,12 +128,11 @@ DOMAIN,tiao.cjkypo.com
 DOMAIN,time.apple.com
 DOMAIN,tk.greedland.net
 DOMAIN,torrentsmd.com
-DOMAIN,tr.abir.ga
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
+DOMAIN,tr.zukizuki.org
 DOMAIN,tr1.aag.moe
-DOMAIN,tr2.trkb.ru
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,trackarr.org
 DOMAIN,tracker-udp.gbitt.info
@@ -170,6 +170,7 @@ DOMAIN,tracker.lintk.me
 DOMAIN,tracker.moeking.me
 DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
+DOMAIN,tracker.ololosh.space
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
 DOMAIN,tracker.pmman.tech
@@ -185,6 +186,7 @@ DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrust-demo.com
 DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.vanitycore.co
+DOMAIN,tracker.vraphim.com
 DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.xiaoduola.xyz
 DOMAIN,tracker.yemekyedim.com
@@ -203,6 +205,7 @@ DOMAIN,ts.thefilehosting.com
 DOMAIN,ttk2.nbaonlineservice.com
 DOMAIN,u4.trakx.crim.ist
 DOMAIN,u6.trakx.crim.ist
+DOMAIN,udp.tracker.projectk.org
 DOMAIN,update.googleapis.com
 DOMAIN,vd.l.qq.com
 DOMAIN,vi.l.qq.com
