@@ -36,7 +36,6 @@ DOMAIN,cq.kmzs123.cn
 DOMAIN,csgo.wmsj.cn
 DOMAIN,d40969.acod.regrucolo.ru
 DOMAIN,deo.shopeemobile.com
-DOMAIN,discord.heihachi.pw
 DOMAIN,dl.google.com
 DOMAIN,dl.l.google.com
 DOMAIN,dl.steam.clngaa.com
@@ -50,6 +49,7 @@ DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
 DOMAIN,fairplay.l.qq.com
 DOMAIN,finbytes.org
+DOMAIN,freedomalternative.com
 DOMAIN,highteahop.top
 DOMAIN,home.yxgz.club
 DOMAIN,image.maimn.com
@@ -71,12 +71,10 @@ DOMAIN,log.mmstat.com
 DOMAIN,m3u8.255tv.tk
 DOMAIN,m3u8.mstopq.com
 DOMAIN,martin-gebhardt.eu
-DOMAIN,mathkangaroo.jp
 DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
 DOMAIN,mtalk.google.com
 DOMAIN,new-api.meiqia.com
-DOMAIN,ns-1.x-fins.com
 DOMAIN,ns1.monolithindustries.com
 DOMAIN,nyaa.tracker.wf
 DOMAIN,oasisauth.h3c.com
@@ -129,15 +127,12 @@ DOMAIN,time.apple.com
 DOMAIN,tk.greedland.net
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentsmd.com
-DOMAIN,tr.abir.ga
-DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.movian.eu
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr.zukizuki.org
 DOMAIN,tr1.aag.moe
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,trackarr.org
-DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker-zhuqiy.dgj055.icu
 DOMAIN,tracker.0x7c0.com
 DOMAIN,tracker.beeimg.com
@@ -156,6 +151,7 @@ DOMAIN,tracker.deadorbit.nl
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
 DOMAIN,tracker.dmcomic.org
+DOMAIN,tracker.dump.cl
 DOMAIN,tracker.edkj.club
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.fnix.net
@@ -165,7 +161,6 @@ DOMAIN,tracker.ipfsscan.io
 DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.itscraftsoftware.my.id
 DOMAIN,tracker.kmzs123.tk
-DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.leechshield.link
 DOMAIN,tracker.lilithraws.org
 DOMAIN,tracker.lintk.me
@@ -174,12 +169,12 @@ DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.ololosh.space
 DOMAIN,tracker.opentrackr.org
-DOMAIN,tracker.openwebtorrent.com
 DOMAIN,tracker.pmman.tech
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
 DOMAIN,tracker.sbsub.com
 DOMAIN,tracker.skynetcloud.site
+DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
 DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
@@ -187,6 +182,7 @@ DOMAIN,tracker.torrust-demo.com
 DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.valete.tf
 DOMAIN,tracker.vanitycore.co
+DOMAIN,tracker.vraphim.com
 DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.xiaoduola.xyz
 DOMAIN,tracker.yemekyedim.com
@@ -204,6 +200,7 @@ DOMAIN,tracking.miui.com
 DOMAIN,ts.thefilehosting.com
 DOMAIN,ttk2.nbaonlineservice.com
 DOMAIN,u4.trakx.crim.ist
+DOMAIN,u6.trakx.crim.ist
 DOMAIN,udp.tracker.projectk.org
 DOMAIN,update.googleapis.com
 DOMAIN,vd.l.qq.com
