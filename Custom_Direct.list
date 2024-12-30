@@ -35,6 +35,7 @@ DOMAIN,cq.kmzs123.cn
 DOMAIN,csgo.wmsj.cn
 DOMAIN,d40969.acod.regrucolo.ru
 DOMAIN,deo.shopeemobile.com
+DOMAIN,discord.heihachi.pw
 DOMAIN,dl.google.com
 DOMAIN,dl.l.google.com
 DOMAIN,dl.steam.clngaa.com
@@ -48,6 +49,7 @@ DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
 DOMAIN,fairplay.l.qq.com
 DOMAIN,finbytes.org
+DOMAIN,freedomalternative.com
 DOMAIN,highteahop.top
 DOMAIN,home.yxgz.club
 DOMAIN,image.maimn.com
@@ -70,11 +72,11 @@ DOMAIN,m3u8.255tv.tk
 DOMAIN,m3u8.mstopq.com
 DOMAIN,martin-gebhardt.eu
 DOMAIN,mathkangaroo.jp
+DOMAIN,mikrotik2.draatman.net
 DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
 DOMAIN,mtalk.google.com
 DOMAIN,new-api.meiqia.com
-DOMAIN,ns-1.x-fins.com
 DOMAIN,ns1.monolithindustries.com
 DOMAIN,nyaa.tracker.wf
 DOMAIN,oasisauth.h3c.com
@@ -99,6 +101,7 @@ DOMAIN,retracker.lanta.me
 DOMAIN,retracker.spark-rostov.ru
 DOMAIN,retracker.x2k.ru
 DOMAIN,rewards.hypixel.net
+DOMAIN,rfc5746.mywaifu.best
 DOMAIN,router.asus.com
 DOMAIN,sdk.alibaba.com.ailbaba.me
 DOMAIN,seeders-paradise.org
@@ -125,6 +128,7 @@ DOMAIN,taciturn-shadow.spb.ru
 DOMAIN,tiao.cjkypo.com
 DOMAIN,time.apple.com
 DOMAIN,tk.greedland.net
+DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abir.ga
 DOMAIN,tr.burnabyhighstar.com
@@ -139,10 +143,8 @@ DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker-us.silksa.co.za
 DOMAIN,tracker-zhuqiy.dgj055.icu
 DOMAIN,tracker.0x7c0.com
-DOMAIN,tracker.beeimg.com
 DOMAIN,tracker.birkenwald.de
 DOMAIN,tracker.bittor.pw
-DOMAIN,tracker.bjut.jp
 DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
@@ -155,6 +157,7 @@ DOMAIN,tracker.deadorbit.nl
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
 DOMAIN,tracker.dmcomic.org
+DOMAIN,tracker.draatman.uk
 DOMAIN,tracker.dump.cl
 DOMAIN,tracker.edkj.club
 DOMAIN,tracker.filemail.com
@@ -209,6 +212,7 @@ DOMAIN,tracking.miui.com
 DOMAIN,ts.thefilehosting.com
 DOMAIN,ttk2.nbaonlineservice.com
 DOMAIN,u4.trakx.crim.ist
+DOMAIN,u6.trakx.crim.ist
 DOMAIN,udp.tracker.projectk.org
 DOMAIN,update.googleapis.com
 DOMAIN,vd.l.qq.com
@@ -220,10 +224,10 @@ DOMAIN,wmsjsteam.com
 DOMAIN,www.all4nothin.net
 DOMAIN,www.asusrouter.com
 DOMAIN,www.genesis-sp.org
+DOMAIN,www.torrent.eu.org
 DOMAIN,www.torrentsnipe.info
 DOMAIN,www.wareztorrent.com
 DOMAIN,xz.pphimalayanrt.com
-DOMAIN,z.mercax.com
 DOMAIN-KEYWORD,360buy
 DOMAIN-KEYWORD,alicdn
 DOMAIN-KEYWORD,alimama
