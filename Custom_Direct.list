@@ -20,6 +20,7 @@ DOMAIN,app.appsflyer.com
 DOMAIN,asusrouter.com
 DOMAIN,bandito.byterunner.io
 DOMAIN,bdtj.tagtic.cn
+DOMAIN,betelgeuse.freeddns.org
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt.ktrackers.com
 DOMAIN,bt.okmp3.ru
@@ -70,7 +71,6 @@ DOMAIN,log.mmstat.com
 DOMAIN,m3u8.255tv.tk
 DOMAIN,m3u8.mstopq.com
 DOMAIN,martin-gebhardt.eu
-DOMAIN,mathkangaroo.jp
 DOMAIN,mikrotik2.draatman.net
 DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
@@ -85,23 +85,21 @@ DOMAIN,ok.zuidapic.com
 DOMAIN,open.acgtracker.com
 DOMAIN,open.demonii.com
 DOMAIN,open.dstud.io
+DOMAIN,open.free-tracker.ga
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.cl
 DOMAIN,open.tracker.ink
 DOMAIN,open.trackerlist.xyz
-DOMAIN,opentor.org
 DOMAIN,opentracker.io
 DOMAIN,origin-a.akamaihd.net
 DOMAIN,p2p.publictracker.xyz
 DOMAIN,p4p.arenabg.com
 DOMAIN,pf-cdn-content-prod.azureedge.net
 DOMAIN,public.tracker.vraphim.com
-DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
 DOMAIN,retracker.spark-rostov.ru
 DOMAIN,retracker.x2k.ru
 DOMAIN,rewards.hypixel.net
-DOMAIN,rfc5746.mywaifu.best
 DOMAIN,router.asus.com
 DOMAIN,sdk.alibaba.com.ailbaba.me
 DOMAIN,seeders-paradise.org
@@ -109,7 +107,6 @@ DOMAIN,seedpeer.net
 DOMAIN,serpb.vpsburti.com
 DOMAIN,servandroidkino.ru
 DOMAIN,setmeup.arubanetworks.com
-DOMAIN,share.hkg-fansub.info
 DOMAIN,shubt.net
 DOMAIN,smp-device-content.apple.com
 DOMAIN,sparkle.ghostchu-services.top
@@ -127,7 +124,11 @@ DOMAIN,t.overflow.biz
 DOMAIN,taciturn-shadow.spb.ru
 DOMAIN,tiao.cjkypo.com
 DOMAIN,time.apple.com
+DOMAIN,tk.greedland.net
 DOMAIN,torrent.tracker.durukanbal.com
+DOMAIN,torrentsmd.com
+DOMAIN,tr.abir.ga
+DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.movian.eu
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr.zukizuki.org
@@ -148,13 +149,13 @@ DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.bz
 DOMAIN,tracker.cloudit.top
 DOMAIN,tracker.corpscorp.online
-DOMAIN,tracker.cyberia.is
 DOMAIN,tracker.darkness.services
 DOMAIN,tracker.deadorbit.nl
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
 DOMAIN,tracker.dmcomic.org
 DOMAIN,tracker.draatman.uk
+DOMAIN,tracker.dump.cl
 DOMAIN,tracker.edkj.club
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.fnix.net
@@ -175,7 +176,6 @@ DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.ololosh.space
 DOMAIN,tracker.opentrackr.org
-DOMAIN,tracker.openwebtorrent.com
 DOMAIN,tracker.pmman.tech
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
@@ -183,6 +183,7 @@ DOMAIN,tracker.sbsub.com
 DOMAIN,tracker.skynetcloud.site
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
+DOMAIN,tracker.theoks.net
 DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrust-demo.com
@@ -808,6 +809,7 @@ DOMAIN-SUFFIX,ksyun.com
 DOMAIN-SUFFIX,ksyungslb.com
 DOMAIN-SUFFIX,kuaidi100.com
 DOMAIN-SUFFIX,kuaishou.com
+DOMAIN-SUFFIX,kuajing84.com
 DOMAIN-SUFFIX,kugou.com
 DOMAIN-SUFFIX,lancdns.com
 DOMAIN-SUFFIX,landiannews.com
@@ -6784,8 +6786,6 @@ IP-CIDR,204.74.96.0/24,no-resolve
 IP-CIDR,205.185.194.0/24,no-resolve
 IP-CIDR,205.196.6.0/24,no-resolve
 IP-CIDR,205.204.96.0/19,no-resolve
-IP-CIDR,207.241.226.111/32,no-resolve
-IP-CIDR,207.241.231.226/32,no-resolve
 IP-CIDR,208.64.200.0/22,no-resolve
 IP-CIDR,208.78.164.0/22,no-resolve
 IP-CIDR,210.12.0.0/15,no-resolve
@@ -8166,7 +8166,6 @@ IP-CIDR,5.154.156.50/31,no-resolve
 IP-CIDR,5.154.156.54/31,no-resolve
 IP-CIDR,5.5.5.5/32,no-resolve
 IP-CIDR,52.130.0.0/15,no-resolve
-IP-CIDR,52.58.128.163/32,no-resolve
 IP-CIDR,52.80.0.0/14,no-resolve
 IP-CIDR,52.93.242.120/29,no-resolve
 IP-CIDR,52.93.242.128/25,no-resolve
