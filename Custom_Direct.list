@@ -36,7 +36,6 @@ DOMAIN,cq.kmzs123.cn
 DOMAIN,csgo.wmsj.cn
 DOMAIN,d40969.acod.regrucolo.ru
 DOMAIN,deo.shopeemobile.com
-DOMAIN,discord.heihachi.pw
 DOMAIN,dl.google.com
 DOMAIN,dl.l.google.com
 DOMAIN,dl.steam.clngaa.com
@@ -85,6 +84,7 @@ DOMAIN,ok.zuidapic.com
 DOMAIN,open.acgtracker.com
 DOMAIN,open.demonii.com
 DOMAIN,open.dstud.io
+DOMAIN,open.free-tracker.ga
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.cl
 DOMAIN,open.tracker.ink
@@ -159,11 +159,11 @@ DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
 DOMAIN,tracker.dmcomic.org
 DOMAIN,tracker.draatman.uk
-DOMAIN,tracker.dump.cl
 DOMAIN,tracker.edkj.club
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.fnix.net
 DOMAIN,tracker.gcrenwp.top
+DOMAIN,tracker.gigantino.net
 DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.itscraftsoftware.my.id
@@ -175,7 +175,6 @@ DOMAIN,tracker.lintk.me
 DOMAIN,tracker.moeking.me
 DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
-DOMAIN,tracker.ololosh.space
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
 DOMAIN,tracker.pmman.tech
@@ -582,6 +581,7 @@ DOMAIN-SUFFIX,cloudflarestorage.com
 DOMAIN-SUFFIX,cloudxns.net
 DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,cn
+DOMAIN-SUFFIX,cn-music.mefun.vip
 DOMAIN-SUFFIX,cn163.net
 DOMAIN-SUFFIX,cnblogs.com
 DOMAIN-SUFFIX,cnki.net
@@ -995,6 +995,7 @@ DOMAIN-SUFFIX,sdbits.org
 DOMAIN-SUFFIX,segmentfault.com
 DOMAIN-SUFFIX,settings.crashlytics.com
 DOMAIN-SUFFIX,sf-express.com
+DOMAIN-SUFFIX,sgtv.ii00.cc
 DOMAIN-SUFFIX,sharkpt.net
 DOMAIN-SUFFIX,shumilou.net
 DOMAIN-SUFFIX,simplecd.me
@@ -1031,6 +1032,7 @@ DOMAIN-SUFFIX,soulvoice.club
 DOMAIN-SUFFIX,springer.com
 DOMAIN-SUFFIX,springernature.com
 DOMAIN-SUFFIX,springsunday.net
+DOMAIN-SUFFIX,sptv.ii00.cc
 DOMAIN-SUFFIX,ssl-google-analytics.l.google.com
 DOMAIN-SUFFIX,sspai.com
 DOMAIN-SUFFIX,startssl.com
@@ -6990,6 +6992,7 @@ IP-CIDR,218.30.64.0/18,no-resolve
 IP-CIDR,218.31.0.0/16,no-resolve
 IP-CIDR,218.56.0.0/13,no-resolve
 IP-CIDR,218.64.0.0/11,no-resolve
+IP-CIDR,218.78.7.16/32,no-resolve
 IP-CIDR,218.96.0.0/16,no-resolve
 IP-CIDR,218.97.0.0/19,no-resolve
 IP-CIDR,218.97.128.0/17,no-resolve
@@ -8319,6 +8322,7 @@ IP-CIDR,93.113.109.8/29,no-resolve
 IP-CIDR,93.183.14.0/24,no-resolve
 IP-CIDR,93.183.18.0/24,no-resolve
 IP-CIDR,94.191.0.0/17,no-resolve
+IP-CIDR,98.126.27.164/32,no-resolve
 IP-CIDR6,2a0b:b580::/48,no-resolve
 IP-CIDR6,2a0b:b581::/48,no-resolve
 IP-CIDR6,2a0b:b582::/48,no-resolve
