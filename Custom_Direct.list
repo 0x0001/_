@@ -23,7 +23,6 @@ DOMAIN,bdtj.tagtic.cn
 DOMAIN,betelgeuse.freeddns.org
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt.ktrackers.com
-DOMAIN,bt.okmp3.ru
 DOMAIN,bt.poletracker.org
 DOMAIN,bt.rer.lol
 DOMAIN,bt1.xxxxbt.cc
@@ -50,6 +49,7 @@ DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
 DOMAIN,fairplay.l.qq.com
 DOMAIN,finbytes.org
+DOMAIN,freedomalternative.com
 DOMAIN,highteahop.top
 DOMAIN,home.yxgz.club
 DOMAIN,image.maimn.com
@@ -61,7 +61,6 @@ DOMAIN,init.ess.apple.com
 DOMAIN,instant.arubanetworks.com
 DOMAIN,ipv4.rer.lol
 DOMAIN,ipv4announce.sktorrent.eu
-DOMAIN,ipv6.rer.lol
 DOMAIN,ismaarino.com
 DOMAIN,itunes.apple.com
 DOMAIN,lain.bgm.tv
@@ -85,7 +84,6 @@ DOMAIN,ok.zuidapic.com
 DOMAIN,open.acgtracker.com
 DOMAIN,open.demonii.com
 DOMAIN,open.dstud.io
-DOMAIN,open.free-tracker.ga
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.ink
 DOMAIN,open.trackerlist.xyz
@@ -102,6 +100,7 @@ DOMAIN,retracker.lanta.me
 DOMAIN,retracker.spark-rostov.ru
 DOMAIN,retracker.x2k.ru
 DOMAIN,rewards.hypixel.net
+DOMAIN,rfc5746.mywaifu.best
 DOMAIN,router.asus.com
 DOMAIN,sdk.alibaba.com.ailbaba.me
 DOMAIN,seeders-paradise.org
@@ -130,6 +129,7 @@ DOMAIN,time.apple.com
 DOMAIN,tk.greedland.net
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentsmd.com
+DOMAIN,tr.abir.ga
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.movian.eu
 DOMAIN,tr.nyacat.pw
@@ -138,6 +138,7 @@ DOMAIN,tr1.aag.moe
 DOMAIN,tr2.trkb.ru
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,trackarr.org
+DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker-us.silksa.co.za
 DOMAIN,tracker-zhuqiy.dgj055.icu
 DOMAIN,tracker.0x7c0.com
@@ -158,6 +159,7 @@ DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
 DOMAIN,tracker.dmcomic.org
 DOMAIN,tracker.draatman.uk
+DOMAIN,tracker.dump.cl
 DOMAIN,tracker.edkj.club
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.fnix.net
@@ -581,6 +583,7 @@ DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflarestorage.com
 DOMAIN-SUFFIX,cloudxns.net
 DOMAIN-SUFFIX,cm.steampowered.com
+DOMAIN-SUFFIX,cmdns.xyz
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,cn-music.mefun.vip
 DOMAIN-SUFFIX,cn163.net
@@ -646,6 +649,8 @@ DOMAIN-SUFFIX,edgesrv.com
 DOMAIN-SUFFIX,ele.me
 DOMAIN-SUFFIX,element-plus.org
 DOMAIN-SUFFIX,empornium.me
+DOMAIN-SUFFIX,epg.aptv.app
+DOMAIN-SUFFIX,epg.v1.mk
 DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,epicgames.dev
 DOMAIN-SUFFIX,et8.org
@@ -662,6 +667,7 @@ DOMAIN-SUFFIX,feng.com
 DOMAIN-SUFFIX,fengkongcloud.com
 DOMAIN-SUFFIX,filelist.io
 DOMAIN-SUFFIX,fir.im
+DOMAIN-SUFFIX,flingtrainer.com
 DOMAIN-SUFFIX,foxmail.com
 DOMAIN-SUFFIX,frdic.com
 DOMAIN-SUFFIX,fresh-ideas.cc
@@ -670,6 +676,7 @@ DOMAIN-SUFFIX,gainbound.net
 DOMAIN-SUFFIX,ganji.com
 DOMAIN-SUFFIX,ganjistatic1.com
 DOMAIN-SUFFIX,gazellegames.net
+DOMAIN-SUFFIX,gdcucc.v1.mk
 DOMAIN-SUFFIX,geetest.com
 DOMAIN-SUFFIX,geilicdn.com
 DOMAIN-SUFFIX,gfxpeers.net
