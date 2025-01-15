@@ -34,6 +34,7 @@ DOMAIN,cq.kmzs123.cn
 DOMAIN,csgo.wmsj.cn
 DOMAIN,d40969.acod.regrucolo.ru
 DOMAIN,deo.shopeemobile.com
+DOMAIN,discord.heihachi.pw
 DOMAIN,dl.google.com
 DOMAIN,dl.l.google.com
 DOMAIN,dl.steam.clngaa.com
@@ -63,7 +64,6 @@ DOMAIN,isk.richardsw.club
 DOMAIN,ismaarino.com
 DOMAIN,itunes.apple.com
 DOMAIN,lain.bgm.tv
-DOMAIN,leet-tracker.moe
 DOMAIN,livew.l.qq.com
 DOMAIN,log.mmstat.com
 DOMAIN,m3u8.255tv.tk
@@ -73,9 +73,9 @@ DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
 DOMAIN,mtalk.google.com
 DOMAIN,new-api.meiqia.com
+DOMAIN,ns-1.x-fins.com
 DOMAIN,nyaa.tracker.wf
 DOMAIN,oasisauth.h3c.com
-DOMAIN,odd-hd.fr
 DOMAIN,ok.zuidapic.com
 DOMAIN,open.acgtracker.com
 DOMAIN,open.demonii.com
@@ -91,7 +91,6 @@ DOMAIN,origin-a.akamaihd.net
 DOMAIN,p2p.publictracker.xyz
 DOMAIN,p4p.arenabg.com
 DOMAIN,pf-cdn-content-prod.azureedge.net
-DOMAIN,public.tracker.vraphim.com
 DOMAIN,r.l5.ca
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
@@ -101,7 +100,6 @@ DOMAIN,rewards.hypixel.net
 DOMAIN,router.asus.com
 DOMAIN,sdk.alibaba.com.ailbaba.me
 DOMAIN,seeders-paradise.org
-DOMAIN,seedpeer.net
 DOMAIN,serpb.vpsburti.com
 DOMAIN,servandroidkino.ru
 DOMAIN,setmeup.arubanetworks.com
@@ -125,10 +123,10 @@ DOMAIN,time.apple.com
 DOMAIN,tk.greedland.net
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentsmd.com
+DOMAIN,tr.abir.ga
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr.zukizuki.org
-DOMAIN,tr2.trkb.ru
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,trackarr.org
 DOMAIN,tracker-udp.gbitt.info
@@ -165,7 +163,6 @@ DOMAIN,tracker.lintk.me
 DOMAIN,tracker.moeking.me
 DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
-DOMAIN,tracker.ololosh.space
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
 DOMAIN,tracker.pmman.tech
@@ -175,6 +172,7 @@ DOMAIN,tracker.sbsub.com
 DOMAIN,tracker.skynetcloud.site
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
+DOMAIN,tracker.theoks.net
 DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrust-demo.com
@@ -183,18 +181,17 @@ DOMAIN,tracker.vanitycore.co
 DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.xiaoduola.xyz
 DOMAIN,tracker.yemekyedim.com
+DOMAIN,tracker.yume-hatsuyuki.moe
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.myporn.club
 DOMAIN,tracker2.dler.org
 DOMAIN,tracker2.itzmx.com
-DOMAIN,tracker3.itzmx.com
 DOMAIN,tracker4.itzmx.com
 DOMAIN,tracker810.xyz
 DOMAIN,trackers.mlsub.net
 DOMAIN,tracking.miui.com
 DOMAIN,ts.thefilehosting.com
 DOMAIN,ttk2.nbaonlineservice.com
-DOMAIN,u4.trakx.crim.ist
 DOMAIN,u6.trakx.crim.ist
 DOMAIN,udp.tracker.projectk.org
 DOMAIN,update.googleapis.com
@@ -886,6 +883,7 @@ DOMAIN-SUFFIX,ncore.cc
 DOMAIN-SUFFIX,nebulance.io
 DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,nicept.net
+DOMAIN-SUFFIX,ningtingche.com
 DOMAIN-SUFFIX,nn.ci
 DOMAIN-SUFFIX,npupt.com
 DOMAIN-SUFFIX,nruan.com
