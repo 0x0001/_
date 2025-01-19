@@ -22,7 +22,6 @@ DOMAIN,asusrouter.com
 DOMAIN,bandito.byterunner.io
 DOMAIN,bdtj.tagtic.cn
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
-DOMAIN,bt.okmp3.ru
 DOMAIN,bt.poletracker.org
 DOMAIN,bt.rer.lol
 DOMAIN,bt1.xxxxbt.cc
@@ -31,10 +30,10 @@ DOMAIN,cdn.jsdelivr.net
 DOMAIN,ch3oh.ru
 DOMAIN,clientservices.googleapis.com
 DOMAIN,concen.org
+DOMAIN,cq.kmzs123.cn
 DOMAIN,csgo.wmsj.cn
 DOMAIN,d40969.acod.regrucolo.ru
 DOMAIN,deo.shopeemobile.com
-DOMAIN,discord.heihachi.pw
 DOMAIN,dl.google.com
 DOMAIN,dl.l.google.com
 DOMAIN,dl.steam.clngaa.com
@@ -48,6 +47,7 @@ DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
 DOMAIN,fairplay.l.qq.com
 DOMAIN,finbytes.org
+DOMAIN,fleira.no
 DOMAIN,highteahop.top
 DOMAIN,home.yxgz.club
 DOMAIN,image.maimn.com
@@ -96,8 +96,8 @@ DOMAIN,r.l5.ca
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
 DOMAIN,retracker.spark-rostov.ru
+DOMAIN,retracker.x2k.ru
 DOMAIN,rewards.hypixel.net
-DOMAIN,rfc5746.mywaifu.best
 DOMAIN,router.asus.com
 DOMAIN,sdk.alibaba.com.ailbaba.me
 DOMAIN,seeders-paradise.org
@@ -121,7 +121,6 @@ DOMAIN,taciturn-shadow.spb.ru
 DOMAIN,tiao.cjkypo.com
 DOMAIN,time.apple.com
 DOMAIN,tk.greedland.net
-DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abir.ga
 DOMAIN,tr.burnabyhighstar.com
@@ -154,6 +153,7 @@ DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.kmzs123.tk
 DOMAIN,tracker.kuroy.me
+DOMAIN,tracker.leechshield.link
 DOMAIN,tracker.lilithraws.org
 DOMAIN,tracker.lintk.me
 DOMAIN,tracker.moeking.me
@@ -205,6 +205,7 @@ DOMAIN,www.asusrouter.com
 DOMAIN,www.genesis-sp.org
 DOMAIN,www.torrent.eu.org
 DOMAIN,www.torrentsnipe.info
+DOMAIN,www.wareztorrent.com
 DOMAIN,xz.pphimalayanrt.com
 DOMAIN-KEYWORD,360buy
 DOMAIN-KEYWORD,alicdn
