@@ -66,6 +66,7 @@ DOMAIN,isk.richardsw.club
 DOMAIN,ismaarino.com
 DOMAIN,itunes.apple.com
 DOMAIN,lain.bgm.tv
+DOMAIN,leet-tracker.moe
 DOMAIN,livew.l.qq.com
 DOMAIN,log.mmstat.com
 DOMAIN,m3u8.255tv.tk
@@ -132,13 +133,14 @@ DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker-zhuqiy.dgj055.icu
 DOMAIN,tracker.0x7c0.com
-DOMAIN,tracker.beeimg.com
 DOMAIN,tracker.birkenwald.de
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bjut.jp
 DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.bz
+DOMAIN,tracker.cloudit.top
+DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.cyberia.is
 DOMAIN,tracker.darkness.services
 DOMAIN,tracker.deadorbit.nl
@@ -154,7 +156,6 @@ DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.kmzs123.tk
 DOMAIN,tracker.kuroy.me
-DOMAIN,tracker.leechshield.link
 DOMAIN,tracker.lilithraws.org
 DOMAIN,tracker.lintk.me
 DOMAIN,tracker.moeking.me
@@ -190,7 +191,9 @@ DOMAIN,tracker810.xyz
 DOMAIN,tracking.miui.com
 DOMAIN,ts.thefilehosting.com
 DOMAIN,ttk2.nbaonlineservice.com
+DOMAIN,u4.trakx.crim.ist
 DOMAIN,u6.trakx.crim.ist
+DOMAIN,udp.tracker.projectk.org
 DOMAIN,update.googleapis.com
 DOMAIN,vd.l.qq.com
 DOMAIN,vi.l.qq.com
@@ -202,6 +205,7 @@ DOMAIN,www.asusrouter.com
 DOMAIN,www.genesis-sp.org
 DOMAIN,www.torrent.eu.org
 DOMAIN,www.torrentsnipe.info
+DOMAIN,www.wareztorrent.com
 DOMAIN,xz.pphimalayanrt.com
 DOMAIN-KEYWORD,360buy
 DOMAIN-KEYWORD,alicdn
