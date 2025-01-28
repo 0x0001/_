@@ -25,7 +25,6 @@ DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt.ktrackers.com
 DOMAIN,bt.okmp3.ru
 DOMAIN,bt.poletracker.org
-DOMAIN,bt.rer.lol
 DOMAIN,bt1.xxxxbt.cc
 DOMAIN,buny.uk
 DOMAIN,cdn.jsdelivr.net
@@ -61,6 +60,7 @@ DOMAIN,init.ess.apple.com
 DOMAIN,instant.arubanetworks.com
 DOMAIN,ipv4.rer.lol
 DOMAIN,ipv4announce.sktorrent.eu
+DOMAIN,ipv6.rer.lol
 DOMAIN,isk.richardsw.club
 DOMAIN,ismaarino.com
 DOMAIN,itunes.apple.com
@@ -74,6 +74,8 @@ DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
 DOMAIN,mtalk.google.com
 DOMAIN,new-api.meiqia.com
+DOMAIN,new-line.net
+DOMAIN,ns-1.x-fins.com
 DOMAIN,nyaa.tracker.wf
 DOMAIN,oasisauth.h3c.com
 DOMAIN,ok.zuidapic.com
@@ -95,6 +97,7 @@ DOMAIN,r.l5.ca
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
 DOMAIN,retracker.spark-rostov.ru
+DOMAIN,retracker.x2k.ru
 DOMAIN,rewards.hypixel.net
 DOMAIN,router.asus.com
 DOMAIN,sdk.alibaba.com.ailbaba.me
@@ -121,7 +124,6 @@ DOMAIN,time.apple.com
 DOMAIN,tk.greedland.net
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentsmd.com
-DOMAIN,tr.abir.ga
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr.zukizuki.org
@@ -142,6 +144,7 @@ DOMAIN,tracker.cloudit.top
 DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.cyberia.is
 DOMAIN,tracker.darkness.services
+DOMAIN,tracker.ddunlimited.net
 DOMAIN,tracker.deadorbit.nl
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
@@ -175,10 +178,12 @@ DOMAIN,tracker.torrust-demo.com
 DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.vanitycore.co
 DOMAIN,tracker.waaa.moe
+DOMAIN,tracker.wsaoa.eu.org
 DOMAIN,tracker.xiaoduola.xyz
 DOMAIN,tracker.yemekyedim.com
 DOMAIN,tracker.yume-hatsuyuki.moe
 DOMAIN,tracker1.520.jp
+DOMAIN,tracker1.myporn.club
 DOMAIN,tracker2.dler.org
 DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.itzmx.com
