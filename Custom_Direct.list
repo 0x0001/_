@@ -76,7 +76,6 @@ DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
 DOMAIN,mtalk.google.com
 DOMAIN,new-api.meiqia.com
-DOMAIN,new-line.net
 DOMAIN,ns-1.x-fins.com
 DOMAIN,nyaa.tracker.wf
 DOMAIN,oasisauth.h3c.com
@@ -158,6 +157,7 @@ DOMAIN,tracker.gigantino.net
 DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.kmzs123.cn
+DOMAIN,tracker.kmzs123.com
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.leechshield.link
 DOMAIN,tracker.lilithraws.org
@@ -168,12 +168,12 @@ DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.ololosh.space
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
-DOMAIN,tracker.pmman.tech
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
 DOMAIN,tracker.sbsub.com
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
+DOMAIN,tracker.theoks.net
 DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrust-demo.com
