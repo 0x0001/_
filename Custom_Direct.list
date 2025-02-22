@@ -21,6 +21,7 @@ DOMAIN,asusrouter.com
 DOMAIN,bandito.byterunner.io
 DOMAIN,bdtj.tagtic.cn
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
+DOMAIN,brokenhelix.loseyourip.com
 DOMAIN,bt.ktrackers.com
 DOMAIN,bt.okmp3.ru
 DOMAIN,bt.poletracker.org
@@ -33,6 +34,7 @@ DOMAIN,concen.org
 DOMAIN,csgo.wmsj.cn
 DOMAIN,d40969.acod.regrucolo.ru
 DOMAIN,deo.shopeemobile.com
+DOMAIN,discord.heihachi.pw
 DOMAIN,dl.google.com
 DOMAIN,dl.l.google.com
 DOMAIN,dl.steam.clngaa.com
@@ -82,6 +84,7 @@ DOMAIN,open.dstud.io
 DOMAIN,open.free-tracker.ga
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.cl
+DOMAIN,open.tracker.ink
 DOMAIN,open.trackerlist.xyz
 DOMAIN,opentor.org
 DOMAIN,opentracker.io
@@ -92,6 +95,7 @@ DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
 DOMAIN,retracker.spark-rostov.ru
 DOMAIN,retracker.x2k.ru
+DOMAIN,retracker01-msk-virt.corbina.net
 DOMAIN,rewards.hypixel.net
 DOMAIN,router.asus.com
 DOMAIN,sdk.alibaba.com.ailbaba.me
@@ -116,7 +120,9 @@ DOMAIN,taciturn-shadow.spb.ru
 DOMAIN,tiao.cjkypo.com
 DOMAIN,time.apple.com
 DOMAIN,tk.greedland.net
+DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentsmd.com
+DOMAIN,tr.abir.ga
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr.zukizuki.org
@@ -137,6 +143,7 @@ DOMAIN,tracker.ddunlimited.net
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
 DOMAIN,tracker.dmcomic.org
+DOMAIN,tracker.dump.cl
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.fnix.net
 DOMAIN,tracker.foreverpirates.co
@@ -146,7 +153,6 @@ DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.ipv6tracker.ru
 DOMAIN,tracker.kmzs123.cn
-DOMAIN,tracker.kmzs123.top
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.leechshield.link
 DOMAIN,tracker.lilithraws.org
@@ -164,7 +170,6 @@ DOMAIN,tracker.renfei.net
 DOMAIN,tracker.sbsub.com
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
-DOMAIN,tracker.theoks.net
 DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrust-demo.com
@@ -172,10 +177,11 @@ DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.valete.tf
 DOMAIN,tracker.vanitycore.co
 DOMAIN,tracker.waaa.moe
+DOMAIN,tracker.wsaoa.eu.org
 DOMAIN,tracker.xiaoduola.xyz
 DOMAIN,tracker.yemekyedim.com
-DOMAIN,tracker.yume-hatsuyuki.moe
 DOMAIN,tracker1.520.jp
+DOMAIN,tracker1.myporn.club
 DOMAIN,tracker2.dler.org
 DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.itzmx.com
@@ -355,7 +361,6 @@ DOMAIN-SUFFIX,5054399.com
 DOMAIN-SUFFIX,51cto.com
 DOMAIN-SUFFIX,51job.com
 DOMAIN-SUFFIX,51jobcdn.com
-DOMAIN-SUFFIX,51selling.com
 DOMAIN-SUFFIX,52pt.site
 DOMAIN-SUFFIX,56.com
 DOMAIN-SUFFIX,58.com
@@ -474,9 +479,7 @@ DOMAIN-SUFFIX,baidustatic.com
 DOMAIN-SUFFIX,baike.com
 DOMAIN-SUFFIX,baomitu.com
 DOMAIN-SUFFIX,bcebos.com
-DOMAIN-SUFFIX,bdcat.top
 DOMAIN-SUFFIX,bdimg.com
-DOMAIN-SUFFIX,bdmozon.com
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,bdurl.net
 DOMAIN-SUFFIX,bdxiguaimg.com
@@ -551,13 +554,11 @@ DOMAIN-SUFFIX,cinematik.net
 DOMAIN-SUFFIX,cinemaz.to
 DOMAIN-SUFFIX,cjjd19.com
 DOMAIN-SUFFIX,classix-unlimited.co.uk
-DOMAIN-SUFFIX,cleargrass.com
 DOMAIN-SUFFIX,clickserve.dartsearch.net
 DOMAIN-SUFFIX,clouddn.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudxns.net
 DOMAIN-SUFFIX,cm.steampowered.com
-DOMAIN-SUFFIX,cmdns.xyz
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,cn-music.mefun.vip
 DOMAIN-SUFFIX,cn163.net
@@ -667,7 +668,6 @@ DOMAIN-SUFFIX,got001.com
 DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,gtm.oasisfeng.com
 DOMAIN-SUFFIX,guazi.com
-DOMAIN-SUFFIX,guoocang.com
 DOMAIN-SUFFIX,gwdang.com
 DOMAIN-SUFFIX,gzlzfm.com
 DOMAIN-SUFFIX,gztowngas.com
@@ -794,7 +794,6 @@ DOMAIN-SUFFIX,ksyun.com
 DOMAIN-SUFFIX,ksyungslb.com
 DOMAIN-SUFFIX,kuaidi100.com
 DOMAIN-SUFFIX,kuaishou.com
-DOMAIN-SUFFIX,kuajing84.com
 DOMAIN-SUFFIX,kugou.com
 DOMAIN-SUFFIX,lancdns.com
 DOMAIN-SUFFIX,landiannews.com
@@ -874,7 +873,6 @@ DOMAIN-SUFFIX,ncore.cc
 DOMAIN-SUFFIX,nebulance.io
 DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,nicept.net
-DOMAIN-SUFFIX,ningtingche.com
 DOMAIN-SUFFIX,nn.ci
 DOMAIN-SUFFIX,npupt.com
 DOMAIN-SUFFIX,nruan.com
@@ -897,8 +895,6 @@ DOMAIN-SUFFIX,oschina.net
 DOMAIN-SUFFIX,oup.com
 DOMAIN-SUFFIX,ourbits.club
 DOMAIN-SUFFIX,ourdvs.com
-DOMAIN-SUFFIX,ozonabc.com
-DOMAIN-SUFFIX,ozonbigsell.com
 DOMAIN-SUFFIX,p.to
 DOMAIN-SUFFIX,p2cdn.com
 DOMAIN-SUFFIX,p4pfile.com
@@ -968,7 +964,6 @@ DOMAIN-SUFFIX,rrys.tv
 DOMAIN-SUFFIX,rrys2020.com
 DOMAIN-SUFFIX,ruguoapp.com
 DOMAIN-SUFFIX,runoob.com
-DOMAIN-SUFFIX,ruseer.com
 DOMAIN-SUFFIX,safebrowsing-cache.google.com
 DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,sankuai.com
@@ -1122,7 +1117,6 @@ DOMAIN-SUFFIX,www-googletagmanager.l.google.com
 DOMAIN-SUFFIX,wwwh.eu.org
 DOMAIN-SUFFIX,xauat6.edu.cn
 DOMAIN-SUFFIX,xdrig.com
-DOMAIN-SUFFIX,xhofe.top
 DOMAIN-SUFFIX,xhscdn.com
 DOMAIN-SUFFIX,xiachufang.com
 DOMAIN-SUFFIX,xiami.com
