@@ -25,6 +25,7 @@ DOMAIN,brokenhelix.loseyourip.com
 DOMAIN,bt.ktrackers.com
 DOMAIN,bt.okmp3.ru
 DOMAIN,bt.poletracker.org
+DOMAIN,bt.rer.lol
 DOMAIN,bt1.xxxxbt.cc
 DOMAIN,buny.uk
 DOMAIN,cdn.jsdelivr.net
@@ -58,13 +59,13 @@ DOMAIN,img.kuaikanzy.net
 DOMAIN,img.liangzipic.com
 DOMAIN,init.ess.apple.com
 DOMAIN,instant.arubanetworks.com
+DOMAIN,ipv4.rer.lol
 DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,ipv6.rer.lol
 DOMAIN,isk.richardsw.club
 DOMAIN,ismaarino.com
 DOMAIN,itunes.apple.com
 DOMAIN,lain.bgm.tv
-DOMAIN,leet-tracker.moe
 DOMAIN,livew.l.qq.com
 DOMAIN,log.mmstat.com
 DOMAIN,m3u8.255tv.tk
@@ -79,6 +80,7 @@ DOMAIN,ns-1.x-fins.com
 DOMAIN,nyaa.tracker.wf
 DOMAIN,oasisauth.h3c.com
 DOMAIN,ok.zuidapic.com
+DOMAIN,open.acgtracker.com
 DOMAIN,open.demonii.com
 DOMAIN,open.dstud.io
 DOMAIN,open.free-tracker.ga
@@ -144,6 +146,7 @@ DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
 DOMAIN,tracker.dmcomic.org
 DOMAIN,tracker.dump.cl
+DOMAIN,tracker.edkj.club
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.fnix.net
 DOMAIN,tracker.foreverpirates.co
@@ -154,7 +157,6 @@ DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.ipv6tracker.ru
 DOMAIN,tracker.kmzs123.cn
 DOMAIN,tracker.kuroy.me
-DOMAIN,tracker.leechshield.link
 DOMAIN,tracker.lilithraws.org
 DOMAIN,tracker.lintk.me
 DOMAIN,tracker.linvk.com
@@ -181,7 +183,6 @@ DOMAIN,tracker.wsaoa.eu.org
 DOMAIN,tracker.xiaoduola.xyz
 DOMAIN,tracker.yemekyedim.com
 DOMAIN,tracker1.520.jp
-DOMAIN,tracker1.myporn.club
 DOMAIN,tracker2.dler.org
 DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.itzmx.com
@@ -641,6 +642,7 @@ DOMAIN-SUFFIX,fengkongcloud.com
 DOMAIN-SUFFIX,filelist.io
 DOMAIN-SUFFIX,fir.im
 DOMAIN-SUFFIX,flingtrainer.com
+DOMAIN-SUFFIX,forevernine.com
 DOMAIN-SUFFIX,foxmail.com
 DOMAIN-SUFFIX,frdic.com
 DOMAIN-SUFFIX,fresh-ideas.cc
