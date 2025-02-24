@@ -25,7 +25,6 @@ DOMAIN,brokenhelix.loseyourip.com
 DOMAIN,bt.ktrackers.com
 DOMAIN,bt.okmp3.ru
 DOMAIN,bt.poletracker.org
-DOMAIN,bt.rer.lol
 DOMAIN,bt1.xxxxbt.cc
 DOMAIN,buny.uk
 DOMAIN,cdn.jsdelivr.net
@@ -59,7 +58,6 @@ DOMAIN,img.kuaikanzy.net
 DOMAIN,img.liangzipic.com
 DOMAIN,init.ess.apple.com
 DOMAIN,instant.arubanetworks.com
-DOMAIN,ipv4.rer.lol
 DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,ipv6.rer.lol
 DOMAIN,isk.richardsw.club
@@ -76,14 +74,12 @@ DOMAIN,msg.umengcloud.com
 DOMAIN,mtalk.google.com
 DOMAIN,new-api.meiqia.com
 DOMAIN,new-line.net
-DOMAIN,ns-1.x-fins.com
 DOMAIN,nyaa.tracker.wf
 DOMAIN,oasisauth.h3c.com
 DOMAIN,ok.zuidapic.com
 DOMAIN,open.acgtracker.com
 DOMAIN,open.demonii.com
 DOMAIN,open.dstud.io
-DOMAIN,open.free-tracker.ga
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.cl
 DOMAIN,open.tracker.ink
@@ -122,7 +118,6 @@ DOMAIN,taciturn-shadow.spb.ru
 DOMAIN,tiao.cjkypo.com
 DOMAIN,time.apple.com
 DOMAIN,tk.greedland.net
-DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abir.ga
 DOMAIN,tr.burnabyhighstar.com
@@ -145,7 +140,6 @@ DOMAIN,tracker.ddunlimited.net
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
 DOMAIN,tracker.dmcomic.org
-DOMAIN,tracker.dump.cl
 DOMAIN,tracker.edkj.club
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.fnix.net
@@ -156,6 +150,7 @@ DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.ipv6tracker.ru
 DOMAIN,tracker.kmzs123.cn
+DOMAIN,tracker.kmzs123.top
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.lilithraws.org
 DOMAIN,tracker.lintk.me
@@ -164,6 +159,7 @@ DOMAIN,tracker.moeking.me
 DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.nanoha.org
+DOMAIN,tracker.nitrix.me
 DOMAIN,tracker.ololosh.space
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
@@ -172,6 +168,7 @@ DOMAIN,tracker.renfei.net
 DOMAIN,tracker.sbsub.com
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
+DOMAIN,tracker.theoks.net
 DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrust-demo.com
@@ -183,6 +180,7 @@ DOMAIN,tracker.wsaoa.eu.org
 DOMAIN,tracker.xiaoduola.xyz
 DOMAIN,tracker.yemekyedim.com
 DOMAIN,tracker1.520.jp
+DOMAIN,tracker1.myporn.club
 DOMAIN,tracker2.dler.org
 DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.itzmx.com
@@ -535,6 +533,7 @@ DOMAIN-SUFFIX,catsxp.com
 DOMAIN-SUFFIX,ccfbits.org
 DOMAIN-SUFFIX,cctv.com
 DOMAIN-SUFFIX,cctvpic.com
+DOMAIN-SUFFIX,cdkeynogap.com
 DOMAIN-SUFFIX,cdnmama.com
 DOMAIN-SUFFIX,cgpeers.com
 DOMAIN-SUFFIX,chaipip.com
@@ -658,6 +657,7 @@ DOMAIN-SUFFIX,gfxpeers.net
 DOMAIN-SUFFIX,ggbond.org
 DOMAIN-SUFFIX,gh-proxy.com
 DOMAIN-SUFFIX,ghpym.com
+DOMAIN-SUFFIX,giecds.com
 DOMAIN-SUFFIX,gifshow.com
 DOMAIN-SUFFIX,github.boki.moe
 DOMAIN-SUFFIX,go2map.com
@@ -831,6 +831,7 @@ DOMAIN-SUFFIX,lztr.me
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,madsrevolution.net
 DOMAIN-SUFFIX,maoyan.com
+DOMAIN-SUFFIX,mashangfangxin.com
 DOMAIN-SUFFIX,meilishuo.com
 DOMAIN-SUFFIX,meipai.com
 DOMAIN-SUFFIX,meitu.com
@@ -1130,6 +1131,7 @@ DOMAIN-SUFFIX,xiaolianhb.com
 DOMAIN-SUFFIX,xiaomi.com
 DOMAIN-SUFFIX,xiaomi.net
 DOMAIN-SUFFIX,xiaomicp.com
+DOMAIN-SUFFIX,xiaoting.com
 DOMAIN-SUFFIX,ximalaya.com
 DOMAIN-SUFFIX,xinhuanet.com
 DOMAIN-SUFFIX,xip.io
