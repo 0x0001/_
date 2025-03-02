@@ -33,7 +33,6 @@ DOMAIN,concen.org
 DOMAIN,csgo.wmsj.cn
 DOMAIN,d40969.acod.regrucolo.ru
 DOMAIN,deo.shopeemobile.com
-DOMAIN,discord.heihachi.pw
 DOMAIN,dl.google.com
 DOMAIN,dl.l.google.com
 DOMAIN,dl.steam.clngaa.com
@@ -73,13 +72,12 @@ DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
 DOMAIN,mtalk.google.com
 DOMAIN,new-api.meiqia.com
-DOMAIN,ns-1.x-fins.com
 DOMAIN,nyaa.tracker.wf
 DOMAIN,oasisauth.h3c.com
 DOMAIN,ok.zuidapic.com
 DOMAIN,open.acgtracker.com
 DOMAIN,open.demonii.com
-DOMAIN,open.free-tracker.ga
+DOMAIN,open.dstud.io
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.cl
 DOMAIN,open.tracker.ink
@@ -123,9 +121,11 @@ DOMAIN,tr.abir.ga
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr.zukizuki.org
+DOMAIN,tr3.ysagin.top
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker-zhuqiy.dgj055.icu
+DOMAIN,tracker-zhuqiy.xn--1r3au8b.space
 DOMAIN,tracker.0x7c0.com
 DOMAIN,tracker.aburaya.live
 DOMAIN,tracker.bittor.pw
@@ -150,7 +150,6 @@ DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.ipv6tracker.ru
 DOMAIN,tracker.kmzs123.cn
-DOMAIN,tracker.kmzs123.top
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.lilithraws.org
 DOMAIN,tracker.lintk.me
@@ -169,9 +168,9 @@ DOMAIN,tracker.renfei.net
 DOMAIN,tracker.sbsub.com
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
-DOMAIN,tracker.theoks.net
 DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
+DOMAIN,tracker.torrust-demo.com
 DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.valete.tf
 DOMAIN,tracker.vanitycore.co
