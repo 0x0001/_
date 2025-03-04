@@ -63,7 +63,6 @@ DOMAIN,isk.richardsw.club
 DOMAIN,ismaarino.com
 DOMAIN,itunes.apple.com
 DOMAIN,lain.bgm.tv
-DOMAIN,leet-tracker.moe
 DOMAIN,livew.l.qq.com
 DOMAIN,log.mmstat.com
 DOMAIN,m3u8.255tv.tk
@@ -73,7 +72,6 @@ DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
 DOMAIN,mtalk.google.com
 DOMAIN,new-api.meiqia.com
-DOMAIN,ns-1.x-fins.com
 DOMAIN,nyaa.tracker.wf
 DOMAIN,oasisauth.h3c.com
 DOMAIN,ok.zuidapic.com
@@ -122,7 +120,6 @@ DOMAIN,tk.greedland.net
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abir.ga
 DOMAIN,tr.burnabyhighstar.com
-DOMAIN,tr.nyacat.pw
 DOMAIN,tr.zukizuki.org
 DOMAIN,tr3.ysagin.top
 DOMAIN,tr4ck3r.duckdns.org
@@ -134,7 +131,6 @@ DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bjut.jp
 DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
-DOMAIN,tracker.bz
 DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.cyberia.is
 DOMAIN,tracker.darkness.services
@@ -159,7 +155,6 @@ DOMAIN,tracker.linvk.com
 DOMAIN,tracker.moeking.me
 DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
-DOMAIN,tracker.nanoha.org
 DOMAIN,tracker.netmap.top
 DOMAIN,tracker.ololosh.space
 DOMAIN,tracker.opentrackr.org
@@ -170,6 +165,7 @@ DOMAIN,tracker.renfei.net
 DOMAIN,tracker.sbsub.com
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
+DOMAIN,tracker.theoks.net
 DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrust-demo.com
@@ -181,6 +177,7 @@ DOMAIN,tracker.xiaoduola.xyz
 DOMAIN,tracker.yemekyedim.com
 DOMAIN,tracker.zhuqiy.top
 DOMAIN,tracker1.520.jp
+DOMAIN,tracker1.myporn.club
 DOMAIN,tracker2.dler.org
 DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.itzmx.com
@@ -294,7 +291,6 @@ DOMAIN-SUFFIX,113.100.in-addr.arpa
 DOMAIN-SUFFIX,114.100.in-addr.arpa
 DOMAIN-SUFFIX,115.100.in-addr.arpa
 DOMAIN-SUFFIX,115.com
-DOMAIN-SUFFIX,115vod.com
 DOMAIN-SUFFIX,116.100.in-addr.arpa
 DOMAIN-SUFFIX,117.100.in-addr.arpa
 DOMAIN-SUFFIX,118.100.in-addr.arpa
@@ -672,7 +668,6 @@ DOMAIN-SUFFIX,gtm.oasisfeng.com
 DOMAIN-SUFFIX,guazi.com
 DOMAIN-SUFFIX,gwdang.com
 DOMAIN-SUFFIX,gzlzfm.com
-DOMAIN-SUFFIX,gztowngas.com
 DOMAIN-SUFFIX,haibian.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,hao123img.com
@@ -920,7 +915,6 @@ DOMAIN-SUFFIX,pplive.com
 DOMAIN-SUFFIX,ppsimg.com
 DOMAIN-SUFFIX,pptv.com
 DOMAIN-SUFFIX,privatehd.to
-DOMAIN-SUFFIX,psmartcloud.com
 DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,pterclub.com
 DOMAIN-SUFFIX,pthome.net
@@ -1067,7 +1061,6 @@ DOMAIN-SUFFIX,toutiaohao.com
 DOMAIN-SUFFIX,toutiaohao.net
 DOMAIN-SUFFIX,toutiaoimg.com
 DOMAIN-SUFFIX,toutiaopage.com
-DOMAIN-SUFFIX,towngasvcc.com
 DOMAIN-SUFFIX,tplinkwifi.net
 DOMAIN-SUFFIX,tplogin.cn
 DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
@@ -1094,7 +1087,6 @@ DOMAIN-SUFFIX,vipstatic.com
 DOMAIN-SUFFIX,vivo.com
 DOMAIN-SUFFIX,vmall.com
 DOMAIN-SUFFIX,vmallres.com
-DOMAIN-SUFFIX,vsean.net
 DOMAIN-SUFFIX,wandoujia.com
 DOMAIN-SUFFIX,weather-analytics-events.apple.com
 DOMAIN-SUFFIX,weather-data.apple.com
@@ -1127,7 +1119,6 @@ DOMAIN-SUFFIX,xiami.net
 DOMAIN-SUFFIX,xiaohongshu.com
 DOMAIN-SUFFIX,xiaojukeji.com
 DOMAIN-SUFFIX,xiaoka.tv
-DOMAIN-SUFFIX,xiaolianhb.com
 DOMAIN-SUFFIX,xiaomi.com
 DOMAIN-SUFFIX,xiaomi.net
 DOMAIN-SUFFIX,xiaomicp.com
@@ -1144,8 +1135,6 @@ DOMAIN-SUFFIX,xn--io0a7i
 DOMAIN-SUFFIX,xslb.net
 DOMAIN-SUFFIX,xueqiu.com
 DOMAIN-SUFFIX,xunlei.com
-DOMAIN-SUFFIX,xzscjk.com
-DOMAIN-SUFFIX,xzsmartmetro.com
 DOMAIN-SUFFIX,yach.me
 DOMAIN-SUFFIX,yangkeduo.com
 DOMAIN-SUFFIX,ydstatic.com
