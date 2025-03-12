@@ -357,7 +357,6 @@ DOMAIN-SUFFIX,ai-kan.net
 DOMAIN-SUFFIX,ai-wen.net
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,ai.google
-DOMAIN-SUFFIX,ai.ytimg.com
 DOMAIN-SUFFIX,aiph.net
 DOMAIN-SUFFIX,airasia.com
 DOMAIN-SUFFIX,airconsole.com
@@ -1812,9 +1811,6 @@ DOMAIN-SUFFIX,disneytvajobs.com
 DOMAIN-SUFFIX,disneyworld-go.com
 DOMAIN-SUFFIX,disp.cc
 DOMAIN-SUFFIX,disqus.com
-DOMAIN-SUFFIX,distribution.qatp1.net
-DOMAIN-SUFFIX,distribution.qcpp1.net
-DOMAIN-SUFFIX,distribution.qpdp1.net
 DOMAIN-SUFFIX,dit-inc.us
 DOMAIN-SUFFIX,dizhidizhi.com
 DOMAIN-SUFFIX,dizhuzhishang.com
@@ -1889,8 +1885,6 @@ DOMAIN-SUFFIX,doujincafe.com
 DOMAIN-SUFFIX,dowei.org
 DOMAIN-SUFFIX,dowjones.com
 DOMAIN-SUFFIX,download.qatp1.net
-DOMAIN-SUFFIX,download.qcpp1.net
-DOMAIN-SUFFIX,download.qpdp1.net
 DOMAIN-SUFFIX,dphk.org
 DOMAIN-SUFFIX,dpp.org.tw
 DOMAIN-SUFFIX,dpr.info
@@ -3145,7 +3139,6 @@ DOMAIN-SUFFIX,googleoptimize.com
 DOMAIN-SUFFIX,googlepagecreator.com
 DOMAIN-SUFFIX,googlephotos.com
 DOMAIN-SUFFIX,googleplay.com
-DOMAIN-SUFFIX,googleplex.com
 DOMAIN-SUFFIX,googleplus.com
 DOMAIN-SUFFIX,googlescholar.com
 DOMAIN-SUFFIX,googlesile.com
@@ -4511,8 +4504,6 @@ DOMAIN-SUFFIX,money-link.com.tw
 DOMAIN-SUFFIX,moneyhome.biz
 DOMAIN-SUFFIX,monica.im
 DOMAIN-SUFFIX,monitorchina.org
-DOMAIN-SUFFIX,monitoring.qatp1.net
-DOMAIN-SUFFIX,monitoring.qcpp1.net
 DOMAIN-SUFFIX,monitoring.qpdp1.net
 DOMAIN-SUFFIX,monitorware.com
 DOMAIN-SUFFIX,monlamit.org
@@ -5457,13 +5448,9 @@ DOMAIN-SUFFIX,pytorch.org
 DOMAIN-SUFFIX,q13.com
 DOMAIN-SUFFIX,q13fox.com
 DOMAIN-SUFFIX,qagpublic.qatp1.net
-DOMAIN-SUFFIX,qagpublic.qcpp1.net
-DOMAIN-SUFFIX,qagpublic.qpdp1.net
 DOMAIN-SUFFIX,qanote.com
 DOMAIN-SUFFIX,qbittorrent.org
-DOMAIN-SUFFIX,qgadmin.qatp1.net
 DOMAIN-SUFFIX,qgadmin.qcpp1.net
-DOMAIN-SUFFIX,qgadmin.qpdp1.net
 DOMAIN-SUFFIX,qgirl.com.tw
 DOMAIN-SUFFIX,qhigh.com
 DOMAIN-SUFFIX,qi-gong.me
@@ -5510,10 +5497,6 @@ DOMAIN-SUFFIX,qstatus.com
 DOMAIN-SUFFIX,qtrac.eu
 DOMAIN-SUFFIX,qtweeter.com
 DOMAIN-SUFFIX,qualysapi.qatp1.net
-DOMAIN-SUFFIX,qualysapi.qcpp1.net
-DOMAIN-SUFFIX,qualysapi.qpdp1.net
-DOMAIN-SUFFIX,qualysguard.qatp1.net
-DOMAIN-SUFFIX,qualysguard.qcpp1.net
 DOMAIN-SUFFIX,qualysguard.qpdp1.net
 DOMAIN-SUFFIX,quannengshen.org
 DOMAIN-SUFFIX,quantumbooter.net
@@ -5760,9 +5743,7 @@ DOMAIN-SUFFIX,sb-cd.com
 DOMAIN-SUFFIX,sbme.me
 DOMAIN-SUFFIX,sbnation.com
 DOMAIN-SUFFIX,sbs.com.au
-DOMAIN-SUFFIX,scanservice1.qatp1.net
 DOMAIN-SUFFIX,scanservice1.qcpp1.net
-DOMAIN-SUFFIX,scanservice1.qpdp1.net
 DOMAIN-SUFFIX,scasino.com
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,schema.org
