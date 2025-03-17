@@ -25,6 +25,7 @@ DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt.ktrackers.com
 DOMAIN,bt.okmp3.ru
 DOMAIN,bt.poletracker.org
+DOMAIN,bt.rer.lol
 DOMAIN,bt1.xxxxbt.cc
 DOMAIN,buny.uk
 DOMAIN,cdn.jsdelivr.net
@@ -34,12 +35,12 @@ DOMAIN,concen.org
 DOMAIN,csgo.wmsj.cn
 DOMAIN,d40969.acod.regrucolo.ru
 DOMAIN,deo.shopeemobile.com
+DOMAIN,discord.heihachi.pw
 DOMAIN,dl.google.com
 DOMAIN,dl.l.google.com
 DOMAIN,dl.steam.clngaa.com
 DOMAIN,dl.steam.ksyna.com
 DOMAIN,dota2.wmsj.cn
-DOMAIN,ec2-18-191-163-220.us-east-2.compute.amazonaws.com
 DOMAIN,eco-push-api-client.meiqia.com
 DOMAIN,errlog.umeng.com
 DOMAIN,evan.im
@@ -64,6 +65,7 @@ DOMAIN,isk.richardsw.club
 DOMAIN,ismaarino.com
 DOMAIN,itunes.apple.com
 DOMAIN,lain.bgm.tv
+DOMAIN,leet-tracker.moe
 DOMAIN,livew.l.qq.com
 DOMAIN,log.mmstat.com
 DOMAIN,lucke.fenesisu.moe
@@ -81,7 +83,6 @@ DOMAIN,ok.zuidapic.com
 DOMAIN,open.acgtracker.com
 DOMAIN,open.demonii.com
 DOMAIN,open.dstud.io
-DOMAIN,open.free-tracker.ga
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.ink
 DOMAIN,open.trackerlist.xyz
@@ -93,7 +94,6 @@ DOMAIN,p4p.arenabg.com
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
 DOMAIN,retracker.spark-rostov.ru
-DOMAIN,retracker.x2k.ru
 DOMAIN,retracker01-msk-virt.corbina.net
 DOMAIN,rewards.hypixel.net
 DOMAIN,router.asus.com
@@ -116,15 +116,16 @@ DOMAIN,sycm.mmstat.com
 DOMAIN,t.jaekr.sh
 DOMAIN,t.overflow.biz
 DOMAIN,taciturn-shadow.spb.ru
-DOMAIN,threads.canofsocks.com
 DOMAIN,tiao.cjkypo.com
 DOMAIN,time.apple.com
 DOMAIN,tk.greedland.net
 DOMAIN,torrent.hificode.in
+DOMAIN,torrent.i.ng
 DOMAIN,torrentsmd.com
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr.zukizuki.org
+DOMAIN,tr3.ysagin.top
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.0x7c0.com
@@ -133,9 +134,11 @@ DOMAIN,tracker.aburaya.live
 DOMAIN,tracker.beeimg.com
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bjut.jp
+DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.bz
+DOMAIN,tracker.cangku.moe
 DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.cyberia.is
 DOMAIN,tracker.darkness.services
@@ -143,7 +146,6 @@ DOMAIN,tracker.ddunlimited.net
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
 DOMAIN,tracker.dmcomic.org
-DOMAIN,tracker.dump.cl
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.fnix.net
 DOMAIN,tracker.foreverpirates.co
@@ -163,11 +165,9 @@ DOMAIN,tracker.leechshield.link
 DOMAIN,tracker.lilithraws.org
 DOMAIN,tracker.lintk.me
 DOMAIN,tracker.linvk.com
-DOMAIN,tracker.moeking.me
 DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.netmap.top
-DOMAIN,tracker.nitrix.me
 DOMAIN,tracker.ololosh.space
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
@@ -212,7 +212,6 @@ DOMAIN,wmsjsteam.com
 DOMAIN,www.all4nothin.net
 DOMAIN,www.asusrouter.com
 DOMAIN,www.genesis-sp.org
-DOMAIN,www.torrent.eu.org
 DOMAIN,www.torrentsnipe.info
 DOMAIN,www.wareztorrent.com
 DOMAIN,xz.pphimalayanrt.com
