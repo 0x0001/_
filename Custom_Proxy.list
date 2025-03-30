@@ -1,3 +1,4 @@
+DOMAIN,ai.google.dev
 DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -7,11 +8,14 @@ DOMAIN,alt5-mtalk.google.com
 DOMAIN,alt6-mtalk.google.com
 DOMAIN,alt7-mtalk.google.com
 DOMAIN,alt8-mtalk.google.com
+DOMAIN,api.githubcopilot.com
+DOMAIN,api.groq.com
 DOMAIN,api.imem.app
 DOMAIN,api.msn.com
 DOMAIN,api.okzy.tv
 DOMAIN,api.statsig.com
 DOMAIN,api.swiftgram.app
+DOMAIN,api.together.xyz
 DOMAIN,apm-misaka.biliapi.net
 DOMAIN,apple.comscoreresearch.com
 DOMAIN,assets.msn.com
@@ -23,6 +27,8 @@ DOMAIN,cdn-spotify-experiments.conductrics.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
 DOMAIN,cloud.oracle.com
+DOMAIN,console.groq.com
+DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,copilot.microsoft.com
 DOMAIN,cs428.wpc.edgecastcdn.net
 DOMAIN,dashasiafox.akamaized.netflix
@@ -33,6 +39,7 @@ DOMAIN,edge.cwtv-vod-ext.top.comcast.net
 DOMAIN,gateway.bingviz.microsoft.net
 DOMAIN,gateway.bingviz.microsoftapp.net
 DOMAIN,gemini.google.com
+DOMAIN,generativelanguage.googleapis.com
 DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,h-dazn.online-metrix.net
 DOMAIN,h-netflix.online-metrix.net
@@ -81,6 +88,7 @@ DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,abema
 DOMAIN-KEYWORD,abematv.akamaized.net
+DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
 DOMAIN-KEYWORD,appledaily
 DOMAIN-KEYWORD,appspot
@@ -89,6 +97,7 @@ DOMAIN-KEYWORD,avtb
 DOMAIN-KEYWORD,bbcfmt
 DOMAIN-KEYWORD,beetalk
 DOMAIN-KEYWORD,blogspot
+DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,discovery.uplynk.com
 DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,dualstack.apiproxy-
@@ -367,6 +376,7 @@ DOMAIN-SUFFIX,agro.hk
 DOMAIN-SUFFIX,ahcdn.com
 DOMAIN-SUFFIX,ai-kan.net
 DOMAIN-SUFFIX,ai-wen.net
+DOMAIN-SUFFIX,ai.azure.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,ai.google
 DOMAIN-SUFFIX,aiosearch.com
@@ -715,6 +725,7 @@ DOMAIN-SUFFIX,bannedbook.org
 DOMAIN-SUFFIX,bannednews.org
 DOMAIN-SUFFIX,banorte.com
 DOMAIN-SUFFIX,baramangaonline.com
+DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,barenakedislam.com
 DOMAIN-SUFFIX,barnabu.co.uk
 DOMAIN-SUFFIX,barton.de
@@ -1541,6 +1552,8 @@ DOMAIN-SUFFIX,coolstuffinc.com
 DOMAIN-SUFFIX,coova.com
 DOMAIN-SUFFIX,coova.net
 DOMAIN-SUFFIX,coova.org
+DOMAIN-SUFFIX,copilot.cloud.microsoft
+DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,coronavirusnow.com
 DOMAIN-SUFFIX,corumcollege.com
 DOMAIN-SUFFIX,cos-moe.com
@@ -2823,6 +2836,7 @@ DOMAIN-SUFFIX,geekheart.info
 DOMAIN-SUFFIX,gekikame.com
 DOMAIN-SUFFIX,gelbooru.com
 DOMAIN-SUFFIX,gemini.com
+DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,generated.photos
 DOMAIN-SUFFIX,genius.com
 DOMAIN-SUFFIX,geocities.co.jp
@@ -3295,6 +3309,8 @@ DOMAIN-SUFFIX,graph.org
 DOMAIN-SUFFIX,graphis.ne.jp
 DOMAIN-SUFFIX,graphql.org
 DOMAIN-SUFFIX,gravatar.com
+DOMAIN-SUFFIX,grazie.ai
+DOMAIN-SUFFIX,grazie.aws.intellij.net
 DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,great-firewall.com
 DOMAIN-SUFFIX,great-roc.org
@@ -4435,6 +4451,7 @@ DOMAIN-SUFFIX,maildns.xyz
 DOMAIN-SUFFIX,maiplus.com
 DOMAIN-SUFFIX,maizhong.org
 DOMAIN-SUFFIX,makemymood.com
+DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,makkahnewspaper.com
 DOMAIN-SUFFIX,malaysiakini.com
 DOMAIN-SUFFIX,mamingzhe.com
@@ -4548,6 +4565,7 @@ DOMAIN-SUFFIX,merit-times.com.tw
 DOMAIN-SUFFIX,meshrep.com
 DOMAIN-SUFFIX,mesotw.com
 DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,metacafe.com
 DOMAIN-SUFFIX,metacubex.one
@@ -4616,6 +4634,7 @@ DOMAIN-SUFFIX,mirrorbooks.com
 DOMAIN-SUFFIX,mirrormedia.mg
 DOMAIN-SUFFIX,missav.com
 DOMAIN-SUFFIX,mist.vip
+DOMAIN-SUFFIX,mistral.ai
 DOMAIN-SUFFIX,mit.edu
 DOMAIN-SUFFIX,mitao.com.tw
 DOMAIN-SUFFIX,mitbbs.com
@@ -6219,6 +6238,7 @@ DOMAIN-SUFFIX,sonidodelaesperanza.org
 DOMAIN-SUFFIX,sopcast.com
 DOMAIN-SUFFIX,sopcast.org
 DOMAIN-SUFFIX,sophos.com
+DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,sorazone.net
 DOMAIN-SUFFIX,sorcerersarena.com
 DOMAIN-SUFFIX,sorting-algorithms.com
