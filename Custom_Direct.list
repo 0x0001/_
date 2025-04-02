@@ -3,6 +3,7 @@ DOMAIN,0d.kebhana.mx
 DOMAIN,1337.abcvg.info
 DOMAIN,ad.10010.com
 DOMAIN,ad.12306.cn
+DOMAIN,admin.52ywp.com
 DOMAIN,ain.bgm.tv
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -23,7 +24,6 @@ DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt.ktrackers.com
 DOMAIN,bt.okmp3.ru
 DOMAIN,bt.poletracker.org
-DOMAIN,bt.rer.lol
 DOMAIN,bt1.xxxxbt.cc
 DOMAIN,buny.uk
 DOMAIN,cdn.jsdelivr.net
@@ -75,12 +75,14 @@ DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
 DOMAIN,mtalk.google.com
 DOMAIN,new-api.meiqia.com
+DOMAIN,ns-1.x-fins.com
 DOMAIN,nyaa.tracker.wf
 DOMAIN,oasisauth.h3c.com
 DOMAIN,ok.zuidapic.com
 DOMAIN,open.acgtracker.com
 DOMAIN,open.demonii.com
 DOMAIN,open.dstud.io
+DOMAIN,open.free-tracker.ga
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.ink
 DOMAIN,open.trackerlist.xyz
@@ -115,10 +117,10 @@ DOMAIN,sycm.mmstat.com
 DOMAIN,t.jaekr.sh
 DOMAIN,t.overflow.biz
 DOMAIN,taciturn-shadow.spb.ru
+DOMAIN,thouvenin.cloud
 DOMAIN,tiao.cjkypo.com
 DOMAIN,time.apple.com
 DOMAIN,tk.greedland.net
-DOMAIN,torrent.hificode.in
 DOMAIN,torrent.i.ng
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
@@ -154,11 +156,8 @@ DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.ghostchu-services.top
 DOMAIN,tracker.gigantino.net
 DOMAIN,tracker.gmi.gd
-DOMAIN,tracker.guguan.dpdns.org
 DOMAIN,tracker.home.kmzs123.cn
-DOMAIN,tracker.iperson.xyz
 DOMAIN,tracker.ipv6tracker.org
-DOMAIN,tracker.ipv6tracker.ru
 DOMAIN,tracker.jdx3.org
 DOMAIN,tracker.kmzs123.cn
 DOMAIN,tracker.kmzs123.top
@@ -170,10 +169,10 @@ DOMAIN,tracker.linvk.com
 DOMAIN,tracker.lyretain.site
 DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
-DOMAIN,tracker.netmap.top
 DOMAIN,tracker.ololosh.space
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
+DOMAIN,tracker.pmman.tech
 DOMAIN,tracker.privateseedbox.xyz
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
@@ -182,7 +181,6 @@ DOMAIN,tracker.srv00.com
 DOMAIN,tracker.theoks.net
 DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
-DOMAIN,tracker.torrust-demo.com
 DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.valete.tf
 DOMAIN,tracker.vanitycore.co
@@ -580,6 +578,7 @@ DOMAIN-SUFFIX,cn163.net
 DOMAIN-SUFFIX,cnblogs.com
 DOMAIN-SUFFIX,cnki.net
 DOMAIN-SUFFIX,cnmstl.net
+DOMAIN-SUFFIX,cnppa.org
 DOMAIN-SUFFIX,coloros.com
 DOMAIN-SUFFIX,comicat.org
 DOMAIN-SUFFIX,concertos.live
@@ -3662,6 +3661,7 @@ IP-CIDR,106.75.224.0/19,no-resolve
 IP-CIDR,106.8.0.0/15,no-resolve
 IP-CIDR,106.80.0.0/12,no-resolve
 IP-CIDR,107.176.0.0/15,no-resolve
+IP-CIDR,108.174.48.100/32,no-resolve
 IP-CIDR,109.244.0.0/16,no-resolve
 IP-CIDR,109.71.4.0/24,no-resolve
 IP-CIDR,110.152.0.0/14,no-resolve
