@@ -29,6 +29,7 @@ DOMAIN,bt1.xxxxbt.cc
 DOMAIN,buny.uk
 DOMAIN,cdn.jsdelivr.net
 DOMAIN,ch3oh.ru
+DOMAIN,chihaya.de
 DOMAIN,clientservices.googleapis.com
 DOMAIN,concen.org
 DOMAIN,config.cmpassport.com
@@ -82,7 +83,6 @@ DOMAIN,msg.umengcloud.com
 DOMAIN,mtalk.google.com
 DOMAIN,new-api.meiqia.com
 DOMAIN,nishub1.10010.com
-DOMAIN,ns-1.x-fins.com
 DOMAIN,ns3109441.mypdns.org
 DOMAIN,nyaa.tracker.wf
 DOMAIN,oasisauth.h3c.com
@@ -90,7 +90,6 @@ DOMAIN,ok.zuidapic.com
 DOMAIN,open.acgtracker.com
 DOMAIN,open.demonii.com
 DOMAIN,open.dstud.io
-DOMAIN,open.free-tracker.ga
 DOMAIN,open.stealth.si
 DOMAIN,open.trackerlist.xyz
 DOMAIN,opencloud.wostore.cn
@@ -131,9 +130,9 @@ DOMAIN,time.apple.com
 DOMAIN,tk.greedland.net
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
+DOMAIN,tr.abir.ga
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr.zukizuki.org
-DOMAIN,tr3.ysagin.top
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.0x7c0.com
@@ -142,7 +141,6 @@ DOMAIN,tracker.aburaya.live
 DOMAIN,tracker.beeimg.com
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bjut.jp
-DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.bz
@@ -153,7 +151,6 @@ DOMAIN,tracker.ddunlimited.net
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
 DOMAIN,tracker.dmcomic.org
-DOMAIN,tracker.dump.cl
 DOMAIN,tracker.expli.top
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.fnix.net
@@ -162,6 +159,7 @@ DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.ghostchu-services.top
 DOMAIN,tracker.gigantino.net
 DOMAIN,tracker.gmi.gd
+DOMAIN,tracker.home.kmzs123.cn
 DOMAIN,tracker.iperson.xyz
 DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.ipv6tracker.ru
@@ -177,8 +175,8 @@ DOMAIN,tracker.lyretain.site
 DOMAIN,tracker.moeblog.cn
 DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
-DOMAIN,tracker.netmap.top
 DOMAIN,tracker.nitrix.me
+DOMAIN,tracker.ololosh.space
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
 DOMAIN,tracker.pmman.tech
@@ -213,7 +211,6 @@ DOMAIN,ts.thefilehosting.com
 DOMAIN,ttk2.nbaonlineservice.com
 DOMAIN,udp.tracker.projectk.org
 DOMAIN,update.googleapis.com
-DOMAIN,utracker.ghostchu-services.top
 DOMAIN,vd.l.qq.com
 DOMAIN,vi.l.qq.com
 DOMAIN,vip.ffzyread.com
@@ -1136,6 +1133,7 @@ DOMAIN-SUFFIX,vipstatic.com
 DOMAIN-SUFFIX,vivo.com
 DOMAIN-SUFFIX,vmall.com
 DOMAIN-SUFFIX,vmallres.com
+DOMAIN-SUFFIX,vumstar.com
 DOMAIN-SUFFIX,wandoujia.com
 DOMAIN-SUFFIX,weather-analytics-events.apple.com
 DOMAIN-SUFFIX,weather-data.apple.com
