@@ -82,6 +82,7 @@ DOMAIN,msg.umengcloud.com
 DOMAIN,mtalk.google.com
 DOMAIN,new-api.meiqia.com
 DOMAIN,nishub1.10010.com
+DOMAIN,ns-1.x-fins.com
 DOMAIN,ns3109441.mypdns.org
 DOMAIN,nyaa.tracker.wf
 DOMAIN,oasisauth.h3c.com
@@ -97,6 +98,7 @@ DOMAIN,opentracker.io
 DOMAIN,origin-a.akamaihd.net
 DOMAIN,p2p.publictracker.xyz
 DOMAIN,p4p.arenabg.com
+DOMAIN,public.tracker.vraphim.com
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
 DOMAIN,retracker.spark-rostov.ru
@@ -126,7 +128,6 @@ DOMAIN,thouvenin.cloud
 DOMAIN,tiao.cjkypo.com
 DOMAIN,time.apple.com
 DOMAIN,tk.greedland.net
-DOMAIN,torrent.hificode.in
 DOMAIN,torrent.i.ng
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
@@ -162,6 +163,7 @@ DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.ghostchu-services.top
 DOMAIN,tracker.gigantino.net
 DOMAIN,tracker.gmi.gd
+DOMAIN,tracker.iperson.xyz
 DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.ipv6tracker.ru
 DOMAIN,tracker.jdx3.org
@@ -172,11 +174,9 @@ DOMAIN,tracker.leechshield.link
 DOMAIN,tracker.lilithraws.org
 DOMAIN,tracker.lintk.me
 DOMAIN,tracker.linvk.com
-DOMAIN,tracker.lyretain.site
 DOMAIN,tracker.moeblog.cn
 DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
-DOMAIN,tracker.ololosh.space
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
 DOMAIN,tracker.privateseedbox.xyz
@@ -185,7 +185,6 @@ DOMAIN,tracker.renfei.net
 DOMAIN,tracker.sbsub.com
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
-DOMAIN,tracker.theoks.net
 DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
@@ -200,6 +199,7 @@ DOMAIN,tracker.yume-hatsuyuki.moe
 DOMAIN,tracker.zhuqiy.top
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.itzmx.com
+DOMAIN,tracker1.myporn.club
 DOMAIN,tracker2.dler.org
 DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.itzmx.com
@@ -210,6 +210,7 @@ DOMAIN,ts.thefilehosting.com
 DOMAIN,ttk2.nbaonlineservice.com
 DOMAIN,udp.tracker.projectk.org
 DOMAIN,update.googleapis.com
+DOMAIN,utracker.ghostchu-services.top
 DOMAIN,vd.l.qq.com
 DOMAIN,vi.l.qq.com
 DOMAIN,vip.ffzyread.com
@@ -495,6 +496,7 @@ DOMAIN-SUFFIX,baidupan.com
 DOMAIN-SUFFIX,baidupcs.com
 DOMAIN-SUFFIX,baidustatic.com
 DOMAIN-SUFFIX,baike.com
+DOMAIN-SUFFIX,bangumi.tv
 DOMAIN-SUFFIX,baomitu.com
 DOMAIN-SUFFIX,bcebos.com
 DOMAIN-SUFFIX,bdimg.com
@@ -504,6 +506,7 @@ DOMAIN-SUFFIX,bdxiguaimg.com
 DOMAIN-SUFFIX,bdxiguastatic.com
 DOMAIN-SUFFIX,beitai.pt
 DOMAIN-SUFFIX,beyond-hd.me
+DOMAIN-SUFFIX,bgm.tv
 DOMAIN-SUFFIX,bibliotik.me
 DOMAIN-SUFFIX,bigfun.cn
 DOMAIN-SUFFIX,bigfunapp.cn
@@ -560,6 +563,7 @@ DOMAIN-SUFFIX,chdbits.co
 DOMAIN-SUFFIX,che168.com
 DOMAIN-SUFFIX,checkip.dyndns.org
 DOMAIN-SUFFIX,checkipv6.dyndns.org
+DOMAIN-SUFFIX,chii.in
 DOMAIN-SUFFIX,chinacache.net
 DOMAIN-SUFFIX,chinaplay.store
 DOMAIN-SUFFIX,chinaso.com
@@ -669,6 +673,7 @@ DOMAIN-SUFFIX,frdic.com
 DOMAIN-SUFFIX,fresh-ideas.cc
 DOMAIN-SUFFIX,fus.cdn.krcom.cn
 DOMAIN-SUFFIX,gainbound.net
+DOMAIN-SUFFIX,game.maj-soul.com
 DOMAIN-SUFFIX,ganji.com
 DOMAIN-SUFFIX,ganjistatic1.com
 DOMAIN-SUFFIX,gazellegames.net
@@ -878,6 +883,7 @@ DOMAIN-SUFFIX,meitudata.com
 DOMAIN-SUFFIX,meitustat.com
 DOMAIN-SUFFIX,meizu.com
 DOMAIN-SUFFIX,members.3322.org
+DOMAIN-SUFFIX,memechen.com
 DOMAIN-SUFFIX,mgtv.com
 DOMAIN-SUFFIX,mi-img.com
 DOMAIN-SUFFIX,mi.com
@@ -1000,6 +1006,7 @@ DOMAIN-SUFFIX,redacted.ch
 DOMAIN-SUFFIX,registry.dockermirror.com
 DOMAIN-SUFFIX,repaik.com
 DOMAIN-SUFFIX,researchgate.net
+DOMAIN-SUFFIX,rewards.bing.com
 DOMAIN-SUFFIX,router.ctc
 DOMAIN-SUFFIX,routerlogin.com
 DOMAIN-SUFFIX,rrys.tv
@@ -1112,6 +1119,7 @@ DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
 DOMAIN-SUFFIX,trip.com
 DOMAIN-SUFFIX,trontv.com
 DOMAIN-SUFFIX,ts.net
+DOMAIN-SUFFIX,tshell.online
 DOMAIN-SUFFIX,ttmeiju.com
 DOMAIN-SUFFIX,tudou.com
 DOMAIN-SUFFIX,tuniu.com
