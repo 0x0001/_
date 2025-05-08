@@ -20,7 +20,6 @@ DOMAIN,asusrouter.com
 DOMAIN,auth.wosms.cn
 DOMAIN,bandito.byterunner.io
 DOMAIN,bdtj.tagtic.cn
-DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt.ktrackers.com
 DOMAIN,bt.okmp3.ru
 DOMAIN,bt.poletracker.org
@@ -82,7 +81,6 @@ DOMAIN,msg.umengcloud.com
 DOMAIN,mtalk.google.com
 DOMAIN,new-api.meiqia.com
 DOMAIN,nishub1.10010.com
-DOMAIN,ns-1.x-fins.com
 DOMAIN,ns3109441.mypdns.org
 DOMAIN,nyaa.tracker.wf
 DOMAIN,oasisauth.h3c.com
@@ -99,6 +97,7 @@ DOMAIN,origin-a.akamaihd.net
 DOMAIN,p2p.publictracker.xyz
 DOMAIN,p4p.arenabg.com
 DOMAIN,public.tracker.vraphim.com
+DOMAIN,region.nl1.privex.cc
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
 DOMAIN,retracker.spark-rostov.ru
@@ -135,6 +134,7 @@ DOMAIN,tr.abiir.top
 DOMAIN,tr.abir.ga
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr.zukizuki.org
+DOMAIN,tr3.ysagin.top
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,trackarr.org
 DOMAIN,tracker-udp.gbitt.info
@@ -151,7 +151,6 @@ DOMAIN,tracker.bz
 DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.cyberia.is
 DOMAIN,tracker.darkness.services
-DOMAIN,tracker.ddunlimited.net
 DOMAIN,tracker.deadorbit.nl
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
@@ -177,8 +176,6 @@ DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.leechshield.link
 DOMAIN,tracker.lilithraws.org
 DOMAIN,tracker.lintk.me
-DOMAIN,tracker.linvk.com
-DOMAIN,tracker.lyretain.site
 DOMAIN,tracker.moeblog.cn
 DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
@@ -192,6 +189,7 @@ DOMAIN,tracker.renfei.net
 DOMAIN,tracker.sbsub.com
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
+DOMAIN,tracker.theoks.net
 DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
@@ -219,7 +217,6 @@ DOMAIN,ts.thefilehosting.com
 DOMAIN,ttk2.nbaonlineservice.com
 DOMAIN,udp.tracker.projectk.org
 DOMAIN,update.googleapis.com
-DOMAIN,utracker.ghostchu-services.top
 DOMAIN,vd.l.qq.com
 DOMAIN,vi.l.qq.com
 DOMAIN,vip.ffzyread.com
@@ -751,6 +748,7 @@ DOMAIN-SUFFIX,heytapcs.com
 DOMAIN-SUFFIX,heytapdownload.com
 DOMAIN-SUFFIX,heytapimage.com
 DOMAIN-SUFFIX,heytapmobi.com
+DOMAIN-SUFFIX,hf-mirror.com
 DOMAIN-SUFFIX,hhanclub.top
 DOMAIN-SUFFIX,hichina.com
 DOMAIN-SUFFIX,hicloud.com
@@ -8966,4 +8964,3 @@ PROCESS-NAME,uTorrent
 PROCESS-NAME,uTorrent.exe
 PROCESS-NAME,v2ray
 PROCESS-NAME,xray
-hf-mirror.com
