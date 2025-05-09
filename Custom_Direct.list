@@ -3,6 +3,7 @@ DOMAIN,0d.kebhana.mx
 DOMAIN,1337.abcvg.info
 DOMAIN,ad.10010.com
 DOMAIN,ad.12306.cn
+DOMAIN,admin.52ywp.com
 DOMAIN,ain.bgm.tv
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -81,13 +82,13 @@ DOMAIN,msg.umengcloud.com
 DOMAIN,mtalk.google.com
 DOMAIN,new-api.meiqia.com
 DOMAIN,nishub1.10010.com
+DOMAIN,ns-1.x-fins.com
 DOMAIN,ns3109441.mypdns.org
 DOMAIN,nyaa.tracker.wf
 DOMAIN,oasisauth.h3c.com
 DOMAIN,ok.zuidapic.com
 DOMAIN,open.demonii.com
 DOMAIN,open.dstud.io
-DOMAIN,open.free-tracker.ga
 DOMAIN,open.stealth.si
 DOMAIN,open.trackerlist.xyz
 DOMAIN,opencloud.wostore.cn
@@ -97,7 +98,6 @@ DOMAIN,origin-a.akamaihd.net
 DOMAIN,p2p.publictracker.xyz
 DOMAIN,p4p.arenabg.com
 DOMAIN,public.tracker.vraphim.com
-DOMAIN,region.nl1.privex.cc
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
 DOMAIN,retracker.spark-rostov.ru
@@ -131,8 +131,6 @@ DOMAIN,torrent.hificode.in
 DOMAIN,torrent.i.ng
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
-DOMAIN,tr.abir.ga
-DOMAIN,tr.nyacat.pw
 DOMAIN,tr.zukizuki.org
 DOMAIN,tr3.ysagin.top
 DOMAIN,tr4ck3r.duckdns.org
@@ -151,6 +149,7 @@ DOMAIN,tracker.bz
 DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.cyberia.is
 DOMAIN,tracker.darkness.services
+DOMAIN,tracker.ddunlimited.net
 DOMAIN,tracker.deadorbit.nl
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
@@ -176,14 +175,13 @@ DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.leechshield.link
 DOMAIN,tracker.lilithraws.org
 DOMAIN,tracker.lintk.me
+DOMAIN,tracker.linvk.com
 DOMAIN,tracker.moeblog.cn
 DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.netmap.top
-DOMAIN,tracker.ololosh.space
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
-DOMAIN,tracker.privateseedbox.xyz
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
 DOMAIN,tracker.sbsub.com
@@ -194,7 +192,6 @@ DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrust-demo.com
-DOMAIN,tracker.trackarr.org
 DOMAIN,tracker.tritan.gg
 DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.valete.tf
