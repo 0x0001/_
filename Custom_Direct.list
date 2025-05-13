@@ -1,8 +1,8 @@
 DOMAIN,0123456789nonexistent.com
-DOMAIN,0d.kebhana.mx
 DOMAIN,1337.abcvg.info
 DOMAIN,ad.10010.com
 DOMAIN,ad.12306.cn
+DOMAIN,admin.52ywp.com
 DOMAIN,ain.bgm.tv
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -26,7 +26,6 @@ DOMAIN,bt.okmp3.ru
 DOMAIN,bt.poletracker.org
 DOMAIN,bt.rer.lol
 DOMAIN,bt1.xxxxbt.cc
-DOMAIN,buny.uk
 DOMAIN,cdn.jsdelivr.net
 DOMAIN,chihaya.de
 DOMAIN,clientservices.googleapis.com
@@ -34,7 +33,6 @@ DOMAIN,config.cmpassport.com
 DOMAIN,csgo.wmsj.cn
 DOMAIN,d40969.acod.regrucolo.ru
 DOMAIN,deo.shopeemobile.com
-DOMAIN,discord.heihachi.pw
 DOMAIN,dl.google.com
 DOMAIN,dl.l.google.com
 DOMAIN,dl.steam.clngaa.com
@@ -84,6 +82,7 @@ DOMAIN,mtalk.google.com
 DOMAIN,new-api.meiqia.com
 DOMAIN,nishub1.10010.com
 DOMAIN,ns-1.x-fins.com
+DOMAIN,ns3109441.mypdns.org
 DOMAIN,nyaa.tracker.wf
 DOMAIN,oasisauth.h3c.com
 DOMAIN,ok.zuidapic.com
@@ -91,7 +90,6 @@ DOMAIN,open.demonii.com
 DOMAIN,open.dstud.io
 DOMAIN,open.free-tracker.ga
 DOMAIN,open.stealth.si
-DOMAIN,open.trackerlist.xyz
 DOMAIN,opencloud.wostore.cn
 DOMAIN,opentor.org
 DOMAIN,opentracker.io
@@ -109,7 +107,6 @@ DOMAIN,seeders-paradise.org
 DOMAIN,servandroidkino.ru
 DOMAIN,setmeup.arubanetworks.com
 DOMAIN,share.hkg-fansub.info
-DOMAIN,shubt.net
 DOMAIN,smp-device-content.apple.com
 DOMAIN,sparkle.ghostchu-services.top
 DOMAIN,st.dl.bscstorage.net
@@ -133,7 +130,6 @@ DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr.zukizuki.org
-DOMAIN,tr3.ysagin.top
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.0x7c0.com
@@ -146,15 +142,14 @@ DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.bz
-DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.cyberia.is
 DOMAIN,tracker.darkness.services
+DOMAIN,tracker.ddunlimited.net
 DOMAIN,tracker.deadorbit.nl
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
 DOMAIN,tracker.dmcomic.org
 DOMAIN,tracker.ducks.party
-DOMAIN,tracker.dump.cl
 DOMAIN,tracker.expli.top
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.fnix.net
@@ -163,7 +158,6 @@ DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.ghostchu-services.top
 DOMAIN,tracker.gigantino.net
 DOMAIN,tracker.gmi.gd
-DOMAIN,tracker.iperson.xyz
 DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.ipv6tracker.ru
 DOMAIN,tracker.itscraftsoftware.my.id
@@ -173,13 +167,10 @@ DOMAIN,tracker.kmzs123.top
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.leechshield.link
 DOMAIN,tracker.lilithraws.org
-DOMAIN,tracker.lintk.me
 DOMAIN,tracker.linvk.com
 DOMAIN,tracker.moeblog.cn
-DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.netmap.top
-DOMAIN,tracker.ololosh.space
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
 DOMAIN,tracker.privateseedbox.xyz
@@ -188,7 +179,6 @@ DOMAIN,tracker.renfei.net
 DOMAIN,tracker.sbsub.com
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
-DOMAIN,tracker.theoks.net
 DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
@@ -204,6 +194,7 @@ DOMAIN,tracker.yume-hatsuyuki.moe
 DOMAIN,tracker.zhuqiy.top
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.itzmx.com
+DOMAIN,tracker1.myporn.club
 DOMAIN,tracker2.dler.org
 DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.itzmx.com
@@ -555,7 +546,6 @@ DOMAIN-SUFFIX,c-ctrip.com
 DOMAIN-SUFFIX,cabdirect.org
 DOMAIN-SUFFIX,cache.pack.google.com
 DOMAIN-SUFFIX,camera360.com
-DOMAIN-SUFFIX,catsxp.com
 DOMAIN-SUFFIX,ccfbits.org
 DOMAIN-SUFFIX,cctv.com
 DOMAIN-SUFFIX,cctvpic.com
@@ -888,7 +878,6 @@ DOMAIN-SUFFIX,meitudata.com
 DOMAIN-SUFFIX,meitustat.com
 DOMAIN-SUFFIX,meizu.com
 DOMAIN-SUFFIX,members.3322.org
-DOMAIN-SUFFIX,memechen.com
 DOMAIN-SUFFIX,mgtv.com
 DOMAIN-SUFFIX,mi-img.com
 DOMAIN-SUFFIX,mi.com
@@ -1124,7 +1113,6 @@ DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
 DOMAIN-SUFFIX,trip.com
 DOMAIN-SUFFIX,trontv.com
 DOMAIN-SUFFIX,ts.net
-DOMAIN-SUFFIX,tshell.online
 DOMAIN-SUFFIX,ttmeiju.com
 DOMAIN-SUFFIX,tudou.com
 DOMAIN-SUFFIX,tuniu.com
@@ -1145,7 +1133,6 @@ DOMAIN-SUFFIX,vipstatic.com
 DOMAIN-SUFFIX,vivo.com
 DOMAIN-SUFFIX,vmall.com
 DOMAIN-SUFFIX,vmallres.com
-DOMAIN-SUFFIX,vumstar.com
 DOMAIN-SUFFIX,wandoujia.com
 DOMAIN-SUFFIX,weather-analytics-events.apple.com
 DOMAIN-SUFFIX,weather-data.apple.com
@@ -1164,7 +1151,6 @@ DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,weiyun.com
 DOMAIN-SUFFIX,wifi.cmcc
 DOMAIN-SUFFIX,wiley.com
-DOMAIN-SUFFIX,winyoungreading.com
 DOMAIN-SUFFIX,womai.com
 DOMAIN-SUFFIX,wscdns.com
 DOMAIN-SUFFIX,wukong.com
