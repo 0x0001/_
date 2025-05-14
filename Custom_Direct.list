@@ -1,8 +1,8 @@
 DOMAIN,0123456789nonexistent.com
+DOMAIN,0d.kebhana.mx
 DOMAIN,1337.abcvg.info
 DOMAIN,ad.10010.com
 DOMAIN,ad.12306.cn
-DOMAIN,admin.52ywp.com
 DOMAIN,ain.bgm.tv
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -26,6 +26,7 @@ DOMAIN,bt.okmp3.ru
 DOMAIN,bt.poletracker.org
 DOMAIN,bt.rer.lol
 DOMAIN,bt1.xxxxbt.cc
+DOMAIN,buny.uk
 DOMAIN,cdn.jsdelivr.net
 DOMAIN,chihaya.de
 DOMAIN,clientservices.googleapis.com
@@ -33,6 +34,7 @@ DOMAIN,config.cmpassport.com
 DOMAIN,csgo.wmsj.cn
 DOMAIN,d40969.acod.regrucolo.ru
 DOMAIN,deo.shopeemobile.com
+DOMAIN,discord.heihachi.pw
 DOMAIN,dl.google.com
 DOMAIN,dl.l.google.com
 DOMAIN,dl.steam.clngaa.com
@@ -90,6 +92,7 @@ DOMAIN,open.demonii.com
 DOMAIN,open.dstud.io
 DOMAIN,open.free-tracker.ga
 DOMAIN,open.stealth.si
+DOMAIN,open.trackerlist.xyz
 DOMAIN,opencloud.wostore.cn
 DOMAIN,opentor.org
 DOMAIN,opentracker.io
@@ -107,6 +110,7 @@ DOMAIN,seeders-paradise.org
 DOMAIN,servandroidkino.ru
 DOMAIN,setmeup.arubanetworks.com
 DOMAIN,share.hkg-fansub.info
+DOMAIN,shubt.net
 DOMAIN,smp-device-content.apple.com
 DOMAIN,sparkle.ghostchu-services.top
 DOMAIN,st.dl.bscstorage.net
@@ -130,6 +134,7 @@ DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr.zukizuki.org
+DOMAIN,tr3.ysagin.top
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.0x7c0.com
@@ -142,6 +147,7 @@ DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.bz
+DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.cyberia.is
 DOMAIN,tracker.darkness.services
 DOMAIN,tracker.ddunlimited.net
@@ -150,6 +156,7 @@ DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
 DOMAIN,tracker.dmcomic.org
 DOMAIN,tracker.ducks.party
+DOMAIN,tracker.dump.cl
 DOMAIN,tracker.expli.top
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.fnix.net
@@ -158,6 +165,7 @@ DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.ghostchu-services.top
 DOMAIN,tracker.gigantino.net
 DOMAIN,tracker.gmi.gd
+DOMAIN,tracker.iperson.xyz
 DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.ipv6tracker.ru
 DOMAIN,tracker.itscraftsoftware.my.id
@@ -167,8 +175,10 @@ DOMAIN,tracker.kmzs123.top
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.leechshield.link
 DOMAIN,tracker.lilithraws.org
+DOMAIN,tracker.lintk.me
 DOMAIN,tracker.linvk.com
 DOMAIN,tracker.moeblog.cn
+DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.netmap.top
 DOMAIN,tracker.opentrackr.org
@@ -179,6 +189,7 @@ DOMAIN,tracker.renfei.net
 DOMAIN,tracker.sbsub.com
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
+DOMAIN,tracker.theoks.net
 DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
