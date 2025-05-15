@@ -3,6 +3,7 @@ DOMAIN,0d.kebhana.mx
 DOMAIN,1337.abcvg.info
 DOMAIN,ad.10010.com
 DOMAIN,ad.12306.cn
+DOMAIN,admin.52ywp.com
 DOMAIN,ain.bgm.tv
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -30,6 +31,7 @@ DOMAIN,buny.uk
 DOMAIN,cdn.jsdelivr.net
 DOMAIN,chihaya.de
 DOMAIN,clientservices.googleapis.com
+DOMAIN,concen.org
 DOMAIN,config.cmpassport.com
 DOMAIN,csgo.wmsj.cn
 DOMAIN,d40969.acod.regrucolo.ru
@@ -68,7 +70,6 @@ DOMAIN,isk.richardsw.club
 DOMAIN,ismaarino.com
 DOMAIN,itunes.apple.com
 DOMAIN,lain.bgm.tv
-DOMAIN,leet-tracker.moe
 DOMAIN,livew.l.qq.com
 DOMAIN,log.cmpassport.com
 DOMAIN,log.mmstat.com
@@ -90,7 +91,6 @@ DOMAIN,oasisauth.h3c.com
 DOMAIN,ok.zuidapic.com
 DOMAIN,open.demonii.com
 DOMAIN,open.dstud.io
-DOMAIN,open.free-tracker.ga
 DOMAIN,open.stealth.si
 DOMAIN,open.trackerlist.xyz
 DOMAIN,opencloud.wostore.cn
@@ -128,10 +128,10 @@ DOMAIN,thouvenin.cloud
 DOMAIN,tiao.cjkypo.com
 DOMAIN,time.apple.com
 DOMAIN,tk.greedland.net
-DOMAIN,torrent.hificode.in
 DOMAIN,torrent.i.ng
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
+DOMAIN,tr.abir.ga
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr.zukizuki.org
 DOMAIN,tr3.ysagin.top
@@ -143,14 +143,12 @@ DOMAIN,tracker.aburaya.live
 DOMAIN,tracker.beeimg.com
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bjut.jp
-DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.bz
 DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.cyberia.is
 DOMAIN,tracker.darkness.services
-DOMAIN,tracker.ddunlimited.net
 DOMAIN,tracker.deadorbit.nl
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
@@ -183,7 +181,6 @@ DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.netmap.top
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
-DOMAIN,tracker.privateseedbox.xyz
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
 DOMAIN,tracker.sbsub.com
@@ -194,7 +191,6 @@ DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrust-demo.com
-DOMAIN,tracker.tritan.gg
 DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.valete.tf
 DOMAIN,tracker.vanitycore.co
