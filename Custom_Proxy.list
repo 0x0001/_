@@ -11,16 +11,12 @@ DOMAIN,alt8-mtalk.google.com
 DOMAIN,api.githubcopilot.com
 DOMAIN,api.groq.com
 DOMAIN,api.imem.app
-DOMAIN,api.msn.com
 DOMAIN,api.okzy.tv
-DOMAIN,api.statsig.com
 DOMAIN,api.swiftgram.app
 DOMAIN,api.together.xyz
 DOMAIN,apm-misaka.biliapi.net
 DOMAIN,apple.comscoreresearch.com
-DOMAIN,assets.msn.com
 DOMAIN,audio4-ak-spotify-com.akamaized.net
-DOMAIN,bahamut.akamaized.net
 DOMAIN,bcbolt446c5271-a.akamaihd.net
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,cdn-spotify-experiments.conductrics.com
@@ -29,15 +25,12 @@ DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
 DOMAIN,cloud.oracle.com
 DOMAIN,console.groq.com
 DOMAIN,copilot-proxy.githubusercontent.com
-DOMAIN,copilot.microsoft.com
 DOMAIN,cs428.wpc.edgecastcdn.net
 DOMAIN,dashasiafox.akamaized.netflix
 DOMAIN,daznfeeds.com.edgekey.net
 DOMAIN,dca-lm-livedazn.secure.footprint.net
 DOMAIN,e13252.dscg.akamaiedge.net
 DOMAIN,edge.cwtv-vod-ext.top.comcast.net
-DOMAIN,gateway.bingviz.microsoft.net
-DOMAIN,gateway.bingviz.microsoftapp.net
 DOMAIN,gemini.google.com
 DOMAIN,generativelanguage.googleapis.com
 DOMAIN,gspe1-ssl.ls.apple.com
@@ -48,29 +41,20 @@ DOMAIN,heads-ak-spotify-com.akamaized.net
 DOMAIN,hulu.com.c.footprint.net
 DOMAIN,hulu.map.fastly.net
 DOMAIN,images-daznservices-com.cdn.ampproject.org
-DOMAIN,in.appcenter.ms
 DOMAIN,itvpnpmobile-a.akamaihd.net
 DOMAIN,ktpx.amazon.com
-DOMAIN,lf16-effectcdn.byteeffecttos-g.com
-DOMAIN,lf16-pkgcdn.pitaya-clientai.com
-DOMAIN,location.microsoft.com
 DOMAIN,mtalk.google.com
 DOMAIN,netflix.com.edgesuite.net
 DOMAIN,news-client.apple.com
 DOMAIN,news-edge.apple.com
 DOMAIN,news-events.apple.com
 DOMAIN,ocvideo.apple.com
-DOMAIN,odc.officeapps.live.com
 DOMAIN,openai-api.arkoselabs.com
 DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
-DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN,production-openaicom-storage.azureedge.net
-DOMAIN,r.bing.com
 DOMAIN,rpg.pic-imges.com
 DOMAIN,rthklive2-lh.akamaihd.net
-DOMAIN,self.events.data.microsoft.com
-DOMAIN,services.bingapis.com
 DOMAIN,spotify.com.edgesuite.net
 DOMAIN,spotify.map.fastly.net
 DOMAIN,spotify.map.fastlylb.net
@@ -83,7 +67,6 @@ DOMAIN,steamusercontent-a.akamaihd.net
 DOMAIN,steamuserimages-a.akamaihd.net
 DOMAIN,sydney.bing.com
 DOMAIN,voice.telephony.goog
-DOMAIN,www.bing.com
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,abema
@@ -113,7 +96,6 @@ DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,japonx
 DOMAIN-KEYWORD,japronx
 DOMAIN-KEYWORD,jooxweb-api
-DOMAIN-KEYWORD,musical.ly
 DOMAIN-KEYWORD,netflixdnstest
 DOMAIN-KEYWORD,nicegram
 DOMAIN-KEYWORD,nivod
@@ -121,7 +103,6 @@ DOMAIN-KEYWORD,nowtv100
 DOMAIN-KEYWORD,olevod
 DOMAIN-KEYWORD,onedrive
 DOMAIN-KEYWORD,openai
-DOMAIN-KEYWORD,openaicom-api
 DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,recaptcha
 DOMAIN-KEYWORD,rthklive
@@ -129,7 +110,6 @@ DOMAIN-KEYWORD,sci-hub
 DOMAIN-KEYWORD,skydrive
 DOMAIN-KEYWORD,spotify
 DOMAIN-KEYWORD,telegram
-DOMAIN-KEYWORD,tiktok
 DOMAIN-KEYWORD,tiktokcdn
 DOMAIN-KEYWORD,ttvnw
 DOMAIN-KEYWORD,tvbanywhere
@@ -553,7 +533,6 @@ DOMAIN-SUFFIX,apartments.com
 DOMAIN-SUFFIX,apat1989.org
 DOMAIN-SUFFIX,apetube.com
 DOMAIN-SUFFIX,api.ai
-DOMAIN-SUFFIX,api.microsoftapp.net
 DOMAIN-SUFFIX,api.proxlet.com
 DOMAIN-SUFFIX,api.statsig.com
 DOMAIN-SUFFIX,api.tv.colnv.com
@@ -860,7 +839,6 @@ DOMAIN-SUFFIX,billypan.com
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,binance.us
 DOMAIN-SUFFIX,binancezh.cc
-DOMAIN-SUFFIX,bing-shopping.microsoft-falcon.io
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,binux.me
 DOMAIN-SUFFIX,binwang.me
@@ -1134,8 +1112,6 @@ DOMAIN-SUFFIX,bynet.co.il
 DOMAIN-SUFFIX,bypasscensorship.org
 DOMAIN-SUFFIX,byrut.org
 DOMAIN-SUFFIX,byspotify.com
-DOMAIN-SUFFIX,bytedapm.com
-DOMAIN-SUFFIX,bytegecko-i18n.com
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,c-est-simple.com
 DOMAIN-SUFFIX,c-span.org
@@ -1183,7 +1159,6 @@ DOMAIN-SUFFIX,caobian.info
 DOMAIN-SUFFIX,caochangqing.com
 DOMAIN-SUFFIX,caoporn.us
 DOMAIN-SUFFIX,cap.org.hk
-DOMAIN-SUFFIX,capcut.com
 DOMAIN-SUFFIX,capitalg.com
 DOMAIN-SUFFIX,carabinasypistolas.com
 DOMAIN-SUFFIX,cardinalkungfoundation.org
@@ -1809,7 +1784,6 @@ DOMAIN-SUFFIX,dialogflow.com
 DOMAIN-SUFFIX,diaoyuislands.org
 DOMAIN-SUFFIX,difangwenge.org
 DOMAIN-SUFFIX,dify.ai
-DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,digiland.tw
 DOMAIN-SUFFIX,digisfera.com
 DOMAIN-SUFFIX,digitalassetlinks.org
@@ -2130,7 +2104,6 @@ DOMAIN-SUFFIX,ecstart.com
 DOMAIN-SUFFIX,edge.api.brightcove.com
 DOMAIN-SUFFIX,edgecastcdn.net
 DOMAIN-SUFFIX,edgedatg.com
-DOMAIN-SUFFIX,edgeservices.bing.com
 DOMAIN-SUFFIX,edgesuite.net
 DOMAIN-SUFFIX,edicypages.com
 DOMAIN-SUFFIX,edmontonchina.cn
@@ -6990,9 +6963,6 @@ DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktok.us
 DOMAIN-SUFFIX,tiktokcdn-us.com
 DOMAIN-SUFFIX,tiktokcdn.com
-DOMAIN-SUFFIX,tiktokd.net
-DOMAIN-SUFFIX,tiktokd.org
-DOMAIN-SUFFIX,tiktokmusic.app
 DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-SUFFIX,tiktokv.us
 DOMAIN-SUFFIX,tiltbrush.com
@@ -7108,7 +7078,6 @@ DOMAIN-SUFFIX,tt1069.com
 DOMAIN-SUFFIX,tttan.com
 DOMAIN-SUFFIX,ttv.com.tw
 DOMAIN-SUFFIX,ttvnw.net
-DOMAIN-SUFFIX,ttwebview.com
 DOMAIN-SUFFIX,ttwstatic.com
 DOMAIN-SUFFIX,tu8964.com
 DOMAIN-SUFFIX,tubaholic.com
@@ -8400,7 +8369,6 @@ DOMAIN-SUFFIX,zyzc9.com
 DOMAIN-SUFFIX,zzcartoon.com
 DOMAIN-SUFFIX,zzcloud.me
 DOMAIN-SUFFIX,zzux.com
-IP-ASN,14061,no-resolve
 IP-ASN,20473,no-resolve
 IP-ASN,211157,no-resolve
 IP-ASN,44907,no-resolve
@@ -10515,7 +10483,6 @@ PROCESS-NAME,com.spotify.music
 PROCESS-NAME,com.viu.pad
 PROCESS-NAME,com.viu.phone
 PROCESS-NAME,com.vuclip.viu
-PROCESS-NAME,com.zhiliaoapp.musically
 PROCESS-NAME,nekox.messenger
 PROCESS-NAME,org.telegram.messenger
 PROCESS-NAME,telegram-desktop
