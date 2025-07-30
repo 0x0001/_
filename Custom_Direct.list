@@ -83,7 +83,6 @@ DOMAIN,mtalk.google.com
 DOMAIN,new-api.meiqia.com
 DOMAIN,nishub1.10010.com
 DOMAIN,ns-1.x-fins.com
-DOMAIN,ns3109441.mypdns.org
 DOMAIN,nyaa.tracker.wf
 DOMAIN,oasisauth.h3c.com
 DOMAIN,ok.zuidapic.com
@@ -100,6 +99,7 @@ DOMAIN,origin-a.akamaihd.net
 DOMAIN,p4p.arenabg.com
 DOMAIN,public.tracker.vraphim.com
 DOMAIN,pybittrack.retiolus.net
+DOMAIN,region.nl1.privex.cc
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
 DOMAIN,retracker.spark-rostov.ru
@@ -110,6 +110,7 @@ DOMAIN,sdk.alibaba.com.ailbaba.me
 DOMAIN,seeders-paradise.org
 DOMAIN,servandroidkino.ru
 DOMAIN,setmeup.arubanetworks.com
+DOMAIN,shahidrazi.online
 DOMAIN,share.hkg-fansub.info
 DOMAIN,shubt.net
 DOMAIN,smp-device-content.apple.com
@@ -122,19 +123,21 @@ DOMAIN,steampipe.steamcontent.tnkjmec.com
 DOMAIN,steampowered.com.8686c.com
 DOMAIN,steamstatic.com.8686c.com
 DOMAIN,sycm.mmstat.com
+DOMAIN,t.213891.xyz
 DOMAIN,t.jaekr.sh
 DOMAIN,t.overflow.biz
 DOMAIN,taciturn-shadow.spb.ru
 DOMAIN,tiao.cjkypo.com
 DOMAIN,time.apple.com
 DOMAIN,tk.greedland.net
+DOMAIN,torrent.hificode.in
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
 DOMAIN,tr.abir.ga
+DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr.zukizuki.org
-DOMAIN,tr3.ysagin.top
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.23794.top
@@ -142,6 +145,7 @@ DOMAIN,tracker.aburaya.live
 DOMAIN,tracker.beeimg.com
 DOMAIN,tracker.bitcoinindia.space
 DOMAIN,tracker.bittor.pw
+DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.bz
@@ -152,6 +156,8 @@ DOMAIN,tracker.darkness.services
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
 DOMAIN,tracker.dmcomic.org
+DOMAIN,tracker.ducks.party
+DOMAIN,tracker.dump.cl
 DOMAIN,tracker.expli.top
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.fnix.net
@@ -162,8 +168,6 @@ DOMAIN,tracker.gigantino.net
 DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.hifimarket.in
 DOMAIN,tracker.hifitechindia.com
-DOMAIN,tracker.home.kmzs123.cn
-DOMAIN,tracker.internetwarriors.net
 DOMAIN,tracker.iperson.xyz
 DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.ipv6tracker.ru
@@ -189,12 +193,12 @@ DOMAIN,tracker.sbsub.com
 DOMAIN,tracker.skillindia.site
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
-DOMAIN,tracker.theoks.net
 DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrust-demo.com
 DOMAIN,tracker.tritan.gg
 DOMAIN,tracker.tryhackx.org
+DOMAIN,tracker.tvunderground.org.ru
 DOMAIN,tracker.valete.tf
 DOMAIN,tracker.vanitycore.co
 DOMAIN,tracker.waaa.moe
@@ -205,6 +209,7 @@ DOMAIN,tracker.zhuqiy.top
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.bt.moack.co.kr
 DOMAIN,tracker1.itzmx.com
+DOMAIN,tracker1.myporn.club
 DOMAIN,tracker2.dler.org
 DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.itzmx.com
@@ -384,6 +389,7 @@ DOMAIN-SUFFIX,5054399.com
 DOMAIN-SUFFIX,51cto.com
 DOMAIN-SUFFIX,51job.com
 DOMAIN-SUFFIX,51jobcdn.com
+DOMAIN-SUFFIX,51wanxue.com
 DOMAIN-SUFFIX,52jiawei.com
 DOMAIN-SUFFIX,52pt.site
 DOMAIN-SUFFIX,56.com
@@ -697,6 +703,7 @@ DOMAIN-SUFFIX,fresh-ideas.cc
 DOMAIN-SUFFIX,fssbcc.top
 DOMAIN-SUFFIX,fus.cdn.krcom.cn
 DOMAIN-SUFFIX,gainbound.net
+DOMAIN-SUFFIX,gaishitongshu.com
 DOMAIN-SUFFIX,game.maj-soul.com
 DOMAIN-SUFFIX,ganji.com
 DOMAIN-SUFFIX,ganjistatic1.com
@@ -726,6 +733,7 @@ DOMAIN-SUFFIX,github.store
 DOMAIN-SUFFIX,giveup.top
 DOMAIN-SUFFIX,go2map.com
 DOMAIN-SUFFIX,godic.net
+DOMAIN-SUFFIX,goka.top
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,googletagservices.com
 DOMAIN-SUFFIX,googletraveladservices.com
@@ -1071,6 +1079,7 @@ DOMAIN-SUFFIX,runoob.com
 DOMAIN-SUFFIX,safebrowsing-cache.google.com
 DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,sankuai.com
+DOMAIN-SUFFIX,sanligu.top
 DOMAIN-SUFFIX,scbaijia.com
 DOMAIN-SUFFIX,sciencemag.org
 DOMAIN-SUFFIX,scopus.com
@@ -1093,6 +1102,7 @@ DOMAIN-SUFFIX,sinaimg.cn
 DOMAIN-SUFFIX,sinaimg.com
 DOMAIN-SUFFIX,sixloy428.top
 DOMAIN-SUFFIX,sjtu.edu.cn
+DOMAIN-SUFFIX,sksight.com
 DOMAIN-SUFFIX,skyey2.com
 DOMAIN-SUFFIX,smtcdns.com
 DOMAIN-SUFFIX,smtcdns.net
@@ -1306,6 +1316,7 @@ DOMAIN-SUFFIX,zmzfile.com
 DOMAIN-SUFFIX,znnu.com
 DOMAIN-SUFFIX,znztv.com
 DOMAIN-SUFFIX,zte.home
+DOMAIN-SUFFIX,zuobiao.press
 IP-CIDR,0.0.0.0/8,no-resolve
 IP-CIDR,1.0.1.0/24,no-resolve
 IP-CIDR,1.0.2.0/23,no-resolve
