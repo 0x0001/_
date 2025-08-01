@@ -87,6 +87,7 @@ DOMAIN,steamstore-a.akamaihd.net
 DOMAIN,steamusercontent-a.akamaihd.net
 DOMAIN,steamuserimages-a.akamaihd.net
 DOMAIN,sydney.bing.com
+DOMAIN,trae-api-sg.mchost.guru
 DOMAIN,voice.telephony.goog
 DOMAIN,www.bing.com
 DOMAIN-KEYWORD,1drv
@@ -1142,6 +1143,7 @@ DOMAIN-SUFFIX,byrut.org
 DOMAIN-SUFFIX,byspotify.com
 DOMAIN-SUFFIX,bytedapm.com
 DOMAIN-SUFFIX,bytegecko-i18n.com
+DOMAIN-SUFFIX,byteintlapi.com
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,c-est-simple.com
 DOMAIN-SUFFIX,c-span.org
@@ -4604,6 +4606,7 @@ DOMAIN-SUFFIX,manyvoices.news
 DOMAIN-SUFFIX,maplew.com
 DOMAIN-SUFFIX,marc.info
 DOMAIN-SUFFIX,marguerite.su
+DOMAIN-SUFFIX,marscode.com
 DOMAIN-SUFFIX,martau.com
 DOMAIN-SUFFIX,martincartoons.com
 DOMAIN-SUFFIX,martinoei.com
