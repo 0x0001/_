@@ -86,6 +86,7 @@ DOMAIN,mtalk.google.com
 DOMAIN,new-api.meiqia.com
 DOMAIN,nishub1.10010.com
 DOMAIN,ns-1.x-fins.com
+DOMAIN,ns3109441.mypdns.org
 DOMAIN,nyaa.tracker.wf
 DOMAIN,oasisauth.h3c.com
 DOMAIN,ok.zuidapic.com
@@ -97,6 +98,7 @@ DOMAIN,open.tracker.cl
 DOMAIN,open.trackerlist.xyz
 DOMAIN,opencloud.wostore.cn
 DOMAIN,opentor.org
+DOMAIN,opentracker.8880085.xyz
 DOMAIN,opentracker.io
 DOMAIN,origin-a.akamaihd.net
 DOMAIN,p4p.arenabg.com
@@ -126,7 +128,6 @@ DOMAIN,steamstatic.com.8686c.com
 DOMAIN,sycm.mmstat.com
 DOMAIN,t.213891.xyz
 DOMAIN,t.jaekr.sh
-DOMAIN,t.overflow.biz
 DOMAIN,taciturn-shadow.spb.ru
 DOMAIN,tiao.cjkypo.com
 DOMAIN,time.apple.com
@@ -136,6 +137,7 @@ DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
 DOMAIN,tr.abir.ga
+DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr.zukizuki.org
 DOMAIN,tr3.ysagin.top
@@ -170,6 +172,7 @@ DOMAIN,tracker.hifimarket.in
 DOMAIN,tracker.hifitechindia.com
 DOMAIN,tracker.iperson.xyz
 DOMAIN,tracker.ipv6tracker.org
+DOMAIN,tracker.ipv6tracker.ru
 DOMAIN,tracker.jdx3.org
 DOMAIN,tracker.kmzs123.cn
 DOMAIN,tracker.kuroy.me
@@ -397,6 +400,7 @@ DOMAIN-SUFFIX,56.com
 DOMAIN-SUFFIX,58.com
 DOMAIN-SUFFIX,64.100.in-addr.arpa
 DOMAIN-SUFFIX,65.100.in-addr.arpa
+DOMAIN-SUFFIX,657192.com
 DOMAIN-SUFFIX,66.100.in-addr.arpa
 DOMAIN-SUFFIX,67.100.in-addr.arpa
 DOMAIN-SUFFIX,68.100.in-addr.arpa
@@ -610,6 +614,7 @@ DOMAIN-SUFFIX,cn163.net
 DOMAIN-SUFFIX,cnblogs.com
 DOMAIN-SUFFIX,cnki.net
 DOMAIN-SUFFIX,cnmstl.net
+DOMAIN-SUFFIX,codeloop.top
 DOMAIN-SUFFIX,coloros.com
 DOMAIN-SUFFIX,comicat.org
 DOMAIN-SUFFIX,concertos.live
@@ -802,6 +807,7 @@ DOMAIN-SUFFIX,home.arpa
 DOMAIN-SUFFIX,hongxiu.com
 DOMAIN-SUFFIX,hrtsea.com
 DOMAIN-SUFFIX,hstbroker.com
+DOMAIN-SUFFIX,hszq6.com
 DOMAIN-SUFFIX,huajiao.com
 DOMAIN-SUFFIX,huawei.com
 DOMAIN-SUFFIX,huaweicloud.com
@@ -811,6 +817,7 @@ DOMAIN-SUFFIX,hub.gitmirror.com
 DOMAIN-SUFFIX,hub.rat.dev
 DOMAIN-SUFFIX,hub.xdark.top
 DOMAIN-SUFFIX,hudbt.hust.edu.cn
+DOMAIN-SUFFIX,huikao8.com
 DOMAIN-SUFFIX,hunantv.com
 DOMAIN-SUFFIX,huoshan.com
 DOMAIN-SUFFIX,huoshanzhibo.com
@@ -967,6 +974,7 @@ DOMAIN-SUFFIX,msg.vg
 DOMAIN-SUFFIX,mslmc.net
 DOMAIN-SUFFIX,msstatic.com
 DOMAIN-SUFFIX,mtalk.google.com
+DOMAIN-SUFFIX,mtaokj.com
 DOMAIN-SUFFIX,mubu.com
 DOMAIN-SUFFIX,mxhichina.com
 DOMAIN-SUFFIX,my.router
