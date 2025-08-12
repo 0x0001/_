@@ -1,4 +1,5 @@
 DOMAIN,ai.google.dev
+DOMAIN,aistudio.google.com
 DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -1478,6 +1479,7 @@ DOMAIN-SUFFIX,ck101.com
 DOMAIN-SUFFIX,clarionproject.org
 DOMAIN-SUFFIX,classicalguitarblog.net
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,clb.org.hk
 DOMAIN-SUFFIX,cleansite.biz
 DOMAIN-SUFFIX,cleansite.info
@@ -1666,6 +1668,8 @@ DOMAIN-SUFFIX,culture.tw
 DOMAIN-SUFFIX,cumlouder.com
 DOMAIN-SUFFIX,curbed.com
 DOMAIN-SUFFIX,curiositystream.com
+DOMAIN-SUFFIX,curosr.com
+DOMAIN-SUFFIX,curosr.sh
 DOMAIN-SUFFIX,curvefish.com
 DOMAIN-SUFFIX,cusp.hk
 DOMAIN-SUFFIX,cusu.hk
@@ -6445,7 +6449,6 @@ DOMAIN-SUFFIX,sonidodelaesperanza.org
 DOMAIN-SUFFIX,sopcast.com
 DOMAIN-SUFFIX,sopcast.org
 DOMAIN-SUFFIX,sophos.com
-DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,sorazone.net
 DOMAIN-SUFFIX,sorcerersarena.com
 DOMAIN-SUFFIX,sorting-algorithms.com
