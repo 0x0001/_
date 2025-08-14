@@ -5,6 +5,7 @@ DOMAIN,1c.premierzal.ru
 DOMAIN,6ahddutb1ucc3cp.ru
 DOMAIN,ad.10010.com
 DOMAIN,ad.12306.cn
+DOMAIN,admin.52ywp.com
 DOMAIN,ain.bgm.tv
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -18,8 +19,6 @@ DOMAIN,analytics.95516.com
 DOMAIN,analytics.strava.com
 DOMAIN,app.adjust.com
 DOMAIN,app.appsflyer.com
-DOMAIN,asiatorrent.ddns.net
-DOMAIN,asiatorrent.giize.com
 DOMAIN,asusrouter.com
 DOMAIN,auth.wosms.cn
 DOMAIN,bandito.byterunner.io
@@ -52,6 +51,7 @@ DOMAIN,explodie.org
 DOMAIN,extracker.dahrkael.net
 DOMAIN,fairplay.l.qq.com
 DOMAIN,finbytes.org
+DOMAIN,glotorrents.pw
 DOMAIN,hificode.in
 DOMAIN,highteahop.top
 DOMAIN,hmrz.wo.cn
@@ -67,7 +67,6 @@ DOMAIN,instant.arubanetworks.com
 DOMAIN,ipv4.rer.lol
 DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,ipv6.rer.lol
-DOMAIN,isk.richardsw.club
 DOMAIN,itunes.apple.com
 DOMAIN,lain.bgm.tv
 DOMAIN,livew.l.qq.com
@@ -133,6 +132,7 @@ DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
 DOMAIN,tr.abir.ga
+DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr.zukizuki.org
 DOMAIN,tr4ck3r.duckdns.org
@@ -148,6 +148,7 @@ DOMAIN,tracker.bz
 DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.cutie.dating
 DOMAIN,tracker.cyberia.is
+DOMAIN,tracker.darkness.services
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
 DOMAIN,tracker.dmcomic.org
@@ -163,17 +164,16 @@ DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.healthcareindia.store
 DOMAIN,tracker.hifimarket.in
 DOMAIN,tracker.hifitechindia.com
+DOMAIN,tracker.iperson.xyz
 DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.ipv6tracker.ru
 DOMAIN,tracker.jdx3.org
-DOMAIN,tracker.kmzs123.cn
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.leechshield.link
 DOMAIN,tracker.lintk.me
 DOMAIN,tracker.moeblog.cn
 DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
-DOMAIN,tracker.netmap.top
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
 DOMAIN,tracker.plx.im
@@ -184,9 +184,7 @@ DOMAIN,tracker.renfei.net
 DOMAIN,tracker.rescuecrew7.com
 DOMAIN,tracker.sbsub.com
 DOMAIN,tracker.skillindia.site
-DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
-DOMAIN,tracker.theoks.net
 DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrust-demo.com
@@ -1157,6 +1155,7 @@ DOMAIN-SUFFIX,springsunday.net
 DOMAIN-SUFFIX,sptv.ii00.cc
 DOMAIN-SUFFIX,ssl-google-analytics.l.google.com
 DOMAIN-SUFFIX,sspai.com
+DOMAIN-SUFFIX,starlink.uno
 DOMAIN-SUFFIX,startssl.com
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
@@ -1298,6 +1297,7 @@ DOMAIN-SUFFIX,xitek.com
 DOMAIN-SUFFIX,xiumi.us
 DOMAIN-SUFFIX,xixih.cc
 DOMAIN-SUFFIX,xmcdn.com
+DOMAIN-SUFFIX,xn--4kq62z5rby2qupq9ub.top
 DOMAIN-SUFFIX,xn--55qx5d
 DOMAIN-SUFFIX,xn--fiqs8s
 DOMAIN-SUFFIX,xn--io0a7i
