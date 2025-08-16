@@ -1,5 +1,6 @@
 DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
+DOMAIN,1.tracker.eu.org
 DOMAIN,1337.abcvg.info
 DOMAIN,1c.premierzal.ru
 DOMAIN,6ahddutb1ucc3cp.ru
@@ -56,6 +57,7 @@ DOMAIN,hificode.in
 DOMAIN,highteahop.top
 DOMAIN,hmrz.wo.cn
 DOMAIN,home.yxgz.club
+DOMAIN,ibksturm.synology.me
 DOMAIN,id.mail.wo.cn
 DOMAIN,image.maimn.com
 DOMAIN,img.bfzypic.com
@@ -67,8 +69,10 @@ DOMAIN,instant.arubanetworks.com
 DOMAIN,ipv4.rer.lol
 DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,ipv6.rer.lol
+DOMAIN,isk.richardsw.club
 DOMAIN,itunes.apple.com
 DOMAIN,lain.bgm.tv
+DOMAIN,leet-tracker.moe
 DOMAIN,livew.l.qq.com
 DOMAIN,log.cmpassport.com
 DOMAIN,log.mmstat.com
@@ -114,6 +118,7 @@ DOMAIN,shahidrazi.online
 DOMAIN,share.hkg-fansub.info
 DOMAIN,shubt.net
 DOMAIN,smp-device-content.apple.com
+DOMAIN,speedtest.iperson.xyz
 DOMAIN,st.dl.bscstorage.net
 DOMAIN,st.dl.eccdnx.com
 DOMAIN,st.dl.pinyuncloud.com
@@ -132,9 +137,8 @@ DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
 DOMAIN,tr.abir.ga
-DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
-DOMAIN,tr.zukizuki.org
+DOMAIN,tr3.ysagin.top
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.23794.top
@@ -145,6 +149,7 @@ DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.bz
+DOMAIN,tracker.cangku.moe
 DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.cutie.dating
 DOMAIN,tracker.cyberia.is
@@ -164,7 +169,7 @@ DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.healthcareindia.store
 DOMAIN,tracker.hifimarket.in
 DOMAIN,tracker.hifitechindia.com
-DOMAIN,tracker.iperson.xyz
+DOMAIN,tracker.internetwarriors.net
 DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.ipv6tracker.ru
 DOMAIN,tracker.jdx3.org
@@ -185,6 +190,7 @@ DOMAIN,tracker.rescuecrew7.com
 DOMAIN,tracker.sbsub.com
 DOMAIN,tracker.skillindia.site
 DOMAIN,tracker.srv00.com
+DOMAIN,tracker.theoks.net
 DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrust-demo.com
@@ -225,7 +231,6 @@ DOMAIN,www.asusrouter.com
 DOMAIN,www.genesis-sp.org
 DOMAIN,www.torrent.eu.org
 DOMAIN,www.torrentsnipe.info
-DOMAIN,www.wareztorrent.com
 DOMAIN,xz.pphimalayanrt.com
 DOMAIN,ye.dun.163yun.com
 DOMAIN-KEYWORD,360buy
@@ -294,6 +299,7 @@ DOMAIN-KEYWORD,yunpan
 DOMAIN-SUFFIX,0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 DOMAIN-SUFFIX,0.in-addr.arpa
 DOMAIN-SUFFIX,00cdn.com
+DOMAIN-SUFFIX,03241119.xyz
 DOMAIN-SUFFIX,1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 DOMAIN-SUFFIX,10.in-addr.arpa
 DOMAIN-SUFFIX,100.100.in-addr.arpa
