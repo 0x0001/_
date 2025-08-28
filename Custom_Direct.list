@@ -9,7 +9,6 @@ DOMAIN,4.tracker.eu.org
 DOMAIN,6ahddutb1ucc3cp.ru
 DOMAIN,ad.10010.com
 DOMAIN,ad.12306.cn
-DOMAIN,admin.52ywp.com
 DOMAIN,ain.bgm.tv
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -131,16 +130,19 @@ DOMAIN,steamstatic.com.8686c.com
 DOMAIN,sycm.mmstat.com
 DOMAIN,t.jaekr.sh
 DOMAIN,t.overflow.biz
+DOMAIN,t1.hloli.org
 DOMAIN,tiao.cjkypo.com
 DOMAIN,time.apple.com
 DOMAIN,tk.greedland.net
 DOMAIN,torrent.hificode.in
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentsmd.com
+DOMAIN,tr-zhuqiy-2.dgj055.icu
 DOMAIN,tr.abiir.top
 DOMAIN,tr.abir.ga
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr.zukizuki.org
+DOMAIN,tr3.ysagin.top
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.23794.top
@@ -153,7 +155,6 @@ DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.bz
-DOMAIN,tracker.cangku.moe
 DOMAIN,tracker.cloudbase.store
 DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.cutie.dating
@@ -173,9 +174,8 @@ DOMAIN,tracker.healthcareindia.store
 DOMAIN,tracker.hifimarket.in
 DOMAIN,tracker.hifitechindia.com
 DOMAIN,tracker.home.kmzs123.cn
-DOMAIN,tracker.internetwarriors.net
+DOMAIN,tracker.iperson.xyz
 DOMAIN,tracker.ipv6tracker.org
-DOMAIN,tracker.ipv6tracker.ru
 DOMAIN,tracker.jdx3.org
 DOMAIN,tracker.kmzs123.cn
 DOMAIN,tracker.kuroy.me
@@ -184,11 +184,13 @@ DOMAIN,tracker.lintk.me
 DOMAIN,tracker.moeblog.cn
 DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
+DOMAIN,tracker.netmap.top
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
 DOMAIN,tracker.plx.im
 DOMAIN,tracker.pmman.tech
 DOMAIN,tracker.privateseedbox.xyz
+DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
 DOMAIN,tracker.rescuecrew7.com
 DOMAIN,tracker.sbsub.com
@@ -219,7 +221,6 @@ DOMAIN,tracker3.itzmx.com
 DOMAIN,tracker4.itzmx.com
 DOMAIN,tracker810.xyz
 DOMAIN,tracking.miui.com
-DOMAIN,trl-zhuqiy.dgj055.icu
 DOMAIN,ts.thefilehosting.com
 DOMAIN,ttk2.nbaonlineservice.com
 DOMAIN,udp.tracker.projectk.org
@@ -327,6 +328,7 @@ DOMAIN-SUFFIX,113.100.in-addr.arpa
 DOMAIN-SUFFIX,114.100.in-addr.arpa
 DOMAIN-SUFFIX,115.100.in-addr.arpa
 DOMAIN-SUFFIX,115.com
+DOMAIN-SUFFIX,115cdn.de
 DOMAIN-SUFFIX,116.100.in-addr.arpa
 DOMAIN-SUFFIX,117.100.in-addr.arpa
 DOMAIN-SUFFIX,118.100.in-addr.arpa
@@ -983,6 +985,7 @@ DOMAIN-SUFFIX,mgtv.com
 DOMAIN-SUFFIX,mi-img.com
 DOMAIN-SUFFIX,mi.com
 DOMAIN-SUFFIX,miaopai.com
+DOMAIN-SUFFIX,micu.hk
 DOMAIN-SUFFIX,mifeng.plus
 DOMAIN-SUFFIX,migucloud.com
 DOMAIN-SUFFIX,miguvideo.com
@@ -1202,6 +1205,7 @@ DOMAIN-SUFFIX,sxlljm.com
 DOMAIN-SUFFIX,synology.com
 DOMAIN-SUFFIX,synology.me
 DOMAIN-SUFFIX,taihe.com
+DOMAIN-SUFFIX,tailgdd.com
 DOMAIN-SUFFIX,tangguobaohe.com
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,taobaocdn.com
@@ -1217,6 +1221,7 @@ DOMAIN-SUFFIX,tendawifi.com
 DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,test.steampowered.com
 DOMAIN-SUFFIX,th-sjy.com
+DOMAIN-SUFFIX,thinkerride.com
 DOMAIN-SUFFIX,thundercdn.com
 DOMAIN-SUFFIX,tianqi.com
 DOMAIN-SUFFIX,tianqistatic.com
