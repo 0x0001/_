@@ -1,7 +1,11 @@
 DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
+DOMAIN,1.tracker.eu.org
 DOMAIN,1337.abcvg.info
 DOMAIN,1c.premierzal.ru
+DOMAIN,2.tracker.eu.org
+DOMAIN,3.tracker.eu.org
+DOMAIN,4.tracker.eu.org
 DOMAIN,6ahddutb1ucc3cp.ru
 DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
 DOMAIN,ad.10010.com
@@ -18,11 +22,8 @@ DOMAIN,alt7-mtalk.google.com
 DOMAIN,alt8-mtalk.google.com
 DOMAIN,analytics.95516.com
 DOMAIN,analytics.strava.com
-DOMAIN,api.ipv4online.uk
 DOMAIN,app.adjust.com
 DOMAIN,app.appsflyer.com
-DOMAIN,asiatorrent.ddns.net
-DOMAIN,asiatorrent.giize.com
 DOMAIN,asusrouter.com
 DOMAIN,auth.wosms.cn
 DOMAIN,bandito.byterunner.io
@@ -41,7 +42,6 @@ DOMAIN,config.cmpassport.com
 DOMAIN,csgo.wmsj.cn
 DOMAIN,d40969.acod.regrucolo.ru
 DOMAIN,deo.shopeemobile.com
-DOMAIN,discord.heihachi.pw
 DOMAIN,dl.google.com
 DOMAIN,dl.l.google.com
 DOMAIN,dl.steam.clngaa.com
@@ -55,10 +55,6 @@ DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
 DOMAIN,extracker.dahrkael.net
 DOMAIN,fairplay.l.qq.com
-DOMAIN,finbytes.org
-DOMAIN,glotorrents.pw
-DOMAIN,hificode.in
-DOMAIN,highteahop.top
 DOMAIN,hmrz.wo.cn
 DOMAIN,home.yxgz.club
 DOMAIN,ibksturm.synology.me
@@ -75,7 +71,6 @@ DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,ipv6.rer.lol
 DOMAIN,isk.richardsw.club
 DOMAIN,itunes.apple.com
-DOMAIN,k.avc.cx
 DOMAIN,lain.bgm.tv
 DOMAIN,leet-tracker.moe
 DOMAIN,livew.l.qq.com
@@ -98,7 +93,6 @@ DOMAIN,oasisauth.h3c.com
 DOMAIN,ok.zuidapic.com
 DOMAIN,open.demonii.com
 DOMAIN,open.dstud.io
-DOMAIN,open.free-tracker.ga
 DOMAIN,open.stealth.si
 DOMAIN,open.trackerlist.xyz
 DOMAIN,opencloud.wostore.cn
@@ -106,6 +100,7 @@ DOMAIN,opentor.org
 DOMAIN,opentracker.io
 DOMAIN,origin-a.akamaihd.net
 DOMAIN,p4p.arenabg.com
+DOMAIN,public.tracker.vraphim.com
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
 DOMAIN,retracker.spark-rostov.ru
@@ -128,7 +123,6 @@ DOMAIN,steampipe.steamcontent.tnkjmec.com
 DOMAIN,steampowered.com.8686c.com
 DOMAIN,steamstatic.com.8686c.com
 DOMAIN,sycm.mmstat.com
-DOMAIN,t.jaekr.sh
 DOMAIN,t.overflow.biz
 DOMAIN,t1.hloli.org
 DOMAIN,tiao.cjkypo.com
@@ -137,14 +131,15 @@ DOMAIN,tk.greedland.net
 DOMAIN,torrent.hificode.in
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentsmd.com
-DOMAIN,tr-zhuqiy-1.dgj055.icu
 DOMAIN,tr.abiir.top
 DOMAIN,tr.abir.ga
+DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr.zukizuki.org
 DOMAIN,tr3.ysagin.top
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-de-2.cutie.dating
+DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.23794.top
 DOMAIN,tracker.aburaya.live
 DOMAIN,tracker.beeimg.com
@@ -156,8 +151,10 @@ DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.bz
 DOMAIN,tracker.cloudbase.store
 DOMAIN,tracker.corpscorp.online
+DOMAIN,tracker.cutie.dating
 DOMAIN,tracker.cyberia.is
 DOMAIN,tracker.darkness.services
+DOMAIN,tracker.dhitechnical.com
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
 DOMAIN,tracker.dmcomic.org
@@ -183,7 +180,6 @@ DOMAIN,tracker.lintk.me
 DOMAIN,tracker.moeblog.cn
 DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
-DOMAIN,tracker.ololosh.space
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
 DOMAIN,tracker.plx.im
@@ -205,6 +201,7 @@ DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.tvunderground.org.ru
 DOMAIN,tracker.valete.tf
 DOMAIN,tracker.vanitycore.co
+DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.xiaoduola.xyz
 DOMAIN,tracker.yemekyedim.com
 DOMAIN,tracker.zhuqiy.top
@@ -218,7 +215,6 @@ DOMAIN,tracker3.itzmx.com
 DOMAIN,tracker4.itzmx.com
 DOMAIN,tracker810.xyz
 DOMAIN,tracking.miui.com
-DOMAIN,trl-zhuqiy.dgj055.icu
 DOMAIN,ts.thefilehosting.com
 DOMAIN,ttk2.nbaonlineservice.com
 DOMAIN,udp.tracker.projectk.org
@@ -992,7 +988,9 @@ DOMAIN-SUFFIX,lyihub.com
 DOMAIN-SUFFIX,lyilife.com
 DOMAIN-SUFFIX,lztr.me
 DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,m-team.io
 DOMAIN-SUFFIX,madsrevolution.net
+DOMAIN-SUFFIX,manfuz.co
 DOMAIN-SUFFIX,maoyan.com
 DOMAIN-SUFFIX,mc-user.com
 DOMAIN-SUFFIX,meilishuo.com
