@@ -5,11 +5,11 @@ DOMAIN,1337.abcvg.info
 DOMAIN,1c.premierzal.ru
 DOMAIN,2.tracker.eu.org
 DOMAIN,3.tracker.eu.org
-DOMAIN,4.tracker.eu.org
 DOMAIN,6ahddutb1ucc3cp.ru
 DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
 DOMAIN,ad.10010.com
 DOMAIN,ad.12306.cn
+DOMAIN,admin.52ywp.com
 DOMAIN,ain.bgm.tv
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -39,6 +39,7 @@ DOMAIN,burmese.app
 DOMAIN,bvarf.tracker.sh
 DOMAIN,cdn.jsdelivr.net
 DOMAIN,clientservices.googleapis.com
+DOMAIN,cny.fan
 DOMAIN,concen.org
 DOMAIN,config.cmpassport.com
 DOMAIN,csgo.wmsj.cn
@@ -60,6 +61,7 @@ DOMAIN,extracker.dahrkael.net
 DOMAIN,fairplay.l.qq.com
 DOMAIN,hmrz.wo.cn
 DOMAIN,home.yxgz.club
+DOMAIN,ibksturm.synology.me
 DOMAIN,id.mail.wo.cn
 DOMAIN,image.maimn.com
 DOMAIN,img.bfzypic.com
@@ -87,6 +89,8 @@ DOMAIN,msg.umengcloud.com
 DOMAIN,mtalk.google.com
 DOMAIN,new-api.meiqia.com
 DOMAIN,nishub1.10010.com
+DOMAIN,ns-1.x-fins.com
+DOMAIN,ns3109441.mypdns.org
 DOMAIN,nyaa.tracker.wf
 DOMAIN,oasisauth.h3c.com
 DOMAIN,ok.zuidapic.com
@@ -141,11 +145,13 @@ DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentclub.online
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
+DOMAIN,tr.abir.ga
 DOMAIN,tr.highstar.shop
+DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr.zukizuki.org
-DOMAIN,tr3.ysagin.top
 DOMAIN,tr4ck3r.duckdns.org
+DOMAIN,tracker-de-2.cutie.dating
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.23794.top
 DOMAIN,tracker.aburaya.live
@@ -184,10 +190,10 @@ DOMAIN,tracker.lintk.me
 DOMAIN,tracker.moeblog.cn
 DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
-DOMAIN,tracker.ololosh.space
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
 DOMAIN,tracker.plx.im
+DOMAIN,tracker.pmman.tech
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
 DOMAIN,tracker.rescuecrew7.com
@@ -205,7 +211,9 @@ DOMAIN,tracker.tvunderground.org.ru
 DOMAIN,tracker.uraniumhexafluori.de
 DOMAIN,tracker.valete.tf
 DOMAIN,tracker.vanitycore.co
+DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.xiaoduola.xyz
+DOMAIN,tracker.xn--djrq4gl4hvoi.top
 DOMAIN,tracker.yemekyedim.com
 DOMAIN,tracker.zhuqiy.com
 DOMAIN,tracker.zupix.online
@@ -217,6 +225,7 @@ DOMAIN,tracker3.itzmx.com
 DOMAIN,tracker4.itzmx.com
 DOMAIN,tracker810.xyz
 DOMAIN,tracking.miui.com
+DOMAIN,trl-zhuqiy.dgj055.icu
 DOMAIN,ts.thefilehosting.com
 DOMAIN,ttk2.nbaonlineservice.com
 DOMAIN,udp.tracker.projectk.org
@@ -1417,6 +1426,7 @@ DOMAIN-SUFFIX,xiaomi.com
 DOMAIN-SUFFIX,xiaomi.net
 DOMAIN-SUFFIX,xiaomicp.com
 DOMAIN-SUFFIX,ximalaya.com
+DOMAIN-SUFFIX,xinghaiwaimai.com
 DOMAIN-SUFFIX,xinhuanet.com
 DOMAIN-SUFFIX,xip.io
 DOMAIN-SUFFIX,xitek.com
