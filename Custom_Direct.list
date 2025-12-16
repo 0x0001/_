@@ -1,7 +1,6 @@
 DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
 DOMAIN,1337.abcvg.info
-DOMAIN,6ahddutb1ucc3cp.ru
 DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
 DOMAIN,ad.10010.com
 DOMAIN,ad.12306.cn
@@ -41,11 +40,13 @@ DOMAIN,config.cmpassport.com
 DOMAIN,csgo.wmsj.cn
 DOMAIN,d40969.acod.regrucolo.ru
 DOMAIN,deo.shopeemobile.com
+DOMAIN,discord.heihachi.pw
 DOMAIN,dl.google.com
 DOMAIN,dl.l.google.com
 DOMAIN,dl.steam.clngaa.com
 DOMAIN,dl.steam.ksyna.com
 DOMAIN,dota2.wmsj.cn
+DOMAIN,echostar.ddnsfree.com
 DOMAIN,eco-push-api-client.meiqia.com
 DOMAIN,enrichgw.10010.com
 DOMAIN,errlog.umeng.com
@@ -53,7 +54,6 @@ DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
 DOMAIN,extracker.dahrkael.net
 DOMAIN,fairplay.l.qq.com
-DOMAIN,glotorrents.pw
 DOMAIN,hmrz.wo.cn
 DOMAIN,home.yxgz.club
 DOMAIN,id.mail.wo.cn
@@ -68,8 +68,8 @@ DOMAIN,ipv4.rer.lol
 DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,ipv6.rer.lol
 DOMAIN,itunes.apple.com
-DOMAIN,laestrygonian.ooguy.com
 DOMAIN,lain.bgm.tv
+DOMAIN,leet-tracker.moe
 DOMAIN,livew.l.qq.com
 DOMAIN,log.cmpassport.com
 DOMAIN,log.mmstat.com
@@ -84,6 +84,7 @@ DOMAIN,msg.umengcloud.com
 DOMAIN,mtalk.google.com
 DOMAIN,new-api.meiqia.com
 DOMAIN,nishub1.10010.com
+DOMAIN,ns-1.x-fins.com
 DOMAIN,nyaa.tracker.wf
 DOMAIN,oasisauth.h3c.com
 DOMAIN,ok.zuidapic.com
@@ -92,7 +93,6 @@ DOMAIN,open.acgtracker.com
 DOMAIN,open.demonii.com
 DOMAIN,open.demonoid.ch
 DOMAIN,open.dstud.io
-DOMAIN,open.free-tracker.ga
 DOMAIN,open.stealth.si
 DOMAIN,open.trackerlist.xyz
 DOMAIN,opencloud.wostore.cn
@@ -138,7 +138,6 @@ DOMAIN,tr.highstar.shop
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr.zukizuki.org
-DOMAIN,tr3.ysagin.top
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-de-2.cutie.dating
 DOMAIN,tracker-udp.gbitt.info
@@ -190,18 +189,13 @@ DOMAIN,tracker.pmman.tech
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
 DOMAIN,tracker.sbsub.com
-DOMAIN,tracker.skillindia.site
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
 DOMAIN,tracker.t-1.org
-DOMAIN,tracker.theoks.net
-DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrust-demo.com
-DOMAIN,tracker.tricitytorrents.com
 DOMAIN,tracker.tritan.gg
 DOMAIN,tracker.tryhackx.org
-DOMAIN,tracker.tvunderground.org.ru
 DOMAIN,tracker.uraniumhexafluori.de
 DOMAIN,tracker.vanitycore.co
 DOMAIN,tracker.waaa.moe
@@ -227,6 +221,7 @@ DOMAIN,vd.l.qq.com
 DOMAIN,vi.l.qq.com
 DOMAIN,vip.ffzyread.com
 DOMAIN,vip.imgffzy.com
+DOMAIN,wepzone.net
 DOMAIN,wmsjsteam.com
 DOMAIN,www.all4nothin.net
 DOMAIN,www.asusrouter.com
@@ -459,6 +454,7 @@ DOMAIN-SUFFIX,985hezi.com
 DOMAIN-SUFFIX,99.100.in-addr.arpa
 DOMAIN-SUFFIX,998tool.com
 DOMAIN-SUFFIX,a.e.f.ip6.arpa
+DOMAIN-SUFFIX,aaawz.cc
 DOMAIN-SUFFIX,abchina.com
 DOMAIN-SUFFIX,abercrombie.com
 DOMAIN-SUFFIX,acfun.tv
@@ -1042,6 +1038,7 @@ DOMAIN-SUFFIX,letvlive.com
 DOMAIN-SUFFIX,letvstore.com
 DOMAIN-SUFFIX,liunn.com
 DOMAIN-SUFFIX,livechina.com
+DOMAIN-SUFFIX,liveperson.net
 DOMAIN-SUFFIX,lizhi.fm
 DOMAIN-SUFFIX,lizhi.io
 DOMAIN-SUFFIX,lizhifm.com
@@ -1427,6 +1424,7 @@ DOMAIN-SUFFIX,vmallres.com
 DOMAIN-SUFFIX,vv1865.com
 DOMAIN-SUFFIX,wandoujia.com
 DOMAIN-SUFFIX,warmheart.top
+DOMAIN-SUFFIX,we-stats.com
 DOMAIN-SUFFIX,weather-analytics-events.apple.com
 DOMAIN-SUFFIX,weather-data.apple.com
 DOMAIN-SUFFIX,weather-map.apple.com
