@@ -1,5 +1,4 @@
 DOMAIN,1337.abcvg.info
-DOMAIN,6ahddutb1ucc3cp.ru
 DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
 DOMAIN,ad.10010.com
 DOMAIN,ad.12306.cn
@@ -26,7 +25,6 @@ DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt.bontal.net
 DOMAIN,bt.okmp3.ru
 DOMAIN,bt.rer.lol
-DOMAIN,burmese.app
 DOMAIN,bvarf.tracker.sh
 DOMAIN,cdn.jsdelivr.net
 DOMAIN,clientservices.googleapis.com
@@ -78,6 +76,7 @@ DOMAIN,msg.umengcloud.com
 DOMAIN,mtalk.google.com
 DOMAIN,new-api.meiqia.com
 DOMAIN,nishub1.10010.com
+DOMAIN,node01.trackerstatus.live
 DOMAIN,ns575949.ip-51-222-82.net
 DOMAIN,nyaa.tracker.wf
 DOMAIN,oasisauth.h3c.com
@@ -122,20 +121,17 @@ DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentclub.online
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
+DOMAIN,tr.abir.ga
 DOMAIN,tr.highstar.shop
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
-DOMAIN,tr.zukizuki.org
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-de-2.cutie.dating
 DOMAIN,tracker-udp.gbitt.info
-DOMAIN,tracker-zhuqiy.dgj055.icu
 DOMAIN,tracker.0x7c0.com
 DOMAIN,tracker.1h.is
-DOMAIN,tracker.23794.top
 DOMAIN,tracker.alaskantf.com
 DOMAIN,tracker.beeimg.com
-DOMAIN,tracker.bitcoinindia.space
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt4g.com
@@ -151,12 +147,12 @@ DOMAIN,tracker.filemail.com
 DOMAIN,tracker.flatuslifir.is
 DOMAIN,tracker.fnix.net
 DOMAIN,tracker.foreverpirates.co
+DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.ghostchu-services.top
 DOMAIN,tracker.gmi.gd
-DOMAIN,tracker.hifimarket.in
-DOMAIN,tracker.hifitechindia.com
 DOMAIN,tracker.internetwarriors.net
 DOMAIN,tracker.iochimari.moe
+DOMAIN,tracker.iperson.xyz
 DOMAIN,tracker.ipv6tracker.ru
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.leechshield.link
@@ -171,6 +167,8 @@ DOMAIN,tracker.plx.im
 DOMAIN,tracker.pmman.tech
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
+DOMAIN,tracker.skillindia.site
+DOMAIN,tracker.skynetcloud.site
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
 DOMAIN,tracker.startwork.cv
@@ -211,6 +209,7 @@ DOMAIN,www.torrent.eu.org
 DOMAIN,www.wareztorrent.com
 DOMAIN,xz.pphimalayanrt.com
 DOMAIN,ye.dun.163yun.com
+DOMAIN,yuki.bt.bontal.net
 DOMAIN-KEYWORD,360buy
 DOMAIN-KEYWORD,alicdn
 DOMAIN-KEYWORD,alimama
@@ -441,6 +440,7 @@ DOMAIN-SUFFIX,abercrombie.com
 DOMAIN-SUFFIX,acfun.tv
 DOMAIN-SUFFIX,acg.rip
 DOMAIN-SUFFIX,acg.tv
+DOMAIN-SUFFIX,acggit.com
 DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,acl4.ssr
 DOMAIN-SUFFIX,acm.org
@@ -449,6 +449,7 @@ DOMAIN-SUFFIX,afeica.com
 DOMAIN-SUFFIX,afuns.me
 DOMAIN-SUFFIX,aichangbaishan.com
 DOMAIN-SUFFIX,aidoru-online.me
+DOMAIN-SUFFIX,aigodlike.com
 DOMAIN-SUFFIX,air-matters.com
 DOMAIN-SUFFIX,air-matters.io
 DOMAIN-SUFFIX,aistudio-app.com
@@ -494,6 +495,7 @@ DOMAIN-SUFFIX,animetorrents.me
 DOMAIN-SUFFIX,anthelion.me
 DOMAIN-SUFFIX,antping.com
 DOMAIN-SUFFIX,anycubic.com
+DOMAIN-SUFFIX,anyrouter.top
 DOMAIN-SUFFIX,api.myip.com
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,appsimg.com
@@ -1346,6 +1348,7 @@ DOMAIN-SUFFIX,tianyancha.com
 DOMAIN-SUFFIX,tianyaui.com
 DOMAIN-SUFFIX,tietuku.com
 DOMAIN-SUFFIX,tiexue.net
+DOMAIN-SUFFIX,timbrd.com
 DOMAIN-SUFFIX,tju.pt
 DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,tmall.com
