@@ -24,6 +24,7 @@ DOMAIN,bandito.byterunner.io
 DOMAIN,bdtj.tagtic.cn
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt.bontal.net
+DOMAIN,bt.okmp3.ru
 DOMAIN,bt.rer.lol
 DOMAIN,burmese.app
 DOMAIN,bvarf.tracker.sh
@@ -40,9 +41,11 @@ DOMAIN,dl.l.google.com
 DOMAIN,dl.steam.clngaa.com
 DOMAIN,dl.steam.ksyna.com
 DOMAIN,dota2.wmsj.cn
+DOMAIN,echostar.ddnsfree.com
 DOMAIN,eco-push-api-client.meiqia.com
 DOMAIN,enrichgw.10010.com
 DOMAIN,errlog.umeng.com
+DOMAIN,evan.im
 DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
 DOMAIN,extracker.dahrkael.net
@@ -76,6 +79,7 @@ DOMAIN,msg.umengcloud.com
 DOMAIN,mtalk.google.com
 DOMAIN,new-api.meiqia.com
 DOMAIN,nishub1.10010.com
+DOMAIN,node01.trackerstatus.live
 DOMAIN,ns575949.ip-51-222-82.net
 DOMAIN,nyaa.tracker.wf
 DOMAIN,oasisauth.h3c.com
@@ -84,6 +88,7 @@ DOMAIN,open-tracker.demonoid.ch
 DOMAIN,open.acgtracker.com
 DOMAIN,open.demonii.com
 DOMAIN,open.demonoid.ch
+DOMAIN,open.dstud.io
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.cl
 DOMAIN,opencloud.wostore.cn
@@ -145,10 +150,9 @@ DOMAIN,tracker.filemail.com
 DOMAIN,tracker.flatuslifir.is
 DOMAIN,tracker.fnix.net
 DOMAIN,tracker.foreverpirates.co
+DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.ghostchu-services.top
 DOMAIN,tracker.gmi.gd
-DOMAIN,tracker.hifimarket.in
-DOMAIN,tracker.hifitechindia.com
 DOMAIN,tracker.internetwarriors.net
 DOMAIN,tracker.iochimari.moe
 DOMAIN,tracker.iperson.xyz
@@ -166,12 +170,8 @@ DOMAIN,tracker.plx.im
 DOMAIN,tracker.pmman.tech
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
-DOMAIN,tracker.rescuecrew7.com
-DOMAIN,tracker.skillindia.site
-DOMAIN,tracker.skynetcloud.site
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
-DOMAIN,tracker.startwork.cv
 DOMAIN,tracker.t-1.org
 DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.torrent.eu.org
@@ -200,7 +200,6 @@ DOMAIN,vi.l.qq.com
 DOMAIN,vip.ffzyread.com
 DOMAIN,vip.imgffzy.com
 DOMAIN,wmsjsteam.com
-DOMAIN,www.2600.com
 DOMAIN,www.all4nothin.net
 DOMAIN,www.asusrouter.com
 DOMAIN,www.torrent.eu.org
@@ -1475,6 +1474,7 @@ DOMAIN-SUFFIX,xinhuanet.com
 DOMAIN-SUFFIX,xip.io
 DOMAIN-SUFFIX,xitek.com
 DOMAIN-SUFFIX,xiumi.us
+DOMAIN-SUFFIX,xiwang.com
 DOMAIN-SUFFIX,xixih.cc
 DOMAIN-SUFFIX,xkkapk.com
 DOMAIN-SUFFIX,xmcdn.com
