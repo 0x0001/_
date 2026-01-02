@@ -20,7 +20,6 @@ DOMAIN,app.adjust.com
 DOMAIN,app.appsflyer.com
 DOMAIN,asusrouter.com
 DOMAIN,auth.wosms.cn
-DOMAIN,bandito.byterunner.io
 DOMAIN,bdtj.tagtic.cn
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt.bontal.net
@@ -79,16 +78,14 @@ DOMAIN,msg.umengcloud.com
 DOMAIN,mtalk.google.com
 DOMAIN,new-api.meiqia.com
 DOMAIN,nishub1.10010.com
-DOMAIN,node01.trackerstatus.live
+DOMAIN,node02.torrentonline.cc
 DOMAIN,ns575949.ip-51-222-82.net
 DOMAIN,nyaa.tracker.wf
 DOMAIN,oasisauth.h3c.com
 DOMAIN,ok.zuidapic.com
-DOMAIN,open-tracker.demonoid.ch
 DOMAIN,open.acgtracker.com
 DOMAIN,open.demonii.com
 DOMAIN,open.demonoid.ch
-DOMAIN,open.dstud.io
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.cl
 DOMAIN,opencloud.wostore.cn
@@ -116,7 +113,6 @@ DOMAIN,steampowered.com.8686c.com
 DOMAIN,steamstatic.com.8686c.com
 DOMAIN,sycm.mmstat.com
 DOMAIN,t.213891.xyz
-DOMAIN,t.overflow.biz
 DOMAIN,tiao.cjkypo.com
 DOMAIN,time.apple.com
 DOMAIN,torrent.tracker.durukanbal.com
@@ -135,10 +131,12 @@ DOMAIN,tracker.1h.is
 DOMAIN,tracker.23794.top
 DOMAIN,tracker.alaskantf.com
 DOMAIN,tracker.beeimg.com
+DOMAIN,tracker.bitcoinindia.space
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bluefrog.pw
 DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt4g.com
+DOMAIN,tracker.cangku.moe
 DOMAIN,tracker.cutie.dating
 DOMAIN,tracker.cyberia.is
 DOMAIN,tracker.darkness.services
@@ -153,6 +151,8 @@ DOMAIN,tracker.foreverpirates.co
 DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.ghostchu-services.top
 DOMAIN,tracker.gmi.gd
+DOMAIN,tracker.guguan.dpdns.org
+DOMAIN,tracker.hifitechindia.com
 DOMAIN,tracker.internetwarriors.net
 DOMAIN,tracker.iochimari.moe
 DOMAIN,tracker.iperson.xyz
@@ -170,9 +170,12 @@ DOMAIN,tracker.plx.im
 DOMAIN,tracker.pmman.tech
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
+DOMAIN,tracker.skynetcloud.site
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
+DOMAIN,tracker.startwork.cv
 DOMAIN,tracker.t-1.org
+DOMAIN,tracker.theoks.net
 DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrust-demo.com
@@ -184,6 +187,7 @@ DOMAIN,tracker.uraniumhexafluori.de
 DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.zhuqiy.com
 DOMAIN,tracker1.520.jp
+DOMAIN,tracker1.myporn.club
 DOMAIN,tracker1.t-1.org
 DOMAIN,tracker2.dler.org
 DOMAIN,tracker2.itzmx.com
@@ -776,6 +780,7 @@ DOMAIN-SUFFIX,gazellegames.net
 DOMAIN-SUFFIX,gdcucc.v1.mk
 DOMAIN-SUFFIX,geektool.top
 DOMAIN-SUFFIX,geetest.com
+DOMAIN-SUFFIX,gegeselect.hk
 DOMAIN-SUFFIX,geilicdn.com
 DOMAIN-SUFFIX,gfxpeers.net
 DOMAIN-SUFFIX,ggbond.org
@@ -1315,6 +1320,7 @@ DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,stkfanli.com
 DOMAIN-SUFFIX,suning.com
 DOMAIN-SUFFIX,suyur.com
+DOMAIN-SUFFIX,svyun.com
 DOMAIN-SUFFIX,sxlljm.com
 DOMAIN-SUFFIX,synology.com
 DOMAIN-SUFFIX,synology.me
