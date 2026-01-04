@@ -3,7 +3,6 @@ DOMAIN,6ahddutb1ucc3cp.ru
 DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
 DOMAIN,ad.10010.com
 DOMAIN,ad.12306.cn
-DOMAIN,admin.52ywp.com
 DOMAIN,ain.bgm.tv
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -78,6 +77,7 @@ DOMAIN,msg.umengcloud.com
 DOMAIN,mtalk.google.com
 DOMAIN,new-api.meiqia.com
 DOMAIN,nishub1.10010.com
+DOMAIN,node01.trackerstatus.live
 DOMAIN,node02.torrentonline.cc
 DOMAIN,ns575949.ip-51-222-82.net
 DOMAIN,nyaa.tracker.wf
@@ -86,6 +86,7 @@ DOMAIN,ok.zuidapic.com
 DOMAIN,open.acgtracker.com
 DOMAIN,open.demonii.com
 DOMAIN,open.demonoid.ch
+DOMAIN,open.dstud.io
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.cl
 DOMAIN,opencloud.wostore.cn
@@ -113,13 +114,13 @@ DOMAIN,steampowered.com.8686c.com
 DOMAIN,steamstatic.com.8686c.com
 DOMAIN,sycm.mmstat.com
 DOMAIN,t.213891.xyz
+DOMAIN,t.overflow.biz
 DOMAIN,tiao.cjkypo.com
 DOMAIN,time.apple.com
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentclub.online
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
-DOMAIN,tr.abir.ga
 DOMAIN,tr.highstar.shop
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
@@ -129,14 +130,11 @@ DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.0x7c0.com
 DOMAIN,tracker.1h.is
 DOMAIN,tracker.23794.top
-DOMAIN,tracker.alaskantf.com
 DOMAIN,tracker.beeimg.com
-DOMAIN,tracker.bitcoinindia.space
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bluefrog.pw
 DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt4g.com
-DOMAIN,tracker.cangku.moe
 DOMAIN,tracker.cutie.dating
 DOMAIN,tracker.cyberia.is
 DOMAIN,tracker.darkness.services
@@ -151,8 +149,6 @@ DOMAIN,tracker.foreverpirates.co
 DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.ghostchu-services.top
 DOMAIN,tracker.gmi.gd
-DOMAIN,tracker.guguan.dpdns.org
-DOMAIN,tracker.hifitechindia.com
 DOMAIN,tracker.internetwarriors.net
 DOMAIN,tracker.iochimari.moe
 DOMAIN,tracker.iperson.xyz
@@ -172,10 +168,9 @@ DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
 DOMAIN,tracker.skynetcloud.site
 DOMAIN,tracker.skyts.net
+DOMAIN,tracker.soshifanclub.com
 DOMAIN,tracker.srv00.com
-DOMAIN,tracker.startwork.cv
 DOMAIN,tracker.t-1.org
-DOMAIN,tracker.theoks.net
 DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrust-demo.com
@@ -637,6 +632,7 @@ DOMAIN-SUFFIX,cnb.space
 DOMAIN-SUFFIX,cnblogs.com
 DOMAIN-SUFFIX,cnki.net
 DOMAIN-SUFFIX,cnmstl.net
+DOMAIN-SUFFIX,cocav.com
 DOMAIN-SUFFIX,codeloop.top
 DOMAIN-SUFFIX,coffee-iot.com
 DOMAIN-SUFFIX,coloros.com
@@ -652,6 +648,7 @@ DOMAIN-SUFFIX,crtyhr.com
 DOMAIN-SUFFIX,csdn.net
 DOMAIN-SUFFIX,ctrip.com
 DOMAIN-SUFFIX,d.f.ip6.arpa
+DOMAIN-SUFFIX,d4ctech.com
 DOMAIN-SUFFIX,dangdang.com
 DOMAIN-SUFFIX,day.app
 DOMAIN-SUFFIX,dbankcdn.com
@@ -1477,6 +1474,7 @@ DOMAIN-SUFFIX,xiaoka.tv
 DOMAIN-SUFFIX,xiaomi.com
 DOMAIN-SUFFIX,xiaomi.net
 DOMAIN-SUFFIX,xiaomicp.com
+DOMAIN-SUFFIX,xiaoxia.vip
 DOMAIN-SUFFIX,xiberia.net
 DOMAIN-SUFFIX,ximalaya.com
 DOMAIN-SUFFIX,ximogo.com
