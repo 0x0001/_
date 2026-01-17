@@ -1343,6 +1343,7 @@ DOMAIN-SUFFIX,synology.com
 DOMAIN-SUFFIX,synology.me
 DOMAIN-SUFFIX,taihe.com
 DOMAIN-SUFFIX,tailgdd.com
+DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,tangguobaohe.com
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,taobaocdn.com
@@ -9314,3 +9315,4 @@ PROCESS-NAME,uTorrent
 PROCESS-NAME,uTorrent.exe
 PROCESS-NAME,v2ray
 PROCESS-NAME,xray
+SRC-PORT,41641
