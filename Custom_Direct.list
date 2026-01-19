@@ -507,6 +507,7 @@ DOMAIN-SUFFIX,antping.com
 DOMAIN-SUFFIX,anycubic.com
 DOMAIN-SUFFIX,anyrouter.top
 DOMAIN-SUFFIX,api.myip.com
+DOMAIN-SUFFIX,apm-log-upload-os.hoyoverse.com
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,appsimg.com
 DOMAIN-SUFFIX,appvipshop.com
@@ -662,6 +663,7 @@ DOMAIN-SUFFIX,crl.pki.goog
 DOMAIN-SUFFIX,crtyhr.com
 DOMAIN-SUFFIX,csdn.net
 DOMAIN-SUFFIX,ctrip.com
+DOMAIN-SUFFIX,cyouzai.com
 DOMAIN-SUFFIX,d.f.ip6.arpa
 DOMAIN-SUFFIX,d4ctech.com
 DOMAIN-SUFFIX,dangdang.com
@@ -1085,6 +1087,7 @@ DOMAIN-SUFFIX,meitudata.com
 DOMAIN-SUFFIX,meitustat.com
 DOMAIN-SUFFIX,meizu.com
 DOMAIN-SUFFIX,members.3322.org
+DOMAIN-SUFFIX,meoof-pet.com
 DOMAIN-SUFFIX,mgtv.com
 DOMAIN-SUFFIX,mi-img.com
 DOMAIN-SUFFIX,mi.com
@@ -1094,6 +1097,7 @@ DOMAIN-SUFFIX,mifeng.plus
 DOMAIN-SUFFIX,mifon.com
 DOMAIN-SUFFIX,migucloud.com
 DOMAIN-SUFFIX,miguvideo.com
+DOMAIN-SUFFIX,minor-api-os.hoyoverse.com
 DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,mixly.org
 DOMAIN-SUFFIX,mmstat.com
@@ -1281,6 +1285,7 @@ DOMAIN-SUFFIX,scopus.com
 DOMAIN-SUFFIX,scratch5.com
 DOMAIN-SUFFIX,sct.ftqq.com
 DOMAIN-SUFFIX,sdbits.org
+DOMAIN-SUFFIX,sdk-log-upload-os.hoyoverse.com
 DOMAIN-SUFFIX,seaflysoft.com
 DOMAIN-SUFFIX,seedpace.com
 DOMAIN-SUFFIX,segmentfault.com
@@ -1605,6 +1610,7 @@ DOMAIN-SUFFIX,zsytit.com
 DOMAIN-SUFFIX,zte.home
 DOMAIN-SUFFIX,ztytech.com
 DOMAIN-SUFFIX,zuobiao.press
+DOMAIN-SUFFIX,zzz-log-upload-os.hoyoverse.com
 IP-CIDR,0.0.0.0/8,no-resolve
 IP-CIDR,1.0.1.0/24,no-resolve
 IP-CIDR,1.0.2.0/23,no-resolve
