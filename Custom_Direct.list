@@ -15,6 +15,7 @@ DOMAIN,alt7-mtalk.google.com
 DOMAIN,alt8-mtalk.google.com
 DOMAIN,analytics.95516.com
 DOMAIN,analytics.strava.com
+DOMAIN,anna.bt.bontal.net
 DOMAIN,app.adjust.com
 DOMAIN,app.appsflyer.com
 DOMAIN,asusrouter.com
@@ -28,7 +29,6 @@ DOMAIN,bvarf.tracker.sh
 DOMAIN,cdn.jsdelivr.net
 DOMAIN,clientservices.googleapis.com
 DOMAIN,cny.fan
-DOMAIN,colivioo.com
 DOMAIN,config.cmpassport.com
 DOMAIN,csgo.wmsj.cn
 DOMAIN,d40969.acod.regrucolo.ru
@@ -118,6 +118,7 @@ DOMAIN,time.apple.com
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentclub.online
 DOMAIN,torrentsmd.com
+DOMAIN,tr-zhuqiy-2.dgj055.icu
 DOMAIN,tr.abiir.top
 DOMAIN,tr.highstar.shop
 DOMAIN,tr.kxmp.cf
@@ -126,7 +127,6 @@ DOMAIN,tr.zukizuki.org
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.1h.is
-DOMAIN,tracker.23794.top
 DOMAIN,tracker.alaskantf.com
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bluefrog.pw
@@ -165,17 +165,16 @@ DOMAIN,tracker.renfei.net
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
 DOMAIN,tracker.t-1.org
-DOMAIN,tracker.theoks.net
 DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrust-demo.com
-DOMAIN,tracker.tritan.gg
 DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.tvunderground.org.ru
 DOMAIN,tracker.uraniumhexafluori.de
 DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.wepzone.net
 DOMAIN,tracker.xn--djrq4gl4hvoi.top
+DOMAIN,tracker.yume-hatsuyuki.moe
 DOMAIN,tracker.zhuqiy.com
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.myporn.club
@@ -186,7 +185,6 @@ DOMAIN,tracker3.itzmx.com
 DOMAIN,tracker3.t-1.org
 DOMAIN,tracker4.itzmx.com
 DOMAIN,tracking.miui.com
-DOMAIN,trackr.appolon.dev
 DOMAIN,ts.thefilehosting.com
 DOMAIN,udp.tracker.projectk.org
 DOMAIN,update.googleapis.com
@@ -853,6 +851,7 @@ DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,hao123img.com
 DOMAIN-SUFFIX,haosou.com
 DOMAIN-SUFFIX,haoxueche.com
+DOMAIN-SUFFIX,harbourmooc.com
 DOMAIN-SUFFIX,hbcof.com
 DOMAIN-SUFFIX,hbctic.com
 DOMAIN-SUFFIX,hc-cdn.com
@@ -1137,6 +1136,7 @@ DOMAIN-SUFFIX,myqcloud.com
 DOMAIN-SUFFIX,myshopex.com
 DOMAIN-SUFFIX,myunlu.com
 DOMAIN-SUFFIX,naixi.com
+DOMAIN-SUFFIX,nanshe-tech.com
 DOMAIN-SUFFIX,nanyangpt.com
 DOMAIN-SUFFIX,nature.com
 DOMAIN-SUFFIX,ncore.cc
