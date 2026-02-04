@@ -1,6 +1,6 @@
 DOMAIN,0123456789nonexistent.com
-DOMAIN,0d.kebhana.mx
 DOMAIN,1337.abcvg.info
+DOMAIN,6ahddutb1ucc3cp.ru
 DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
 DOMAIN,ad.10010.com
 DOMAIN,ad.12306.cn
@@ -26,6 +26,7 @@ DOMAIN,bt.okmp3.ru
 DOMAIN,bt.poletracker.org
 DOMAIN,bt.rer.lol
 DOMAIN,bt1.xxxxbt.cc
+DOMAIN,buny.uk
 DOMAIN,bvarf.tracker.sh
 DOMAIN,cdn.jsdelivr.net
 DOMAIN,clientservices.googleapis.com
@@ -101,12 +102,9 @@ DOMAIN,retracker.lanta.me
 DOMAIN,retracker.spark-rostov.ru
 DOMAIN,rewards.hypixel.net
 DOMAIN,router.asus.com
-DOMAIN,run.publictracker.xyz
 DOMAIN,sdk.alibaba.com.ailbaba.me
 DOMAIN,seeders-paradise.org
-DOMAIN,servandroidkino.ru
 DOMAIN,setmeup.arubanetworks.com
-DOMAIN,shahidrazi.online
 DOMAIN,share.hkg-fansub.info
 DOMAIN,shubt.net
 DOMAIN,smp-device-content.apple.com
@@ -119,6 +117,7 @@ DOMAIN,steampowered.com.8686c.com
 DOMAIN,steamstatic.com.8686c.com
 DOMAIN,sycm.mmstat.com
 DOMAIN,t.213891.xyz
+DOMAIN,t.overflow.biz
 DOMAIN,tiao.cjkypo.com
 DOMAIN,time.apple.com
 DOMAIN,torrent.hificode.in
@@ -126,11 +125,9 @@ DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentclub.online
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
-DOMAIN,tr.abir.ga
 DOMAIN,tr.highstar.shop
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
-DOMAIN,tr.zukizuki.org
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.1h.is
@@ -152,6 +149,7 @@ DOMAIN,tracker.filemail.com
 DOMAIN,tracker.flatuslifir.is
 DOMAIN,tracker.fnix.net
 DOMAIN,tracker.foreverpirates.co
+DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.ghostchu-services.top
 DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.iochimari.moe
@@ -162,8 +160,6 @@ DOMAIN,tracker.ixuexi.click
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.lintk.me
 DOMAIN,tracker.moeblog.cn
-DOMAIN,tracker.moeking.me
-DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.opentorrent.top
 DOMAIN,tracker.opentrackr.org
@@ -187,10 +183,12 @@ DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.tvunderground.org.ru
 DOMAIN,tracker.umunu.ru
 DOMAIN,tracker.uraniumhexafluori.de
+DOMAIN,tracker.vanitycore.co
 DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.wepzone.net
 DOMAIN,tracker.xiaoduola.xyz
 DOMAIN,tracker.xn--djrq4gl4hvoi.top
+DOMAIN,tracker.yume-hatsuyuki.moe
 DOMAIN,tracker.zhuqiy.com
 DOMAIN,tracker.zupix.online
 DOMAIN,tracker1.520.jp
@@ -213,12 +211,12 @@ DOMAIN,wepzone.net
 DOMAIN,wmsjsteam.com
 DOMAIN,www.all4nothin.net
 DOMAIN,www.asusrouter.com
+DOMAIN,www.genesis-sp.org
 DOMAIN,www.torrent.eu.org
 DOMAIN,www.torrentsnipe.info
 DOMAIN,www.wareztorrent.com
 DOMAIN,xz.pphimalayanrt.com
 DOMAIN,ye.dun.163yun.com
-DOMAIN,zer0day.ch
 DOMAIN-KEYWORD,360buy
 DOMAIN-KEYWORD,alicdn
 DOMAIN-KEYWORD,alimama
@@ -924,6 +922,7 @@ DOMAIN-SUFFIX,hitpt.org
 DOMAIN-SUFFIX,hitv.com
 DOMAIN-SUFFIX,hiwifi.com
 DOMAIN-SUFFIX,hiwms.com
+DOMAIN-SUFFIX,hkchat.app
 DOMAIN-SUFFIX,hnxzctec.com
 DOMAIN-SUFFIX,hollisterco.com
 DOMAIN-SUFFIX,home.arpa
