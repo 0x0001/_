@@ -1,4 +1,3 @@
-DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
 DOMAIN,1337.abcvg.info
 DOMAIN,6ahddutb1ucc3cp.ru
@@ -50,9 +49,9 @@ DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
 DOMAIN,extracker.dahrkael.net
 DOMAIN,fairplay.l.qq.com
-DOMAIN,ftp.pet
 DOMAIN,hmrz.wo.cn
 DOMAIN,home.yxgz.club
+DOMAIN,ibksturm.synology.me
 DOMAIN,id.mail.wo.cn
 DOMAIN,image.maimn.com
 DOMAIN,img.bfzypic.com
@@ -83,7 +82,6 @@ DOMAIN,mtalk.google.com
 DOMAIN,navegador.click
 DOMAIN,new-api.meiqia.com
 DOMAIN,nishub1.10010.com
-DOMAIN,node01.torrentonline.cc
 DOMAIN,node01.trackerstatus.live
 DOMAIN,ns575949.ip-51-222-82.net
 DOMAIN,nyaa.tracker.wf
@@ -93,6 +91,7 @@ DOMAIN,open.acgtracker.com
 DOMAIN,open.demonii.com
 DOMAIN,open.dstud.io
 DOMAIN,open.stealth.si
+DOMAIN,open.trackerlist.xyz
 DOMAIN,opencloud.wostore.cn
 DOMAIN,opentor.org
 DOMAIN,opentracker.io
@@ -101,7 +100,6 @@ DOMAIN,p4p.arenabg.com
 DOMAIN,rekcart.duckdns.org
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
-DOMAIN,retracker.spark-rostov.ru
 DOMAIN,rewards.hypixel.net
 DOMAIN,router.asus.com
 DOMAIN,sdk.alibaba.com.ailbaba.me
@@ -112,7 +110,6 @@ DOMAIN,shahidrazi.online
 DOMAIN,share.hkg-fansub.info
 DOMAIN,shubt.net
 DOMAIN,smp-device-content.apple.com
-DOMAIN,speedtest.iperson.xyz
 DOMAIN,st.dl.bscstorage.net
 DOMAIN,st.dl.eccdnx.com
 DOMAIN,st.dl.pinyuncloud.com
@@ -135,7 +132,6 @@ DOMAIN,tr.cili001.com
 DOMAIN,tr.highstar.shop
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
-DOMAIN,tr.zukizuki.org
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-de-2.cutie.dating
 DOMAIN,tracker-udp.gbitt.info
@@ -145,12 +141,12 @@ DOMAIN,tracker.alaskantf.com
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bluefrog.pw
 DOMAIN,tracker.breizh.pm
-DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.bz
 DOMAIN,tracker.cloudbase.store
 DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.darkness.services
+DOMAIN,tracker.ddunlimited.net
 DOMAIN,tracker.dhitechnical.com
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
@@ -166,7 +162,6 @@ DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.huadongblower.xyz
 DOMAIN,tracker.iochimari.moe
 DOMAIN,tracker.iperson.xyz
-DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.ipv6tracker.ru
 DOMAIN,tracker.ixuexi.click
 DOMAIN,tracker.kuroy.me
@@ -202,8 +197,6 @@ DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.tvunderground.org.ru
 DOMAIN,tracker.vanitycore.co
 DOMAIN,tracker.waaa.moe
-DOMAIN,tracker.wepzone.net
-DOMAIN,tracker.xiaoduola.xyz
 DOMAIN,tracker.xn--djrq4gl4hvoi.top
 DOMAIN,tracker.yume-hatsuyuki.moe
 DOMAIN,tracker.zhuqiy.com
@@ -225,7 +218,6 @@ DOMAIN,vd.l.qq.com
 DOMAIN,vi.l.qq.com
 DOMAIN,vip.ffzyread.com
 DOMAIN,vip.imgffzy.com
-DOMAIN,wepzone.net
 DOMAIN,wmsjsteam.com
 DOMAIN,www.all4nothin.net
 DOMAIN,www.asusrouter.com
@@ -787,6 +779,7 @@ DOMAIN-SUFFIX,epg.aptv.app
 DOMAIN-SUFFIX,epg.v1.mk
 DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,epicgames.dev
+DOMAIN-SUFFIX,et0731.com
 DOMAIN-SUFFIX,et8.org
 DOMAIN-SUFFIX,everdrawing.com
 DOMAIN-SUFFIX,ewqcxz.com
@@ -889,6 +882,7 @@ DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,gtm.oasisfeng.com
 DOMAIN-SUFFIX,guaitao.cc
 DOMAIN-SUFFIX,guazi.com
+DOMAIN-SUFFIX,gvgoo.com
 DOMAIN-SUFFIX,gwdang.com
 DOMAIN-SUFFIX,gwmapp-w.com
 DOMAIN-SUFFIX,gxnnjidingkeji.top
