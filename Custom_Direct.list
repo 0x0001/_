@@ -1453,6 +1453,7 @@ DOMAIN-SUFFIX,tju.pt
 DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,tmall.com
 DOMAIN-SUFFIX,tmall.hk
+DOMAIN-SUFFIX,tmallyc.com
 DOMAIN-SUFFIX,tmiaoo.com
 DOMAIN-SUFFIX,tnas.link
 DOMAIN-SUFFIX,tnas.online
@@ -1683,6 +1684,7 @@ DOMAIN-SUFFIX,zsytit.com
 DOMAIN-SUFFIX,zte.home
 DOMAIN-SUFFIX,ztytech.com
 DOMAIN-SUFFIX,zuobiao.press
+DOMAIN-SUFFIX,zysou.com
 DOMAIN-SUFFIX,zzz-log-upload-os.hoyoverse.com
 DST-PORT,7844
 IP-CIDR,0.0.0.0/8,no-resolve
