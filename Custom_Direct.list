@@ -77,8 +77,8 @@ DOMAIN,mtalk.google.com
 DOMAIN,new-api.meiqia.com
 DOMAIN,nishub1.10010.com
 DOMAIN,node01.madtia.cc
+DOMAIN,node01.torrentonline.cc
 DOMAIN,node01.trackerstatus.live
-DOMAIN,node02.madtia.cc
 DOMAIN,ns575949.ip-51-222-82.net
 DOMAIN,nyaa.tracker.wf
 DOMAIN,oasisauth.h3c.com
@@ -97,6 +97,9 @@ DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
 DOMAIN,rewards.hypixel.net
 DOMAIN,router.asus.com
+DOMAIN,s1130638.ha016.t.mydomain.zone
+DOMAIN,s1130639.ha009.t.mydomain.zone
+DOMAIN,s1130642.ha014.t.mydomain.zone
 DOMAIN,sdk.alibaba.com.ailbaba.me
 DOMAIN,setmeup.arubanetworks.com
 DOMAIN,shahidrazi.online
@@ -150,6 +153,8 @@ DOMAIN,tracker.fnix.net
 DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.ghostchu-services.top
 DOMAIN,tracker.gmi.gd
+DOMAIN,tracker.huadongblower.xyz
+DOMAIN,tracker.iochimari.moe
 DOMAIN,tracker.iperson.xyz
 DOMAIN,tracker.ipv6tracker.ru
 DOMAIN,tracker.ixuexi.click
@@ -158,7 +163,6 @@ DOMAIN,tracker.manager.v6.navy
 DOMAIN,tracker.moeblog.cn
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.nekomi.cn
-DOMAIN,tracker.novy.vip
 DOMAIN,tracker.opentorrent.top
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
@@ -179,13 +183,13 @@ DOMAIN,tracker.torrust-demo.com
 DOMAIN,tracker.tritan.gg
 DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.tvunderground.org.ru
+DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.wepzone.net
 DOMAIN,tracker.xn--djrq4gl4hvoi.top
 DOMAIN,tracker.yggleak.top
 DOMAIN,tracker.yume-hatsuyuki.moe
 DOMAIN,tracker.zhuqiy.com
 DOMAIN,tracker1.520.jp
-DOMAIN,tracker1.myporn.club
 DOMAIN,tracker2.dler.org
 DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.itzmx.com
@@ -203,9 +207,9 @@ DOMAIN,vip.ffzyread.com
 DOMAIN,vip.imgffzy.com
 DOMAIN,wepzone.net
 DOMAIN,wmsjsteam.com
+DOMAIN,wsad.run.place
 DOMAIN,www.all4nothin.net
 DOMAIN,www.asusrouter.com
-DOMAIN,www.wareztorrent.com
 DOMAIN,xz.pphimalayanrt.com
 DOMAIN,ye.dun.163yun.com
 DOMAIN-KEYWORD,360buy
@@ -994,6 +998,7 @@ DOMAIN-SUFFIX,img4399.com
 DOMAIN-SUFFIX,immortalwrt.org
 DOMAIN-SUFFIX,infzm.com
 DOMAIN-SUFFIX,iosgujian.com
+DOMAIN-SUFFIX,iot889.com
 DOMAIN-SUFFIX,iotrix.net
 DOMAIN-SUFFIX,ip159.com
 DOMAIN-SUFFIX,ip6.seeip.org
