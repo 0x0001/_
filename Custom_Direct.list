@@ -1,7 +1,7 @@
 DOMAIN,004430.xyz
-DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
 DOMAIN,1337.abcvg.info
+DOMAIN,66691337.xyz
 DOMAIN,6ahddutb1ucc3cp.ru
 DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
 DOMAIN,ad.10010.com
@@ -33,10 +33,10 @@ DOMAIN,buny.uk
 DOMAIN,bvarf.tracker.sh
 DOMAIN,cdn.jsdelivr.net
 DOMAIN,clientservices.googleapis.com
+DOMAIN,cny.fan
 DOMAIN,coeus.torrentonline.cc
 DOMAIN,config.cmpassport.com
 DOMAIN,csgo.wmsj.cn
-DOMAIN,d40969.acod.regrucolo.ru
 DOMAIN,deo.shopeemobile.com
 DOMAIN,dl.google.com
 DOMAIN,dl.l.google.com
@@ -48,11 +48,9 @@ DOMAIN,enrichgw.10010.com
 DOMAIN,errlog.umeng.com
 DOMAIN,evan.im
 DOMAIN,exodus.desync.com
-DOMAIN,explodie.org
 DOMAIN,fairplay.l.qq.com
 DOMAIN,ftp.pet
 DOMAIN,hmrz.wo.cn
-DOMAIN,home.yxgz.club
 DOMAIN,id.mail.wo.cn
 DOMAIN,image.maimn.com
 DOMAIN,img.bfzypic.com
@@ -87,7 +85,6 @@ DOMAIN,ok.zuidapic.com
 DOMAIN,open.acgtracker.com
 DOMAIN,open.demonii.com
 DOMAIN,open.demonoid.ch
-DOMAIN,open.dstud.io
 DOMAIN,open.stealth.si
 DOMAIN,open.trackerlist.xyz
 DOMAIN,opencloud.wostore.cn
@@ -104,8 +101,6 @@ DOMAIN,sdk.alibaba.com.ailbaba.me
 DOMAIN,seedpeer.net
 DOMAIN,setmeup.arubanetworks.com
 DOMAIN,shahidrazi.online
-DOMAIN,share.hkg-fansub.info
-DOMAIN,shubt.net
 DOMAIN,smp-device-content.apple.com
 DOMAIN,st.dl.bscstorage.net
 DOMAIN,st.dl.eccdnx.com
@@ -119,7 +114,6 @@ DOMAIN,t.213891.xyz
 DOMAIN,t.overflow.biz
 DOMAIN,tiao.cjkypo.com
 DOMAIN,time.apple.com
-DOMAIN,torrent.hificode.in
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentclub.online
 DOMAIN,torrents.tmtime.dev
@@ -141,11 +135,9 @@ DOMAIN,tracker.bluefrog.pw
 DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
-DOMAIN,tracker.bz
 DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.cutie.dating
 DOMAIN,tracker.darkness.services
-DOMAIN,tracker.ddunlimited.net
 DOMAIN,tracker.dhitechnical.com
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
@@ -158,14 +150,12 @@ DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.ghostchu-services.top
 DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.hismz.cn
-DOMAIN,tracker.huadongblower.xyz
 DOMAIN,tracker.iperson.xyz
 DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.ixuexi.click
 DOMAIN,tracker.kuroy.me
-DOMAIN,tracker.lintk.me
 DOMAIN,tracker.manager.v6.navy
-DOMAIN,tracker.moxing.party
+DOMAIN,tracker.moeking.me
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.nekomi.cn
 DOMAIN,tracker.nyaa.vc
@@ -189,10 +179,9 @@ DOMAIN,tracker.torrust-demo.com
 DOMAIN,tracker.tritan.gg
 DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.tvunderground.org.ru
-DOMAIN,tracker.vanitycore.co
 DOMAIN,tracker.waaa.moe
+DOMAIN,tracker.wepzone.net
 DOMAIN,tracker.wildkat.net
-DOMAIN,tracker.xiaoduola.xyz
 DOMAIN,tracker.xn--djrq4gl4hvoi.top
 DOMAIN,tracker.yemekyedim.com
 DOMAIN,tracker.yggleak.top
@@ -209,13 +198,16 @@ DOMAIN,tracking.miui.com
 DOMAIN,ts.thefilehosting.com
 DOMAIN,uabits.today
 DOMAIN,udp.tracker.projectk.org
+DOMAIN,udp1.torrust-tracker-demo.com
 DOMAIN,update.googleapis.com
 DOMAIN,utracker.ghostchu-services.top
 DOMAIN,vd.l.qq.com
 DOMAIN,vi.l.qq.com
 DOMAIN,vip.ffzyread.com
 DOMAIN,vip.imgffzy.com
+DOMAIN,wepzone.net
 DOMAIN,wmsjsteam.com
+DOMAIN,wsad.run.place
 DOMAIN,www.asusrouter.com
 DOMAIN,www.genesis-sp.org
 DOMAIN,www.nartlof.com
@@ -598,6 +590,7 @@ DOMAIN-SUFFIX,biqudu.com
 DOMAIN-SUFFIX,biquge.com
 DOMAIN-SUFFIX,bitauto.com
 DOMAIN-SUFFIX,bittorrent.com
+DOMAIN-SUFFIX,bjssjsyy.com
 DOMAIN-SUFFIX,bjtzeduyun.com
 DOMAIN-SUFFIX,blackwell-synergy.com
 DOMAIN-SUFFIX,blog.google
@@ -1185,7 +1178,6 @@ DOMAIN-SUFFIX,mifon.com
 DOMAIN-SUFFIX,migucloud.com
 DOMAIN-SUFFIX,miguvideo.com
 DOMAIN-SUFFIX,minor-api-os.hoyoverse.com
-DOMAIN-SUFFIX,misea.top
 DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,mixly.org
 DOMAIN-SUFFIX,mmstat.com
@@ -1230,7 +1222,6 @@ DOMAIN-SUFFIX,nebulance.io
 DOMAIN-SUFFIX,neihang.net
 DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,netzz.net
-DOMAIN-SUFFIX,nhk.or.jp
 DOMAIN-SUFFIX,nicept.net
 DOMAIN-SUFFIX,nicezhuanye.com
 DOMAIN-SUFFIX,nkxingxh.top
@@ -1311,7 +1302,6 @@ DOMAIN-SUFFIX,privatehd.to
 DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,pterclub.com
 DOMAIN-SUFFIX,pthome.net
-DOMAIN-SUFFIX,ptl.gs
 DOMAIN-SUFFIX,ptlgs.org
 DOMAIN-SUFFIX,ptsbao.club
 DOMAIN-SUFFIX,pttime.org
