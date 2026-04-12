@@ -1,5 +1,4 @@
 DOMAIN,004430.xyz
-DOMAIN,0d.kebhana.mx
 DOMAIN,1337.abcvg.info
 DOMAIN,66691337.xyz
 DOMAIN,6ahddutb1ucc3cp.ru
@@ -25,16 +24,12 @@ DOMAIN,auth.wosms.cn
 DOMAIN,bandito.byterunner.io
 DOMAIN,bdtj.tagtic.cn
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
-DOMAIN,bt.poletracker.org
 DOMAIN,bt.rer.lol
-DOMAIN,bt1.xxxxbt.cc
-DOMAIN,bughome.de
-DOMAIN,buny.uk
 DOMAIN,bvarf.tracker.sh
 DOMAIN,cdn.jsdelivr.net
 DOMAIN,clientservices.googleapis.com
-DOMAIN,cny.fan
 DOMAIN,coeus.torrentonline.cc
+DOMAIN,colibri.parrot.run
 DOMAIN,config.cmpassport.com
 DOMAIN,csgo.wmsj.cn
 DOMAIN,deo.shopeemobile.com
@@ -51,6 +46,7 @@ DOMAIN,exodus.desync.com
 DOMAIN,fairplay.l.qq.com
 DOMAIN,ftp.pet
 DOMAIN,hmrz.wo.cn
+DOMAIN,http1.torrust-tracker-demo.com
 DOMAIN,id.mail.wo.cn
 DOMAIN,image.maimn.com
 DOMAIN,img.bfzypic.com
@@ -61,7 +57,6 @@ DOMAIN,init.ess.apple.com
 DOMAIN,instant.arubanetworks.com
 DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,itunes.apple.com
-DOMAIN,jvavav.com
 DOMAIN,lain.bgm.tv
 DOMAIN,leet-tracker.moe
 DOMAIN,livew.l.qq.com
@@ -82,11 +77,8 @@ DOMAIN,ns575949.ip-51-222-82.net
 DOMAIN,nyaa.tracker.wf
 DOMAIN,oasisauth.h3c.com
 DOMAIN,ok.zuidapic.com
-DOMAIN,open.acgtracker.com
 DOMAIN,open.demonii.com
-DOMAIN,open.demonoid.ch
 DOMAIN,open.stealth.si
-DOMAIN,open.trackerlist.xyz
 DOMAIN,opencloud.wostore.cn
 DOMAIN,opentor.org
 DOMAIN,opentracker.8880085.xyz
@@ -119,7 +111,6 @@ DOMAIN,torrentclub.online
 DOMAIN,torrents.tmtime.dev
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
-DOMAIN,tr.abir.ga
 DOMAIN,tr.highstar.shop
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
@@ -128,16 +119,15 @@ DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker-zhuqiy.xn--1r3au8b.space
 DOMAIN,tracker.004430.xyz
 DOMAIN,tracker.1h.is
-DOMAIN,tracker.23794.top
 DOMAIN,tracker.7471.top
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bluefrog.pw
 DOMAIN,tracker.breizh.pm
-DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.cutie.dating
 DOMAIN,tracker.darkness.services
+DOMAIN,tracker.ddunlimited.net
 DOMAIN,tracker.dhitechnical.com
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
@@ -151,11 +141,9 @@ DOMAIN,tracker.ghostchu-services.top
 DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.hismz.cn
 DOMAIN,tracker.iperson.xyz
-DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.ixuexi.click
 DOMAIN,tracker.kuroy.me
-DOMAIN,tracker.manager.v6.navy
-DOMAIN,tracker.moeking.me
+DOMAIN,tracker.moeblog.cn
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.nekomi.cn
 DOMAIN,tracker.nyaa.vc
@@ -168,7 +156,6 @@ DOMAIN,tracker.pmman.tech
 DOMAIN,tracker.qingwapt.org
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
-DOMAIN,tracker.sbsub.com
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
 DOMAIN,tracker.t-1.org
@@ -189,6 +176,7 @@ DOMAIN,tracker.yume-hatsuyuki.moe
 DOMAIN,tracker.zhuqiy.com
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.itzmx.com
+DOMAIN,tracker1.myporn.club
 DOMAIN,tracker2.dler.org
 DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.ctix.cn
@@ -205,13 +193,10 @@ DOMAIN,vd.l.qq.com
 DOMAIN,vi.l.qq.com
 DOMAIN,vip.ffzyread.com
 DOMAIN,vip.imgffzy.com
-DOMAIN,wepzone.net
 DOMAIN,wmsjsteam.com
-DOMAIN,wsad.run.place
+DOMAIN,wolf.parrot.run
 DOMAIN,www.asusrouter.com
-DOMAIN,www.genesis-sp.org
 DOMAIN,www.nartlof.com
-DOMAIN,www.torrentsnipe.info
 DOMAIN,xz.pphimalayanrt.com
 DOMAIN,ye.dun.163yun.com
 DOMAIN,yuptracker-eu.gaijinent.com
@@ -724,6 +709,7 @@ DOMAIN-SUFFIX,dingdingzn.com
 DOMAIN-SUFFIX,dingtalk.com
 DOMAIN-SUFFIX,discfan.net
 DOMAIN-SUFFIX,diskstation.me
+DOMAIN-SUFFIX,divoiotcloud.com
 DOMAIN-SUFFIX,diyiedu.com
 DOMAIN-SUFFIX,dizhensubao.getui.com
 DOMAIN-SUFFIX,dl.google.com
@@ -1391,6 +1377,7 @@ DOMAIN-SUFFIX,settings.crashlytics.com
 DOMAIN-SUFFIX,sf-express.com
 DOMAIN-SUFFIX,sgtv.ii00.cc
 DOMAIN-SUFFIX,shanghai-parking.com
+DOMAIN-SUFFIX,shanghongbei.com
 DOMAIN-SUFFIX,sharkpt.net
 DOMAIN-SUFFIX,shineacc.com
 DOMAIN-SUFFIX,shuangqingtech.com
@@ -7896,6 +7883,7 @@ IP-CIDR,205.204.117.0/24,no-resolve
 IP-CIDR,205.204.122.0/23,no-resolve
 IP-CIDR,205.204.124.0/22,no-resolve
 IP-CIDR,207.241.226.111/32,no-resolve
+IP-CIDR,207.241.231.226/32,no-resolve
 IP-CIDR,208.64.200.0/22,no-resolve
 IP-CIDR,208.78.164.0/22,no-resolve
 IP-CIDR,210.12.0.0/15,no-resolve
