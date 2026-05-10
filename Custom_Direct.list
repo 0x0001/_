@@ -19,6 +19,7 @@ DOMAIN,analytics.strava.com
 DOMAIN,app.adjust.com
 DOMAIN,app.appsflyer.com
 DOMAIN,archive.torrentonline.cc
+DOMAIN,asiatorrent.giize.com
 DOMAIN,asusrouter.com
 DOMAIN,auth.wosms.cn
 DOMAIN,bandito.byterunner.io
@@ -30,7 +31,6 @@ DOMAIN,bvarf.tracker.sh
 DOMAIN,cdn.jsdelivr.net
 DOMAIN,cerf.cs.umd.edu
 DOMAIN,clientservices.googleapis.com
-DOMAIN,coeus.torrentonline.cc
 DOMAIN,config.cmpassport.com
 DOMAIN,csgo.wmsj.cn
 DOMAIN,deo.shopeemobile.com
@@ -95,8 +95,8 @@ DOMAIN,router.asus.com
 DOMAIN,sdk.alibaba.com.ailbaba.me
 DOMAIN,seedpeer.net
 DOMAIN,setmeup.arubanetworks.com
-DOMAIN,shubt.net
 DOMAIN,smp-device-content.apple.com
+DOMAIN,speedtest.iperson.xyz
 DOMAIN,st.dl.bscstorage.net
 DOMAIN,st.dl.eccdnx.com
 DOMAIN,st.dl.pinyuncloud.com
@@ -109,13 +109,10 @@ DOMAIN,t.213891.xyz
 DOMAIN,t.overflow.biz
 DOMAIN,tiao.cjkypo.com
 DOMAIN,time.apple.com
-DOMAIN,torrent.bowed.net
-DOMAIN,torrent.hificode.in
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentclub.online
 DOMAIN,torrents.tmtime.dev
 DOMAIN,torrentsmd.com
-DOMAIN,torrenttracker.nwc.acsalaska.net
 DOMAIN,tr.abiir.top
 DOMAIN,tr.abir.ga
 DOMAIN,tr.highstar.shop
@@ -125,7 +122,6 @@ DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.004430.xyz
 DOMAIN,tracker.1h.is
-DOMAIN,tracker.23794.top
 DOMAIN,tracker.7471.top
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bluefrog.pw
@@ -146,9 +142,7 @@ DOMAIN,tracker.hismz.cn
 DOMAIN,tracker.huadongblower.xyz
 DOMAIN,tracker.iperson.xyz
 DOMAIN,tracker.kuroy.me
-DOMAIN,tracker.lenition.de
 DOMAIN,tracker.manager.v6.navy
-DOMAIN,tracker.moeking.me
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.nekomi.cn
 DOMAIN,tracker.nyaa.vc
@@ -161,23 +155,21 @@ DOMAIN,tracker.pmman.tech
 DOMAIN,tracker.qingwapt.org
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
+DOMAIN,tracker.samcze.pl
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
 DOMAIN,tracker.t-1.org
 DOMAIN,tracker.theoks.net
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrentclaw.com
-DOMAIN,tracker.torrust-demo.com
 DOMAIN,tracker.tritan.gg
 DOMAIN,tracker.tryhackx.org
-DOMAIN,tracker.tvunderground.org.ru
 DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.wildkat.net
 DOMAIN,tracker.xn--djrq4gl4hvoi.top
 DOMAIN,tracker.yemekyedim.com
 DOMAIN,tracker.yume-hatsuyuki.moe
 DOMAIN,tracker.zhuqiy.com
-DOMAIN,tracker.zhuqiy.dgj055.icu
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.itzmx.com
 DOMAIN,tracker2.dler.org
@@ -185,8 +177,8 @@ DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.ctix.cn
 DOMAIN,tracker3.itzmx.com
 DOMAIN,tracker4.itzmx.com
-DOMAIN,tracker810.xyz
 DOMAIN,tracking.miui.com
+DOMAIN,trackthis.cyber.pz.it
 DOMAIN,ts.thefilehosting.com
 DOMAIN,uabits.today
 DOMAIN,udp.tracker.projectk.org
@@ -198,7 +190,6 @@ DOMAIN,vip.ffzyread.com
 DOMAIN,vip.imgffzy.com
 DOMAIN,vito-tracker.duckdns.org
 DOMAIN,vito-tracker.space
-DOMAIN,whybother.torrentonline.cc
 DOMAIN,wmsjsteam.com
 DOMAIN,www.asusrouter.com
 DOMAIN,www.nartlof.com
@@ -688,6 +679,7 @@ DOMAIN-SUFFIX,comicat.org
 DOMAIN-SUFFIX,concertos.live
 DOMAIN-SUFFIX,cone-x.com
 DOMAIN-SUFFIX,congmiqq.com
+DOMAIN-SUFFIX,constasj.me
 DOMAIN-SUFFIX,coolapk.com
 DOMAIN-SUFFIX,coolapkmarket.com
 DOMAIN-SUFFIX,coros.com
@@ -1023,6 +1015,7 @@ DOMAIN-SUFFIX,imacos.top
 DOMAIN-SUFFIX,images-amazon.com
 DOMAIN-SUFFIX,img4399.com
 DOMAIN-SUFFIX,immortalwrt.org
+DOMAIN-SUFFIX,infini-fantasy.com
 DOMAIN-SUFFIX,infzm.com
 DOMAIN-SUFFIX,iosgujian.com
 DOMAIN-SUFFIX,iot889.com
@@ -1136,6 +1129,7 @@ DOMAIN-SUFFIX,letvlive.com
 DOMAIN-SUFFIX,letvstore.com
 DOMAIN-SUFFIX,lg3000.top
 DOMAIN-SUFFIX,lightmake.site
+DOMAIN-SUFFIX,linka2a.net
 DOMAIN-SUFFIX,liunn.com
 DOMAIN-SUFFIX,livechina.com
 DOMAIN-SUFFIX,liveperson.net
@@ -1258,6 +1252,7 @@ DOMAIN-SUFFIX,onetools.top
 DOMAIN-SUFFIX,onlinedown.net
 DOMAIN-SUFFIX,open.cd
 DOMAIN-SUFFIX,open.e.189.cn
+DOMAIN-SUFFIX,openappfilter.com
 DOMAIN-SUFFIX,openkylin.top
 DOMAIN-SUFFIX,opentrust.net
 DOMAIN-SUFFIX,oppaiti.me
