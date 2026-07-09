@@ -538,6 +538,7 @@ DOMAIN-SUFFIX,b23.tv
 DOMAIN-SUFFIX,babawar.com
 DOMAIN-SUFFIX,babytree.com
 DOMAIN-SUFFIX,babytreeimg.com
+DOMAIN-SUFFIX,baicaf.com
 DOMAIN-SUFFIX,baicizhan.com
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,baidubcr.com
@@ -9218,10 +9219,14 @@ IP-CIDR,46.248.24.0/23,no-resolve
 IP-CIDR,47.240.0.0/16,no-resolve
 IP-CIDR,47.242.0.0/15,no-resolve
 IP-CIDR,47.244.0.0/16,no-resolve
+IP-CIDR,47.246.103.0/24,no-resolve
 IP-CIDR,47.246.16.0/24,no-resolve
+IP-CIDR,47.246.177.0/24,no-resolve
+IP-CIDR,47.246.180.0/24,no-resolve
 IP-CIDR,47.246.5.0/24,no-resolve
 IP-CIDR,47.246.60.0/23,no-resolve
 IP-CIDR,47.246.65.0/24,no-resolve
+IP-CIDR,47.246.99.0/24,no-resolve
 IP-CIDR,47.52.0.0/16,no-resolve
 IP-CIDR,47.56.0.0/15,no-resolve
 IP-CIDR,47.75.0.0/16,no-resolve
