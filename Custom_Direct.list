@@ -304,6 +304,7 @@ DOMAIN-SUFFIX,121.100.in-addr.arpa
 DOMAIN-SUFFIX,122.100.in-addr.arpa
 DOMAIN-SUFFIX,123.100.in-addr.arpa
 DOMAIN-SUFFIX,12306.com
+DOMAIN-SUFFIX,123795.com
 DOMAIN-SUFFIX,124.100.in-addr.arpa
 DOMAIN-SUFFIX,125.100.in-addr.arpa
 DOMAIN-SUFFIX,126.100.in-addr.arpa
@@ -461,6 +462,7 @@ DOMAIN-SUFFIX,acggit.com
 DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,acl4.ssr
 DOMAIN-SUFFIX,acm.org
+DOMAIN-SUFFIX,adhuanxiao.com
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,afeica.com
 DOMAIN-SUFFIX,afuns.me
@@ -642,6 +644,7 @@ DOMAIN-SUFFIX,cctvpic.com
 DOMAIN-SUFFIX,ccw.site
 DOMAIN-SUFFIX,cdn.ist
 DOMAIN-SUFFIX,cdnmama.com
+DOMAIN-SUFFIX,cdut.top
 DOMAIN-SUFFIX,centbrowser.net
 DOMAIN-SUFFIX,cftunnel.com
 DOMAIN-SUFFIX,cg3da.com
@@ -925,6 +928,7 @@ DOMAIN-SUFFIX,gsstic.com
 DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,gtm.oasisfeng.com
 DOMAIN-SUFFIX,guaitao.cc
+DOMAIN-SUFFIX,guang233.com
 DOMAIN-SUFFIX,guangyapan.com
 DOMAIN-SUFFIX,guazi.com
 DOMAIN-SUFFIX,gvgoo.com
@@ -1370,6 +1374,7 @@ DOMAIN-SUFFIX,pornbits.net
 DOMAIN-SUFFIX,powershellgallery.com
 DOMAIN-SUFFIX,pplive.com
 DOMAIN-SUFFIX,ppsimg.com
+DOMAIN-SUFFIX,ppt28.com
 DOMAIN-SUFFIX,pptv.com
 DOMAIN-SUFFIX,privateapi.xyz
 DOMAIN-SUFFIX,privatehd.to
@@ -1736,6 +1741,7 @@ DOMAIN-SUFFIX,xiaomi.com
 DOMAIN-SUFFIX,xiaomi.net
 DOMAIN-SUFFIX,xiaomicp.com
 DOMAIN-SUFFIX,xiaoxia.vip
+DOMAIN-SUFFIX,xiaoyuan888.com
 DOMAIN-SUFFIX,xiberia.net
 DOMAIN-SUFFIX,ximalaya.com
 DOMAIN-SUFFIX,ximogo.com
@@ -1858,10 +1864,13 @@ DOMAIN-SUFFIX,zte.home
 DOMAIN-SUFFIX,ztytech.com
 DOMAIN-SUFFIX,zuobiao.press
 DOMAIN-SUFFIX,zysou.com
+DOMAIN-SUFFIX,zyyct.com
 DOMAIN-SUFFIX,zzclass.com
 DOMAIN-SUFFIX,zzqrgs3148.vip
 DOMAIN-SUFFIX,zzr.cc
 DOMAIN-SUFFIX,zzz-log-upload-os.hoyoverse.com
+DOMAIN-SUFFIX,zzzcaculator.top
+DOMAIN-SUFFIX,zzzmap.com
 DST-PORT,7844
 IP-CIDR,0.0.0.0/8,no-resolve
 IP-CIDR,1.0.1.0/24,no-resolve
