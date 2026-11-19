@@ -593,7 +593,6 @@ DOMAIN-SUFFIX,aoc.com
 DOMAIN-SUFFIX,aocdisplays.com
 DOMAIN-SUFFIX,aoxox.com
 DOMAIN-SUFFIX,ap-leasing.com
-DOMAIN-SUFFIX,api.myip.com
 DOMAIN-SUFFIX,apm-log-upload-os.hoyoverse.com
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,appracle.com
@@ -762,8 +761,6 @@ DOMAIN-SUFFIX,chaxunjiao.com
 DOMAIN-SUFFIX,chaz.fun
 DOMAIN-SUFFIX,chdbits.co
 DOMAIN-SUFFIX,che168.com
-DOMAIN-SUFFIX,checkip.dyndns.org
-DOMAIN-SUFFIX,checkipv6.dyndns.org
 DOMAIN-SUFFIX,chengguodj.com
 DOMAIN-SUFFIX,chenyuxia.com
 DOMAIN-SUFFIX,cheriexsky.love
@@ -792,6 +789,7 @@ DOMAIN-SUFFIX,cinemageddon.net
 DOMAIN-SUFFIX,cinematik.net
 DOMAIN-SUFFIX,cinemaz.to
 DOMAIN-SUFFIX,ciyuancenter.cc
+DOMAIN-SUFFIX,claisly.com
 DOMAIN-SUFFIX,classix-unlimited.co.uk
 DOMAIN-SUFFIX,clickserve.dartsearch.net
 DOMAIN-SUFFIX,clivia.fun
@@ -1078,7 +1076,6 @@ DOMAIN-SUFFIX,github.boki.moe
 DOMAIN-SUFFIX,github.moeyy.xyz
 DOMAIN-SUFFIX,github.site
 DOMAIN-SUFFIX,github.store
-DOMAIN-SUFFIX,giveup.top
 DOMAIN-SUFFIX,gjjwgp3n.com
 DOMAIN-SUFFIX,gjtool.com
 DOMAIN-SUFFIX,gmoj.net
@@ -1285,7 +1282,6 @@ DOMAIN-SUFFIX,idsduf.com
 DOMAIN-SUFFIX,ieee.org
 DOMAIN-SUFFIX,iesdouyin.com
 DOMAIN-SUFFIX,ifawj9hvvl.com
-DOMAIN-SUFFIX,ifconfig.co
 DOMAIN-SUFFIX,ifeng.com
 DOMAIN-SUFFIX,ifengimg.com
 DOMAIN-SUFFIX,ifengmap.com
@@ -1317,8 +1313,6 @@ DOMAIN-SUFFIX,iot889.com
 DOMAIN-SUFFIX,iotrix.net
 DOMAIN-SUFFIX,ip.plus
 DOMAIN-SUFFIX,ip159.com
-DOMAIN-SUFFIX,ip6.seeip.org
-DOMAIN-SUFFIX,ipapi.co
 DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,ipjrh.com
 DOMAIN-SUFFIX,iposl.com
@@ -1396,6 +1390,7 @@ DOMAIN-SUFFIX,kamhing.net
 DOMAIN-SUFFIX,kancaibao.com
 DOMAIN-SUFFIX,kanimg.com
 DOMAIN-SUFFIX,kankan.com
+DOMAIN-SUFFIX,kanv7k.live
 DOMAIN-SUFFIX,kanxiquan.com
 DOMAIN-SUFFIX,kaola.com
 DOMAIN-SUFFIX,karagarga.in
@@ -1411,7 +1406,6 @@ DOMAIN-SUFFIX,kelexuexi.com
 DOMAIN-SUFFIX,keyoo.com
 DOMAIN-SUFFIX,kgithub.com
 DOMAIN-SUFFIX,kis.v2.scr.kaspersky-labs.com
-DOMAIN-SUFFIX,kit327.com
 DOMAIN-SUFFIX,kiwiot.com
 DOMAIN-SUFFIX,kke.com.hk
 DOMAIN-SUFFIX,kkmmy.com
@@ -2141,6 +2135,7 @@ DOMAIN-SUFFIX,vip.com
 DOMAIN-SUFFIX,vip666ai.com
 DOMAIN-SUFFIX,vipjiapu.com
 DOMAIN-SUFFIX,vipstatic.com
+DOMAIN-SUFFIX,visaselectrewardhk.com
 DOMAIN-SUFFIX,visionariopro.com
 DOMAIN-SUFFIX,vivo.com
 DOMAIN-SUFFIX,vlan5.com
@@ -2181,9 +2176,11 @@ DOMAIN-SUFFIX,wera.eu.org
 DOMAIN-SUFFIX,weshape3d.com
 DOMAIN-SUFFIX,wetolink.com
 DOMAIN-SUFFIX,wewillpro.com
+DOMAIN-SUFFIX,wget.la
 DOMAIN-SUFFIX,wifi.cmcc
 DOMAIN-SUFFIX,wildfirechat.net
 DOMAIN-SUFFIX,wiley.com
+DOMAIN-SUFFIX,wirefee.site
 DOMAIN-SUFFIX,wisecleaner.net
 DOMAIN-SUFFIX,wjx.top
 DOMAIN-SUFFIX,wlcdn88.com
@@ -2205,6 +2202,7 @@ DOMAIN-SUFFIX,www-googletagmanager.l.google.com
 DOMAIN-SUFFIX,wwwh.eu.org
 DOMAIN-SUFFIX,wwwwqq.com
 DOMAIN-SUFFIX,wxdw.top
+DOMAIN-SUFFIX,wyswgb.com
 DOMAIN-SUFFIX,x-gpu.com
 DOMAIN-SUFFIX,x86pi.com
 DOMAIN-SUFFIX,xaippc.com
@@ -2301,6 +2299,7 @@ DOMAIN-SUFFIX,ydayc.com
 DOMAIN-SUFFIX,ydstatic.com
 DOMAIN-SUFFIX,yeepay.com
 DOMAIN-SUFFIX,yeguodj.com
+DOMAIN-SUFFIX,ygdj17.com
 DOMAIN-SUFFIX,yhd.com
 DOMAIN-SUFFIX,yhxjkj.top
 DOMAIN-SUFFIX,yi-ll.com
@@ -2398,9 +2397,11 @@ DOMAIN-SUFFIX,zmz2019.com
 DOMAIN-SUFFIX,zmzapi.com
 DOMAIN-SUFFIX,zmzapi.net
 DOMAIN-SUFFIX,zmzfile.com
+DOMAIN-SUFFIX,znigddzwz.cc
 DOMAIN-SUFFIX,znnu.com
 DOMAIN-SUFFIX,znztv.com
 DOMAIN-SUFFIX,zqin758.xyz
+DOMAIN-SUFFIX,zsdc.eu.org
 DOMAIN-SUFFIX,zsytit.com
 DOMAIN-SUFFIX,zte.home
 DOMAIN-SUFFIX,ztytech.com
